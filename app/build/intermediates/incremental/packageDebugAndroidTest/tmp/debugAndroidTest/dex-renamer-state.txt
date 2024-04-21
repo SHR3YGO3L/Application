@@ -1,0 +1,4 @@
+#Mon Apr 22 00:03:55 IST 2024
+base.0=E\:\\KidSafe-1.1\\Application\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeDexDebugAndroidTest\\out
+path.0=classes.dex
+renamed.0=classes.dex
