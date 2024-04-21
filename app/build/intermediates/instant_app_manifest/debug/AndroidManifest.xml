@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.mansourappdevelopment.androidapp.kidsafe"
+    package="com.parentctrl.androidapp.childtrack"
     android:targetSandboxVersion="2"
     android:versionCode="1"
     android:versionName="1.0" >
@@ -53,7 +53,7 @@
     <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
 
     <application
-        android:name="com.mansourappdevelopment.androidapp.kidsafe.NotificationChannelCreator"
+        android:name="com.parentctrl.androidapp.childtrack.NotificationChannelCreator"
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
@@ -62,21 +62,21 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme.NoActionBar" >
-        <activity android:name="com.mansourappdevelopment.androidapp.kidsafe.activities.AboutActivity" />
-        <activity android:name="com.mansourappdevelopment.androidapp.kidsafe.activities.SettingsActivity" />
-        <activity android:name="com.mansourappdevelopment.androidapp.kidsafe.activities.AccountVerificationActivity" />
-        <activity android:name="com.mansourappdevelopment.androidapp.kidsafe.activities.ModeSelectionActivity" />
-        <activity android:name="com.mansourappdevelopment.androidapp.kidsafe.activities.PermissionsActivity" />
-        <activity android:name="com.mansourappdevelopment.androidapp.kidsafe.activities.BlockedAppActivity" />
+        <activity android:name="com.parentctrl.androidapp.childtrack.activities.AboutActivity" />
+        <activity android:name="com.parentctrl.androidapp.childtrack.activities.SettingsActivity" />
+        <activity android:name="com.parentctrl.androidapp.childtrack.activities.AccountVerificationActivity" />
+        <activity android:name="com.parentctrl.androidapp.childtrack.activities.ModeSelectionActivity" />
+        <activity android:name="com.parentctrl.androidapp.childtrack.activities.PermissionsActivity" />
+        <activity android:name="com.parentctrl.androidapp.childtrack.activities.BlockedAppActivity" />
         <activity
-            android:name="com.mansourappdevelopment.androidapp.kidsafe.activities.ChildDetailsActivity"
-            android:parentActivityName="com.mansourappdevelopment.androidapp.kidsafe.activities.ParentSignedInActivity" />
-        <activity android:name="com.mansourappdevelopment.androidapp.kidsafe.activities.ChildSignedInActivity" />
-        <activity android:name="com.mansourappdevelopment.androidapp.kidsafe.activities.ParentSignedInActivity" />
+            android:name="com.parentctrl.androidapp.childtrack.activities.ChildDetailsActivity"
+            android:parentActivityName="com.parentctrl.androidapp.childtrack.activities.ParentSignedInActivity" />
+        <activity android:name="com.parentctrl.androidapp.childtrack.activities.ChildSignedInActivity" />
+        <activity android:name="com.parentctrl.androidapp.childtrack.activities.ParentSignedInActivity" />
         <activity
-            android:name="com.mansourappdevelopment.androidapp.kidsafe.activities.SignUpActivity"
-            android:parentActivityName="com.mansourappdevelopment.androidapp.kidsafe.activities.LoginActivity" />
-        <activity android:name="com.mansourappdevelopment.androidapp.kidsafe.activities.LoginActivity" >
+            android:name="com.parentctrl.androidapp.childtrack.activities.SignUpActivity"
+            android:parentActivityName="com.parentctrl.androidapp.childtrack.activities.LoginActivity" />
+        <activity android:name="com.parentctrl.androidapp.childtrack.activities.LoginActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -85,12 +85,12 @@
         </activity>
 
         <service
-            android:name="com.mansourappdevelopment.androidapp.kidsafe.services.UploadAppsService"
+            android:name="com.parentctrl.androidapp.childtrack.services.UploadAppsService"
             android:permission="android.permission.BIND_JOB_SERVICE" />
-        <service android:name="com.mansourappdevelopment.androidapp.kidsafe.services.MainForegroundService" />
-        <service android:name="com.mansourappdevelopment.androidapp.kidsafe.services.GeoFencingForegroundService" />
+        <service android:name="com.parentctrl.androidapp.childtrack.services.MainForegroundService" />
+        <service android:name="com.parentctrl.androidapp.childtrack.services.GeoFencingForegroundService" />
 
-        <receiver android:name="com.mansourappdevelopment.androidapp.kidsafe.broadcasts.BootCompleteReceiver" >
+        <receiver android:name="com.parentctrl.androidapp.childtrack.broadcasts.BootCompleteReceiver" >
             <intent-filter>
                 <action android:name="android.intent.action.BOOT_COMPLETED" />
 
@@ -98,7 +98,7 @@
             </intent-filter>
         </receiver>
         <receiver
-            android:name="com.mansourappdevelopment.androidapp.kidsafe.broadcasts.AdminReceiver"
+            android:name="com.parentctrl.androidapp.childtrack.broadcasts.AdminReceiver"
             android:description="@string/device_admin_description"
             android:label="@string/device_admin"
             android:permission="android.permission.BIND_DEVICE_ADMIN" >
@@ -141,7 +141,7 @@
 
         <provider
             android:name="com.squareup.picasso.PicassoProvider"
-            android:authorities="com.mansourappdevelopment.androidapp.kidsafe.com.squareup.picasso"
+            android:authorities="com.parentctrl.androidapp.childtrack.com.squareup.picasso"
             android:exported="false" />
 
         <activity
@@ -174,7 +174,7 @@
 
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
-            android:authorities="com.mansourappdevelopment.androidapp.kidsafe.firebaseinitprovider"
+            android:authorities="com.parentctrl.androidapp.childtrack.firebaseinitprovider"
             android:exported="false"
             android:initOrder="100" />
 

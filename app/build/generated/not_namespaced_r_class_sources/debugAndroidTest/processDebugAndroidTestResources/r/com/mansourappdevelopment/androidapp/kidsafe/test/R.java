@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.mansourappdevelopment.androidapp.kidsafe.test;
+package com.parentctrl.androidapp.childtrack.test;
 
 public final class R {
 }

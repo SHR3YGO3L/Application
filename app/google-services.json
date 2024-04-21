@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:487946012349:android:d11fafe4263b5800",
         "android_client_info": {
-          "package_name": "com.mansourappdevelopment.androidapp.kidsafe"
+          "package_name": "com.parentctrl.androidapp.childtrack"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "487946012349-jl6qltcr9jv44rmdrlh1l0dhfqkjvfgj.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.mansourappdevelopment.androidapp.kidsafe",
+            "package_name": "com.parentctrl.androidapp.childtrack",
             "certificate_hash": "54852af4dabff4d6c92c98c3c866c6d5d0ce3724"
           }
         },

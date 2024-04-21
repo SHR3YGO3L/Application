@@ -239,51 +239,51 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\SH
 		ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:36:9-52
 	android:name
 		ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:30:9-51
-activity#com.mansourappdevelopment.androidapp.kidsafe.activities.AboutActivity
+activity#com.parentctrl.androidapp.childtrack.activities.AboutActivity
 ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:37:9-61
 	android:name
 		ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:37:19-59
-activity#com.mansourappdevelopment.androidapp.kidsafe.activities.SettingsActivity
+activity#com.parentctrl.androidapp.childtrack.activities.SettingsActivity
 ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:38:9-65
 	android:name
 		ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:38:19-62
-activity#com.mansourappdevelopment.androidapp.kidsafe.activities.AccountVerificationActivity
+activity#com.parentctrl.androidapp.childtrack.activities.AccountVerificationActivity
 ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:39:9-76
 	android:name
 		ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:39:19-73
-activity#com.mansourappdevelopment.androidapp.kidsafe.activities.ModeSelectionActivity
+activity#com.parentctrl.androidapp.childtrack.activities.ModeSelectionActivity
 ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:40:9-70
 	android:name
 		ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:40:19-67
-activity#com.mansourappdevelopment.androidapp.kidsafe.activities.PermissionsActivity
+activity#com.parentctrl.androidapp.childtrack.activities.PermissionsActivity
 ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:41:9-68
 	android:name
 		ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:41:19-65
-activity#com.mansourappdevelopment.androidapp.kidsafe.activities.BlockedAppActivity
+activity#com.parentctrl.androidapp.childtrack.activities.BlockedAppActivity
 ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:42:9-67
 	android:name
 		ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:42:19-64
-activity#com.mansourappdevelopment.androidapp.kidsafe.activities.ChildDetailsActivity
+activity#com.parentctrl.androidapp.childtrack.activities.ChildDetailsActivity
 ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:43:9-45:79
 	android:parentActivityName
 		ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:45:13-76
 	android:name
 		ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:44:13-60
-activity#com.mansourappdevelopment.androidapp.kidsafe.activities.ChildSignedInActivity
+activity#com.parentctrl.androidapp.childtrack.activities.ChildSignedInActivity
 ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:46:9-70
 	android:name
 		ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:46:19-67
-activity#com.mansourappdevelopment.androidapp.kidsafe.activities.ParentSignedInActivity
+activity#com.parentctrl.androidapp.childtrack.activities.ParentSignedInActivity
 ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:47:9-71
 	android:name
 		ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:47:19-68
-activity#com.mansourappdevelopment.androidapp.kidsafe.activities.SignUpActivity
+activity#com.parentctrl.androidapp.childtrack.activities.SignUpActivity
 ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:48:9-50:70
 	android:parentActivityName
 		ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:50:13-67
 	android:name
 		ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:49:13-54
-activity#com.mansourappdevelopment.androidapp.kidsafe.activities.LoginActivity
+activity#com.parentctrl.androidapp.childtrack.activities.LoginActivity
 ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:51:9-57:20
 	android:name
 		ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:51:19-59
@@ -297,21 +297,21 @@ category#android.intent.category.LAUNCHER
 ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:55:17-77
 	android:name
 		ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:55:27-74
-service#com.mansourappdevelopment.androidapp.kidsafe.services.UploadAppsService
+service#com.parentctrl.androidapp.childtrack.services.UploadAppsService
 ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:59:9-61:72
 	android:permission
 		ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:61:13-69
 	android:name
 		ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:60:13-55
-service#com.mansourappdevelopment.androidapp.kidsafe.services.MainForegroundService
+service#com.parentctrl.androidapp.childtrack.services.MainForegroundService
 ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:62:9-67
 	android:name
 		ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:62:18-64
-service#com.mansourappdevelopment.androidapp.kidsafe.services.GeoFencingForegroundService
+service#com.parentctrl.androidapp.childtrack.services.GeoFencingForegroundService
 ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:63:9-73
 	android:name
 		ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:63:18-70
-receiver#com.mansourappdevelopment.androidapp.kidsafe.broadcasts.BootCompleteReceiver
+receiver#com.parentctrl.androidapp.childtrack.broadcasts.BootCompleteReceiver
 ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:65:9-71:20
 	android:name
 		ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:65:19-66
@@ -325,7 +325,7 @@ category#android.intent.category.DEFAULT
 ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:69:17-76
 	android:name
 		ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:69:27-73
-receiver#com.mansourappdevelopment.androidapp.kidsafe.broadcasts.AdminReceiver
+receiver#com.parentctrl.androidapp.childtrack.broadcasts.AdminReceiver
 ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:72:9-84:20
 	android:label
 		ADDED from E:\KidSafe-1.1\Application\app\src\main\AndroidManifest.xml:75:13-49

@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.mansourappdevelopment.androidapp.kidsafe;
+package com.parentctrl.androidapp.childtrack;
 
 public final class R {
   public static final class anim {
@@ -6096,39 +6096,39 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionBar_background com.mansourappdevelopment.androidapp.kidsafe:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundSplit com.mansourappdevelopment.androidapp.kidsafe:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundStacked com.mansourappdevelopment.androidapp.kidsafe:backgroundStacked}</code></td><td>Specifies a background drawable for a second stacked row of the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.mansourappdevelopment.androidapp.kidsafe:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.mansourappdevelopment.androidapp.kidsafe:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
+     * <tr><td><code>{@link #ActionBar_background com.parentctrl.androidapp.childtrack:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundSplit com.parentctrl.androidapp.childtrack:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundStacked com.parentctrl.androidapp.childtrack:backgroundStacked}</code></td><td>Specifies a background drawable for a second stacked row of the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.parentctrl.androidapp.childtrack:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.parentctrl.androidapp.childtrack:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
      * are present.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.mansourappdevelopment.androidapp.kidsafe:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetRight com.mansourappdevelopment.androidapp.kidsafe:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStart com.mansourappdevelopment.androidapp.kidsafe:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.mansourappdevelopment.androidapp.kidsafe:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
+     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.parentctrl.androidapp.childtrack:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetRight com.parentctrl.androidapp.childtrack:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStart com.parentctrl.androidapp.childtrack:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.parentctrl.androidapp.childtrack:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
      * is present, such as the Up button.</td></tr>
-     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.mansourappdevelopment.androidapp.kidsafe:customNavigationLayout}</code></td><td>Specifies a layout for custom navigation.</td></tr>
-     * <tr><td><code>{@link #ActionBar_displayOptions com.mansourappdevelopment.androidapp.kidsafe:displayOptions}</code></td><td>Options affecting how the action bar is displayed.</td></tr>
-     * <tr><td><code>{@link #ActionBar_divider com.mansourappdevelopment.androidapp.kidsafe:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
-     * <tr><td><code>{@link #ActionBar_elevation com.mansourappdevelopment.androidapp.kidsafe:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #ActionBar_height com.mansourappdevelopment.androidapp.kidsafe:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.mansourappdevelopment.androidapp.kidsafe:hideOnContentScroll}</code></td><td>Set true to hide the action bar on a vertical nested scroll of content.</td></tr>
-     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.mansourappdevelopment.androidapp.kidsafe:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
-     * <tr><td><code>{@link #ActionBar_homeLayout com.mansourappdevelopment.androidapp.kidsafe:homeLayout}</code></td><td>Specifies a layout to use for the "home" section of the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_icon com.mansourappdevelopment.androidapp.kidsafe:icon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.mansourappdevelopment.androidapp.kidsafe:indeterminateProgressStyle}</code></td><td>Specifies a style resource to use for an indeterminate progress spinner.</td></tr>
-     * <tr><td><code>{@link #ActionBar_itemPadding com.mansourappdevelopment.androidapp.kidsafe:itemPadding}</code></td><td>Specifies padding that should be applied to the left and right sides of
+     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.parentctrl.androidapp.childtrack:customNavigationLayout}</code></td><td>Specifies a layout for custom navigation.</td></tr>
+     * <tr><td><code>{@link #ActionBar_displayOptions com.parentctrl.androidapp.childtrack:displayOptions}</code></td><td>Options affecting how the action bar is displayed.</td></tr>
+     * <tr><td><code>{@link #ActionBar_divider com.parentctrl.androidapp.childtrack:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
+     * <tr><td><code>{@link #ActionBar_elevation com.parentctrl.androidapp.childtrack:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #ActionBar_height com.parentctrl.androidapp.childtrack:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.parentctrl.androidapp.childtrack:hideOnContentScroll}</code></td><td>Set true to hide the action bar on a vertical nested scroll of content.</td></tr>
+     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.parentctrl.androidapp.childtrack:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
+     * <tr><td><code>{@link #ActionBar_homeLayout com.parentctrl.androidapp.childtrack:homeLayout}</code></td><td>Specifies a layout to use for the "home" section of the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_icon com.parentctrl.androidapp.childtrack:icon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.parentctrl.androidapp.childtrack:indeterminateProgressStyle}</code></td><td>Specifies a style resource to use for an indeterminate progress spinner.</td></tr>
+     * <tr><td><code>{@link #ActionBar_itemPadding com.parentctrl.androidapp.childtrack:itemPadding}</code></td><td>Specifies padding that should be applied to the left and right sides of
      * system-provided items in the bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_logo com.mansourappdevelopment.androidapp.kidsafe:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
-     * <tr><td><code>{@link #ActionBar_navigationMode com.mansourappdevelopment.androidapp.kidsafe:navigationMode}</code></td><td>The type of navigation to use.</td></tr>
-     * <tr><td><code>{@link #ActionBar_popupTheme com.mansourappdevelopment.androidapp.kidsafe:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #ActionBar_logo com.parentctrl.androidapp.childtrack:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
+     * <tr><td><code>{@link #ActionBar_navigationMode com.parentctrl.androidapp.childtrack:navigationMode}</code></td><td>The type of navigation to use.</td></tr>
+     * <tr><td><code>{@link #ActionBar_popupTheme com.parentctrl.androidapp.childtrack:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarPadding com.mansourappdevelopment.androidapp.kidsafe:progressBarPadding}</code></td><td>Specifies the horizontal padding on either end for an embedded progress bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarStyle com.mansourappdevelopment.androidapp.kidsafe:progressBarStyle}</code></td><td>Specifies a style resource to use for an embedded progress bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitle com.mansourappdevelopment.androidapp.kidsafe:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.mansourappdevelopment.androidapp.kidsafe:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
-     * <tr><td><code>{@link #ActionBar_title com.mansourappdevelopment.androidapp.kidsafe:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_titleTextStyle com.mansourappdevelopment.androidapp.kidsafe:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarPadding com.parentctrl.androidapp.childtrack:progressBarPadding}</code></td><td>Specifies the horizontal padding on either end for an embedded progress bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarStyle com.parentctrl.androidapp.childtrack:progressBarStyle}</code></td><td>Specifies a style resource to use for an embedded progress bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitle com.parentctrl.androidapp.childtrack:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.parentctrl.androidapp.childtrack:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
+     * <tr><td><code>{@link #ActionBar_title com.parentctrl.androidapp.childtrack:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_titleTextStyle com.parentctrl.androidapp.childtrack:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
      * </table>
      * @see #ActionBar_background
      * @see #ActionBar_backgroundSplit
@@ -6180,7 +6180,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:background
+     * @attr name com.parentctrl.androidapp.childtrack:background
      */
     public static final int ActionBar_background=0;
     /**
@@ -6196,7 +6196,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:backgroundSplit
+     * @attr name com.parentctrl.androidapp.childtrack:backgroundSplit
      */
     public static final int ActionBar_backgroundSplit=1;
     /**
@@ -6212,7 +6212,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:backgroundStacked
+     * @attr name com.parentctrl.androidapp.childtrack:backgroundStacked
      */
     public static final int ActionBar_backgroundStacked=2;
     /**
@@ -6227,7 +6227,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:contentInsetEnd
+     * @attr name com.parentctrl.androidapp.childtrack:contentInsetEnd
      */
     public static final int ActionBar_contentInsetEnd=3;
     /**
@@ -6242,7 +6242,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:contentInsetEndWithActions
+     * @attr name com.parentctrl.androidapp.childtrack:contentInsetEndWithActions
      */
     public static final int ActionBar_contentInsetEndWithActions=4;
     /**
@@ -6257,7 +6257,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:contentInsetLeft
+     * @attr name com.parentctrl.androidapp.childtrack:contentInsetLeft
      */
     public static final int ActionBar_contentInsetLeft=5;
     /**
@@ -6272,7 +6272,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:contentInsetRight
+     * @attr name com.parentctrl.androidapp.childtrack:contentInsetRight
      */
     public static final int ActionBar_contentInsetRight=6;
     /**
@@ -6287,7 +6287,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:contentInsetStart
+     * @attr name com.parentctrl.androidapp.childtrack:contentInsetStart
      */
     public static final int ActionBar_contentInsetStart=7;
     /**
@@ -6302,7 +6302,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:contentInsetStartWithNavigation
+     * @attr name com.parentctrl.androidapp.childtrack:contentInsetStartWithNavigation
      */
     public static final int ActionBar_contentInsetStartWithNavigation=8;
     /**
@@ -6315,7 +6315,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:customNavigationLayout
+     * @attr name com.parentctrl.androidapp.childtrack:customNavigationLayout
      */
     public static final int ActionBar_customNavigationLayout=9;
     /**
@@ -6338,7 +6338,7 @@ public final class R {
      * <tr><td>useLogo</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:displayOptions
+     * @attr name com.parentctrl.androidapp.childtrack:displayOptions
      */
     public static final int ActionBar_displayOptions=10;
     /**
@@ -6351,7 +6351,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:divider
+     * @attr name com.parentctrl.androidapp.childtrack:divider
      */
     public static final int ActionBar_divider=11;
     /**
@@ -6365,7 +6365,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:elevation
+     * @attr name com.parentctrl.androidapp.childtrack:elevation
      */
     public static final int ActionBar_elevation=12;
     /**
@@ -6379,7 +6379,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:height
+     * @attr name com.parentctrl.androidapp.childtrack:height
      */
     public static final int ActionBar_height=13;
     /**
@@ -6390,7 +6390,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:hideOnContentScroll
+     * @attr name com.parentctrl.androidapp.childtrack:hideOnContentScroll
      */
     public static final int ActionBar_hideOnContentScroll=14;
     /**
@@ -6403,7 +6403,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:homeAsUpIndicator
+     * @attr name com.parentctrl.androidapp.childtrack:homeAsUpIndicator
      */
     public static final int ActionBar_homeAsUpIndicator=15;
     /**
@@ -6416,7 +6416,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:homeLayout
+     * @attr name com.parentctrl.androidapp.childtrack:homeLayout
      */
     public static final int ActionBar_homeLayout=16;
     /**
@@ -6429,7 +6429,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:icon
+     * @attr name com.parentctrl.androidapp.childtrack:icon
      */
     public static final int ActionBar_icon=17;
     /**
@@ -6442,7 +6442,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:indeterminateProgressStyle
+     * @attr name com.parentctrl.androidapp.childtrack:indeterminateProgressStyle
      */
     public static final int ActionBar_indeterminateProgressStyle=18;
     /**
@@ -6457,7 +6457,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:itemPadding
+     * @attr name com.parentctrl.androidapp.childtrack:itemPadding
      */
     public static final int ActionBar_itemPadding=19;
     /**
@@ -6470,7 +6470,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:logo
+     * @attr name com.parentctrl.androidapp.childtrack:logo
      */
     public static final int ActionBar_logo=20;
     /**
@@ -6489,7 +6489,7 @@ public final class R {
      * <tr><td>tabMode</td><td>2</td><td>The action bar will use a series of horizontal tabs for navigation.</td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:navigationMode
+     * @attr name com.parentctrl.androidapp.childtrack:navigationMode
      */
     public static final int ActionBar_navigationMode=21;
     /**
@@ -6503,7 +6503,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:popupTheme
+     * @attr name com.parentctrl.androidapp.childtrack:popupTheme
      */
     public static final int ActionBar_popupTheme=22;
     /**
@@ -6517,7 +6517,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:progressBarPadding
+     * @attr name com.parentctrl.androidapp.childtrack:progressBarPadding
      */
     public static final int ActionBar_progressBarPadding=23;
     /**
@@ -6530,7 +6530,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:progressBarStyle
+     * @attr name com.parentctrl.androidapp.childtrack:progressBarStyle
      */
     public static final int ActionBar_progressBarStyle=24;
     /**
@@ -6541,7 +6541,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:subtitle
+     * @attr name com.parentctrl.androidapp.childtrack:subtitle
      */
     public static final int ActionBar_subtitle=25;
     /**
@@ -6554,7 +6554,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:subtitleTextStyle
+     * @attr name com.parentctrl.androidapp.childtrack:subtitleTextStyle
      */
     public static final int ActionBar_subtitleTextStyle=26;
     /**
@@ -6565,7 +6565,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:title
+     * @attr name com.parentctrl.androidapp.childtrack:title
      */
     public static final int ActionBar_title=27;
     /**
@@ -6578,7 +6578,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:titleTextStyle
+     * @attr name com.parentctrl.androidapp.childtrack:titleTextStyle
      */
     public static final int ActionBar_titleTextStyle=28;
     /**
@@ -6660,12 +6660,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionMode_background com.mansourappdevelopment.androidapp.kidsafe:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionMode_backgroundSplit com.mansourappdevelopment.androidapp.kidsafe:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
-     * <tr><td><code>{@link #ActionMode_closeItemLayout com.mansourappdevelopment.androidapp.kidsafe:closeItemLayout}</code></td><td>Specifies a layout to use for the "close" item at the starting edge.</td></tr>
-     * <tr><td><code>{@link #ActionMode_height com.mansourappdevelopment.androidapp.kidsafe:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.mansourappdevelopment.androidapp.kidsafe:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
-     * <tr><td><code>{@link #ActionMode_titleTextStyle com.mansourappdevelopment.androidapp.kidsafe:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
+     * <tr><td><code>{@link #ActionMode_background com.parentctrl.androidapp.childtrack:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionMode_backgroundSplit com.parentctrl.androidapp.childtrack:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
+     * <tr><td><code>{@link #ActionMode_closeItemLayout com.parentctrl.androidapp.childtrack:closeItemLayout}</code></td><td>Specifies a layout to use for the "close" item at the starting edge.</td></tr>
+     * <tr><td><code>{@link #ActionMode_height com.parentctrl.androidapp.childtrack:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.parentctrl.androidapp.childtrack:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
+     * <tr><td><code>{@link #ActionMode_titleTextStyle com.parentctrl.androidapp.childtrack:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
      * </table>
      * @see #ActionMode_background
      * @see #ActionMode_backgroundSplit
@@ -6688,7 +6688,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:background
+     * @attr name com.parentctrl.androidapp.childtrack:background
      */
     public static final int ActionMode_background=0;
     /**
@@ -6704,7 +6704,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:backgroundSplit
+     * @attr name com.parentctrl.androidapp.childtrack:backgroundSplit
      */
     public static final int ActionMode_backgroundSplit=1;
     /**
@@ -6717,7 +6717,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:closeItemLayout
+     * @attr name com.parentctrl.androidapp.childtrack:closeItemLayout
      */
     public static final int ActionMode_closeItemLayout=2;
     /**
@@ -6731,7 +6731,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:height
+     * @attr name com.parentctrl.androidapp.childtrack:height
      */
     public static final int ActionMode_height=3;
     /**
@@ -6744,7 +6744,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:subtitleTextStyle
+     * @attr name com.parentctrl.androidapp.childtrack:subtitleTextStyle
      */
     public static final int ActionMode_subtitleTextStyle=4;
     /**
@@ -6757,7 +6757,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:titleTextStyle
+     * @attr name com.parentctrl.androidapp.childtrack:titleTextStyle
      */
     public static final int ActionMode_titleTextStyle=5;
     /**
@@ -6767,8 +6767,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.mansourappdevelopment.androidapp.kidsafe:expandActivityOverflowButtonDrawable}</code></td><td>The drawable to show in the button for expanding the activities overflow popup.</td></tr>
-     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.mansourappdevelopment.androidapp.kidsafe:initialActivityCount}</code></td><td>The maximal number of items initially shown in the activity list.</td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.parentctrl.androidapp.childtrack:expandActivityOverflowButtonDrawable}</code></td><td>The drawable to show in the button for expanding the activities overflow popup.</td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.parentctrl.androidapp.childtrack:initialActivityCount}</code></td><td>The maximal number of items initially shown in the activity list.</td></tr>
      * </table>
      * @see #ActivityChooserView_expandActivityOverflowButtonDrawable
      * @see #ActivityChooserView_initialActivityCount
@@ -6790,7 +6790,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:expandActivityOverflowButtonDrawable
+     * @attr name com.parentctrl.androidapp.childtrack:expandActivityOverflowButtonDrawable
      */
     public static final int ActivityChooserView_expandActivityOverflowButtonDrawable=0;
     /**
@@ -6801,7 +6801,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:initialActivityCount
+     * @attr name com.parentctrl.androidapp.childtrack:initialActivityCount
      */
     public static final int ActivityChooserView_initialActivityCount=1;
     /**
@@ -6812,13 +6812,13 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.mansourappdevelopment.androidapp.kidsafe:buttonIconDimen}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.mansourappdevelopment.androidapp.kidsafe:buttonPanelSideLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listItemLayout com.mansourappdevelopment.androidapp.kidsafe:listItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listLayout com.mansourappdevelopment.androidapp.kidsafe:listLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.mansourappdevelopment.androidapp.kidsafe:multiChoiceItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_showTitle com.mansourappdevelopment.androidapp.kidsafe:showTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.mansourappdevelopment.androidapp.kidsafe:singleChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.parentctrl.androidapp.childtrack:buttonIconDimen}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.parentctrl.androidapp.childtrack:buttonPanelSideLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listItemLayout com.parentctrl.androidapp.childtrack:listItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listLayout com.parentctrl.androidapp.childtrack:listLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.parentctrl.androidapp.childtrack:multiChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_showTitle com.parentctrl.androidapp.childtrack:showTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.parentctrl.androidapp.childtrack:singleChoiceItemLayout}</code></td><td></td></tr>
      * </table>
      * @see #AlertDialog_android_layout
      * @see #AlertDialog_buttonIconDimen
@@ -6846,7 +6846,7 @@ public final class R {
      */
     public static final int AlertDialog_android_layout=0;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#buttonIconDimen}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#buttonIconDimen}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6855,11 +6855,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:buttonIconDimen
+     * @attr name com.parentctrl.androidapp.childtrack:buttonIconDimen
      */
     public static final int AlertDialog_buttonIconDimen=1;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#buttonPanelSideLayout}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#buttonPanelSideLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6867,11 +6867,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:buttonPanelSideLayout
+     * @attr name com.parentctrl.androidapp.childtrack:buttonPanelSideLayout
      */
     public static final int AlertDialog_buttonPanelSideLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#listItemLayout}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#listItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6879,11 +6879,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:listItemLayout
+     * @attr name com.parentctrl.androidapp.childtrack:listItemLayout
      */
     public static final int AlertDialog_listItemLayout=3;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#listLayout}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#listLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6891,11 +6891,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:listLayout
+     * @attr name com.parentctrl.androidapp.childtrack:listLayout
      */
     public static final int AlertDialog_listLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#multiChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#multiChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6903,21 +6903,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:multiChoiceItemLayout
+     * @attr name com.parentctrl.androidapp.childtrack:multiChoiceItemLayout
      */
     public static final int AlertDialog_multiChoiceItemLayout=5;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#showTitle}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#showTitle}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:showTitle
+     * @attr name com.parentctrl.androidapp.childtrack:showTitle
      */
     public static final int AlertDialog_showTitle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#singleChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#singleChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6925,7 +6925,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:singleChoiceItemLayout
+     * @attr name com.parentctrl.androidapp.childtrack:singleChoiceItemLayout
      */
     public static final int AlertDialog_singleChoiceItemLayout=7;
     /**
@@ -7151,9 +7151,9 @@ public final class R {
      * <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppBarLayout_android_touchscreenBlocksFocus android:touchscreenBlocksFocus}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppBarLayout_android_keyboardNavigationCluster android:keyboardNavigationCluster}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_elevation com.mansourappdevelopment.androidapp.kidsafe:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #AppBarLayout_expanded com.mansourappdevelopment.androidapp.kidsafe:expanded}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_liftOnScroll com.mansourappdevelopment.androidapp.kidsafe:liftOnScroll}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_elevation com.parentctrl.androidapp.childtrack:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #AppBarLayout_expanded com.parentctrl.androidapp.childtrack:expanded}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_liftOnScroll com.parentctrl.androidapp.childtrack:liftOnScroll}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayout_android_background
      * @see #AppBarLayout_android_touchscreenBlocksFocus
@@ -7212,27 +7212,27 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:elevation
+     * @attr name com.parentctrl.androidapp.childtrack:elevation
      */
     public static final int AppBarLayout_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#expanded}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#expanded}
      * attribute's value can be found in the {@link #AppBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:expanded
+     * @attr name com.parentctrl.androidapp.childtrack:expanded
      */
     public static final int AppBarLayout_expanded=4;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#liftOnScroll}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#liftOnScroll}
      * attribute's value can be found in the {@link #AppBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:liftOnScroll
+     * @attr name com.parentctrl.androidapp.childtrack:liftOnScroll
      */
     public static final int AppBarLayout_liftOnScroll=5;
     /**
@@ -7242,10 +7242,10 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.mansourappdevelopment.androidapp.kidsafe:state_collapsed}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.mansourappdevelopment.androidapp.kidsafe:state_collapsible}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_liftable com.mansourappdevelopment.androidapp.kidsafe:state_liftable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_lifted com.mansourappdevelopment.androidapp.kidsafe:state_lifted}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.parentctrl.androidapp.childtrack:state_collapsed}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.parentctrl.androidapp.childtrack:state_collapsible}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_liftable com.parentctrl.androidapp.childtrack:state_liftable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_lifted com.parentctrl.androidapp.childtrack:state_lifted}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayoutStates_state_collapsed
      * @see #AppBarLayoutStates_state_collapsible
@@ -7256,43 +7256,43 @@ public final class R {
       0x7f040173, 0x7f040174, 0x7f040175, 0x7f040176
     };
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#state_collapsed}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#state_collapsed}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:state_collapsed
+     * @attr name com.parentctrl.androidapp.childtrack:state_collapsed
      */
     public static final int AppBarLayoutStates_state_collapsed=0;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#state_collapsible}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#state_collapsible}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:state_collapsible
+     * @attr name com.parentctrl.androidapp.childtrack:state_collapsible
      */
     public static final int AppBarLayoutStates_state_collapsible=1;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#state_liftable}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#state_liftable}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:state_liftable
+     * @attr name com.parentctrl.androidapp.childtrack:state_liftable
      */
     public static final int AppBarLayoutStates_state_liftable=2;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#state_lifted}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#state_lifted}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:state_lifted
+     * @attr name com.parentctrl.androidapp.childtrack:state_lifted
      */
     public static final int AppBarLayoutStates_state_lifted=3;
     /**
@@ -7302,8 +7302,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.mansourappdevelopment.androidapp.kidsafe:layout_scrollFlags}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.mansourappdevelopment.androidapp.kidsafe:layout_scrollInterpolator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.parentctrl.androidapp.childtrack:layout_scrollFlags}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.parentctrl.androidapp.childtrack:layout_scrollInterpolator}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayout_Layout_layout_scrollFlags
      * @see #AppBarLayout_Layout_layout_scrollInterpolator
@@ -7312,7 +7312,7 @@ public final class R {
       0x7f04011c, 0x7f04011d
     };
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#layout_scrollFlags}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#layout_scrollFlags}
      * attribute's value can be found in the {@link #AppBarLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -7329,11 +7329,11 @@ public final class R {
      * <tr><td>snapMargins</td><td>20</td><td></td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:layout_scrollFlags
+     * @attr name com.parentctrl.androidapp.childtrack:layout_scrollFlags
      */
     public static final int AppBarLayout_Layout_layout_scrollFlags=0;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#layout_scrollInterpolator}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#layout_scrollInterpolator}
      * attribute's value can be found in the {@link #AppBarLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7341,7 +7341,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:layout_scrollInterpolator
+     * @attr name com.parentctrl.androidapp.childtrack:layout_scrollInterpolator
      */
     public static final int AppBarLayout_Layout_layout_scrollInterpolator=1;
     /**
@@ -7352,9 +7352,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.mansourappdevelopment.androidapp.kidsafe:srcCompat}</code></td><td>Sets a drawable as the content of this ImageView.</td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tint com.mansourappdevelopment.androidapp.kidsafe:tint}</code></td><td>Tint to apply to the image source.</td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tintMode com.mansourappdevelopment.androidapp.kidsafe:tintMode}</code></td><td>Blending mode used to apply the image source tint.</td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.parentctrl.androidapp.childtrack:srcCompat}</code></td><td>Sets a drawable as the content of this ImageView.</td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tint com.parentctrl.androidapp.childtrack:tint}</code></td><td>Tint to apply to the image source.</td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tintMode com.parentctrl.androidapp.childtrack:tintMode}</code></td><td>Blending mode used to apply the image source tint.</td></tr>
      * </table>
      * @see #AppCompatImageView_android_src
      * @see #AppCompatImageView_srcCompat
@@ -7390,7 +7390,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:srcCompat
+     * @attr name com.parentctrl.androidapp.childtrack:srcCompat
      */
     public static final int AppCompatImageView_srcCompat=1;
     /**
@@ -7402,7 +7402,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:tint
+     * @attr name com.parentctrl.androidapp.childtrack:tint
      */
     public static final int AppCompatImageView_tint=2;
     /**
@@ -7429,7 +7429,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:tintMode
+     * @attr name com.parentctrl.androidapp.childtrack:tintMode
      */
     public static final int AppCompatImageView_tintMode=3;
     /**
@@ -7440,9 +7440,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.mansourappdevelopment.androidapp.kidsafe:tickMark}</code></td><td>Drawable displayed at each progress position on a seekbar.</td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.mansourappdevelopment.androidapp.kidsafe:tickMarkTint}</code></td><td>Tint to apply to the tick mark drawable.</td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.mansourappdevelopment.androidapp.kidsafe:tickMarkTintMode}</code></td><td>Blending mode used to apply the tick mark tint.</td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.parentctrl.androidapp.childtrack:tickMark}</code></td><td>Drawable displayed at each progress position on a seekbar.</td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.parentctrl.androidapp.childtrack:tickMarkTint}</code></td><td>Tint to apply to the tick mark drawable.</td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.parentctrl.androidapp.childtrack:tickMarkTintMode}</code></td><td>Blending mode used to apply the tick mark tint.</td></tr>
      * </table>
      * @see #AppCompatSeekBar_android_thumb
      * @see #AppCompatSeekBar_tickMark
@@ -7474,7 +7474,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:tickMark
+     * @attr name com.parentctrl.androidapp.childtrack:tickMark
      */
     public static final int AppCompatSeekBar_tickMark=1;
     /**
@@ -7486,7 +7486,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:tickMarkTint
+     * @attr name com.parentctrl.androidapp.childtrack:tickMarkTint
      */
     public static final int AppCompatSeekBar_tickMarkTint=2;
     /**
@@ -7513,7 +7513,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:tickMarkTintMode
+     * @attr name com.parentctrl.androidapp.childtrack:tickMarkTintMode
      */
     public static final int AppCompatSeekBar_tickMarkTintMode=3;
     /**
@@ -7653,18 +7653,18 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.mansourappdevelopment.androidapp.kidsafe:autoSizeMaxTextSize}</code></td><td>The maximum text size constraint to be used when auto-sizing text.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.mansourappdevelopment.androidapp.kidsafe:autoSizeMinTextSize}</code></td><td>The minimum text size constraint to be used when auto-sizing text.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.mansourappdevelopment.androidapp.kidsafe:autoSizePresetSizes}</code></td><td>Resource array of dimensions to be used in conjunction with
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.parentctrl.androidapp.childtrack:autoSizeMaxTextSize}</code></td><td>The maximum text size constraint to be used when auto-sizing text.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.parentctrl.androidapp.childtrack:autoSizeMinTextSize}</code></td><td>The minimum text size constraint to be used when auto-sizing text.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.parentctrl.androidapp.childtrack:autoSizePresetSizes}</code></td><td>Resource array of dimensions to be used in conjunction with
      * <code>autoSizeTextType</code> set to <code>uniform</code>.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.mansourappdevelopment.androidapp.kidsafe:autoSizeStepGranularity}</code></td><td>Specify the auto-size step size if <code>autoSizeTextType</code> is set to
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.parentctrl.androidapp.childtrack:autoSizeStepGranularity}</code></td><td>Specify the auto-size step size if <code>autoSizeTextType</code> is set to
      * <code>uniform</code>.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.mansourappdevelopment.androidapp.kidsafe:autoSizeTextType}</code></td><td>Specify the type of auto-size.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_firstBaselineToTopHeight com.mansourappdevelopment.androidapp.kidsafe:firstBaselineToTopHeight}</code></td><td>Distance from the top of the TextView to the first text baseline.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.mansourappdevelopment.androidapp.kidsafe:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_lastBaselineToBottomHeight com.mansourappdevelopment.androidapp.kidsafe:lastBaselineToBottomHeight}</code></td><td>Distance from the bottom of the TextView to the last text baseline.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_lineHeight com.mansourappdevelopment.androidapp.kidsafe:lineHeight}</code></td><td>Explicit height between lines of text.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.mansourappdevelopment.androidapp.kidsafe:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.parentctrl.androidapp.childtrack:autoSizeTextType}</code></td><td>Specify the type of auto-size.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_firstBaselineToTopHeight com.parentctrl.androidapp.childtrack:firstBaselineToTopHeight}</code></td><td>Distance from the top of the TextView to the first text baseline.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.parentctrl.androidapp.childtrack:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_lastBaselineToBottomHeight com.parentctrl.androidapp.childtrack:lastBaselineToBottomHeight}</code></td><td>Distance from the bottom of the TextView to the last text baseline.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_lineHeight com.parentctrl.androidapp.childtrack:lineHeight}</code></td><td>Explicit height between lines of text.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.parentctrl.androidapp.childtrack:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
      * </table>
      * @see #AppCompatTextView_android_textAppearance
      * @see #AppCompatTextView_autoSizeMaxTextSize
@@ -7706,7 +7706,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:autoSizeMaxTextSize
+     * @attr name com.parentctrl.androidapp.childtrack:autoSizeMaxTextSize
      */
     public static final int AppCompatTextView_autoSizeMaxTextSize=1;
     /**
@@ -7720,7 +7720,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:autoSizeMinTextSize
+     * @attr name com.parentctrl.androidapp.childtrack:autoSizeMinTextSize
      */
     public static final int AppCompatTextView_autoSizeMinTextSize=2;
     /**
@@ -7735,7 +7735,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:autoSizePresetSizes
+     * @attr name com.parentctrl.androidapp.childtrack:autoSizePresetSizes
      */
     public static final int AppCompatTextView_autoSizePresetSizes=3;
     /**
@@ -7751,7 +7751,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:autoSizeStepGranularity
+     * @attr name com.parentctrl.androidapp.childtrack:autoSizeStepGranularity
      */
     public static final int AppCompatTextView_autoSizeStepGranularity=4;
     /**
@@ -7771,7 +7771,7 @@ public final class R {
      * container.</td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:autoSizeTextType
+     * @attr name com.parentctrl.androidapp.childtrack:autoSizeTextType
      */
     public static final int AppCompatTextView_autoSizeTextType=5;
     /**
@@ -7786,7 +7786,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:firstBaselineToTopHeight
+     * @attr name com.parentctrl.androidapp.childtrack:firstBaselineToTopHeight
      */
     public static final int AppCompatTextView_firstBaselineToTopHeight=6;
     /**
@@ -7797,7 +7797,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:fontFamily
+     * @attr name com.parentctrl.androidapp.childtrack:fontFamily
      */
     public static final int AppCompatTextView_fontFamily=7;
     /**
@@ -7812,7 +7812,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:lastBaselineToBottomHeight
+     * @attr name com.parentctrl.androidapp.childtrack:lastBaselineToBottomHeight
      */
     public static final int AppCompatTextView_lastBaselineToBottomHeight=8;
     /**
@@ -7827,7 +7827,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:lineHeight
+     * @attr name com.parentctrl.androidapp.childtrack:lineHeight
      */
     public static final int AppCompatTextView_lineHeight=9;
     /**
@@ -7842,7 +7842,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:textAllCaps
+     * @attr name com.parentctrl.androidapp.childtrack:textAllCaps
      */
     public static final int AppCompatTextView_textAllCaps=10;
     /**
@@ -7854,142 +7854,142 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.mansourappdevelopment.androidapp.kidsafe:actionBarDivider}</code></td><td>Custom divider drawable to use for elements in the action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.mansourappdevelopment.androidapp.kidsafe:actionBarItemBackground}</code></td><td>Custom item state list drawable background for action bar items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.mansourappdevelopment.androidapp.kidsafe:actionBarPopupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.parentctrl.androidapp.childtrack:actionBarDivider}</code></td><td>Custom divider drawable to use for elements in the action bar.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.parentctrl.androidapp.childtrack:actionBarItemBackground}</code></td><td>Custom item state list drawable background for action bar items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.parentctrl.androidapp.childtrack:actionBarPopupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.mansourappdevelopment.androidapp.kidsafe:actionBarSize}</code></td><td>Size of the Action Bar, including the contextual
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.parentctrl.androidapp.childtrack:actionBarSize}</code></td><td>Size of the Action Bar, including the contextual
      * bar used to present Action Modes.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.mansourappdevelopment.androidapp.kidsafe:actionBarSplitStyle}</code></td><td>Reference to a style for the split Action Bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.mansourappdevelopment.androidapp.kidsafe:actionBarStyle}</code></td><td>Reference to a style for the Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.mansourappdevelopment.androidapp.kidsafe:actionBarTabBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.mansourappdevelopment.androidapp.kidsafe:actionBarTabStyle}</code></td><td>Default style for tabs within an action bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.mansourappdevelopment.androidapp.kidsafe:actionBarTabTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.mansourappdevelopment.androidapp.kidsafe:actionBarTheme}</code></td><td>Reference to a theme that should be used to inflate the
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.parentctrl.androidapp.childtrack:actionBarSplitStyle}</code></td><td>Reference to a style for the split Action Bar.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.parentctrl.androidapp.childtrack:actionBarStyle}</code></td><td>Reference to a style for the Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.parentctrl.androidapp.childtrack:actionBarTabBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.parentctrl.androidapp.childtrack:actionBarTabStyle}</code></td><td>Default style for tabs within an action bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.parentctrl.androidapp.childtrack:actionBarTabTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.parentctrl.androidapp.childtrack:actionBarTheme}</code></td><td>Reference to a theme that should be used to inflate the
      * action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.mansourappdevelopment.androidapp.kidsafe:actionBarWidgetTheme}</code></td><td>Reference to a theme that should be used to inflate widgets
+     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.parentctrl.androidapp.childtrack:actionBarWidgetTheme}</code></td><td>Reference to a theme that should be used to inflate widgets
      * and layouts destined for the action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.mansourappdevelopment.androidapp.kidsafe:actionButtonStyle}</code></td><td>Default action button style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.mansourappdevelopment.androidapp.kidsafe:actionDropDownStyle}</code></td><td>Default ActionBar dropdown style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.mansourappdevelopment.androidapp.kidsafe:actionMenuTextAppearance}</code></td><td>TextAppearance style that will be applied to text that
+     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.parentctrl.androidapp.childtrack:actionButtonStyle}</code></td><td>Default action button style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.parentctrl.androidapp.childtrack:actionDropDownStyle}</code></td><td>Default ActionBar dropdown style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.parentctrl.androidapp.childtrack:actionMenuTextAppearance}</code></td><td>TextAppearance style that will be applied to text that
      * appears within action menu items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.mansourappdevelopment.androidapp.kidsafe:actionMenuTextColor}</code></td><td>Color for text that appears within action menu items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.mansourappdevelopment.androidapp.kidsafe:actionModeBackground}</code></td><td>Background drawable to use for action mode UI</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.mansourappdevelopment.androidapp.kidsafe:actionModeCloseButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.mansourappdevelopment.androidapp.kidsafe:actionModeCloseDrawable}</code></td><td>Drawable to use for the close action mode button</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.mansourappdevelopment.androidapp.kidsafe:actionModeCopyDrawable}</code></td><td>Drawable to use for the Copy action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.mansourappdevelopment.androidapp.kidsafe:actionModeCutDrawable}</code></td><td>Drawable to use for the Cut action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.mansourappdevelopment.androidapp.kidsafe:actionModeFindDrawable}</code></td><td>Drawable to use for the Find action button in WebView selection action modes</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.mansourappdevelopment.androidapp.kidsafe:actionModePasteDrawable}</code></td><td>Drawable to use for the Paste action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.mansourappdevelopment.androidapp.kidsafe:actionModePopupWindowStyle}</code></td><td>PopupWindow style to use for action modes when showing as a window overlay.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.mansourappdevelopment.androidapp.kidsafe:actionModeSelectAllDrawable}</code></td><td>Drawable to use for the Select all action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.mansourappdevelopment.androidapp.kidsafe:actionModeShareDrawable}</code></td><td>Drawable to use for the Share action button in WebView selection action modes</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.mansourappdevelopment.androidapp.kidsafe:actionModeSplitBackground}</code></td><td>Background drawable to use for action mode UI in the lower split bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.mansourappdevelopment.androidapp.kidsafe:actionModeStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.mansourappdevelopment.androidapp.kidsafe:actionModeWebSearchDrawable}</code></td><td>Drawable to use for the Web Search action button in WebView selection action modes</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.mansourappdevelopment.androidapp.kidsafe:actionOverflowButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.mansourappdevelopment.androidapp.kidsafe:actionOverflowMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.mansourappdevelopment.androidapp.kidsafe:activityChooserViewStyle}</code></td><td>Default ActivityChooserView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.mansourappdevelopment.androidapp.kidsafe:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.mansourappdevelopment.androidapp.kidsafe:alertDialogCenterButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.mansourappdevelopment.androidapp.kidsafe:alertDialogStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.mansourappdevelopment.androidapp.kidsafe:alertDialogTheme}</code></td><td>Theme to use for alert dialogs spawned from this theme.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.mansourappdevelopment.androidapp.kidsafe:autoCompleteTextViewStyle}</code></td><td>Default AutoCompleteTextView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.mansourappdevelopment.androidapp.kidsafe:borderlessButtonStyle}</code></td><td>Style for buttons without an explicit border, often used in groups.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.mansourappdevelopment.androidapp.kidsafe:buttonBarButtonStyle}</code></td><td>Style for buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.mansourappdevelopment.androidapp.kidsafe:buttonBarNegativeButtonStyle}</code></td><td>Style for the "negative" buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.mansourappdevelopment.androidapp.kidsafe:buttonBarNeutralButtonStyle}</code></td><td>Style for the "neutral" buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.mansourappdevelopment.androidapp.kidsafe:buttonBarPositiveButtonStyle}</code></td><td>Style for the "positive" buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.mansourappdevelopment.androidapp.kidsafe:buttonBarStyle}</code></td><td>Style for button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.mansourappdevelopment.androidapp.kidsafe:buttonStyle}</code></td><td>Normal Button style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.mansourappdevelopment.androidapp.kidsafe:buttonStyleSmall}</code></td><td>Small Button style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.mansourappdevelopment.androidapp.kidsafe:checkboxStyle}</code></td><td>Default Checkbox style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.mansourappdevelopment.androidapp.kidsafe:checkedTextViewStyle}</code></td><td>Default CheckedTextView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.mansourappdevelopment.androidapp.kidsafe:colorAccent}</code></td><td>Bright complement to the primary branding color.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.mansourappdevelopment.androidapp.kidsafe:colorBackgroundFloating}</code></td><td>Default color of background imagery for floating components, ex.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.mansourappdevelopment.androidapp.kidsafe:colorButtonNormal}</code></td><td>The color applied to framework buttons in their normal state.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.mansourappdevelopment.androidapp.kidsafe:colorControlActivated}</code></td><td>The color applied to framework controls in their activated (ex.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.mansourappdevelopment.androidapp.kidsafe:colorControlHighlight}</code></td><td>The color applied to framework control highlights (ex.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.mansourappdevelopment.androidapp.kidsafe:colorControlNormal}</code></td><td>The color applied to framework controls in their normal state.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorError com.mansourappdevelopment.androidapp.kidsafe:colorError}</code></td><td>Color used for error states and things that need to be drawn to
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.parentctrl.androidapp.childtrack:actionMenuTextColor}</code></td><td>Color for text that appears within action menu items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.parentctrl.androidapp.childtrack:actionModeBackground}</code></td><td>Background drawable to use for action mode UI</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.parentctrl.androidapp.childtrack:actionModeCloseButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.parentctrl.androidapp.childtrack:actionModeCloseDrawable}</code></td><td>Drawable to use for the close action mode button</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.parentctrl.androidapp.childtrack:actionModeCopyDrawable}</code></td><td>Drawable to use for the Copy action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.parentctrl.androidapp.childtrack:actionModeCutDrawable}</code></td><td>Drawable to use for the Cut action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.parentctrl.androidapp.childtrack:actionModeFindDrawable}</code></td><td>Drawable to use for the Find action button in WebView selection action modes</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.parentctrl.androidapp.childtrack:actionModePasteDrawable}</code></td><td>Drawable to use for the Paste action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.parentctrl.androidapp.childtrack:actionModePopupWindowStyle}</code></td><td>PopupWindow style to use for action modes when showing as a window overlay.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.parentctrl.androidapp.childtrack:actionModeSelectAllDrawable}</code></td><td>Drawable to use for the Select all action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.parentctrl.androidapp.childtrack:actionModeShareDrawable}</code></td><td>Drawable to use for the Share action button in WebView selection action modes</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.parentctrl.androidapp.childtrack:actionModeSplitBackground}</code></td><td>Background drawable to use for action mode UI in the lower split bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.parentctrl.androidapp.childtrack:actionModeStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.parentctrl.androidapp.childtrack:actionModeWebSearchDrawable}</code></td><td>Drawable to use for the Web Search action button in WebView selection action modes</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.parentctrl.androidapp.childtrack:actionOverflowButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.parentctrl.androidapp.childtrack:actionOverflowMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.parentctrl.androidapp.childtrack:activityChooserViewStyle}</code></td><td>Default ActivityChooserView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.parentctrl.androidapp.childtrack:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.parentctrl.androidapp.childtrack:alertDialogCenterButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.parentctrl.androidapp.childtrack:alertDialogStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.parentctrl.androidapp.childtrack:alertDialogTheme}</code></td><td>Theme to use for alert dialogs spawned from this theme.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.parentctrl.androidapp.childtrack:autoCompleteTextViewStyle}</code></td><td>Default AutoCompleteTextView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.parentctrl.androidapp.childtrack:borderlessButtonStyle}</code></td><td>Style for buttons without an explicit border, often used in groups.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.parentctrl.androidapp.childtrack:buttonBarButtonStyle}</code></td><td>Style for buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.parentctrl.androidapp.childtrack:buttonBarNegativeButtonStyle}</code></td><td>Style for the "negative" buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.parentctrl.androidapp.childtrack:buttonBarNeutralButtonStyle}</code></td><td>Style for the "neutral" buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.parentctrl.androidapp.childtrack:buttonBarPositiveButtonStyle}</code></td><td>Style for the "positive" buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.parentctrl.androidapp.childtrack:buttonBarStyle}</code></td><td>Style for button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.parentctrl.androidapp.childtrack:buttonStyle}</code></td><td>Normal Button style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.parentctrl.androidapp.childtrack:buttonStyleSmall}</code></td><td>Small Button style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.parentctrl.androidapp.childtrack:checkboxStyle}</code></td><td>Default Checkbox style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.parentctrl.androidapp.childtrack:checkedTextViewStyle}</code></td><td>Default CheckedTextView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.parentctrl.androidapp.childtrack:colorAccent}</code></td><td>Bright complement to the primary branding color.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.parentctrl.androidapp.childtrack:colorBackgroundFloating}</code></td><td>Default color of background imagery for floating components, ex.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.parentctrl.androidapp.childtrack:colorButtonNormal}</code></td><td>The color applied to framework buttons in their normal state.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.parentctrl.androidapp.childtrack:colorControlActivated}</code></td><td>The color applied to framework controls in their activated (ex.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.parentctrl.androidapp.childtrack:colorControlHighlight}</code></td><td>The color applied to framework control highlights (ex.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.parentctrl.androidapp.childtrack:colorControlNormal}</code></td><td>The color applied to framework controls in their normal state.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorError com.parentctrl.androidapp.childtrack:colorError}</code></td><td>Color used for error states and things that need to be drawn to
      * the user's attention.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.mansourappdevelopment.androidapp.kidsafe:colorPrimary}</code></td><td>The primary branding color for the app.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.mansourappdevelopment.androidapp.kidsafe:colorPrimaryDark}</code></td><td>Dark variant of the primary branding color.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.mansourappdevelopment.androidapp.kidsafe:colorSwitchThumbNormal}</code></td><td>The color applied to framework switch thumbs in their normal state.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.mansourappdevelopment.androidapp.kidsafe:controlBackground}</code></td><td>The background used by framework controls.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogCornerRadius com.mansourappdevelopment.androidapp.kidsafe:dialogCornerRadius}</code></td><td>Preferred corner radius of dialogs.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.mansourappdevelopment.androidapp.kidsafe:dialogPreferredPadding}</code></td><td>Preferred padding for dialog content.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.mansourappdevelopment.androidapp.kidsafe:dialogTheme}</code></td><td>Theme to use for dialogs spawned from this theme.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.mansourappdevelopment.androidapp.kidsafe:dividerHorizontal}</code></td><td>A drawable that may be used as a horizontal divider between visual elements.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.mansourappdevelopment.androidapp.kidsafe:dividerVertical}</code></td><td>A drawable that may be used as a vertical divider between visual elements.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.mansourappdevelopment.androidapp.kidsafe:dropDownListViewStyle}</code></td><td>ListPopupWindow compatibility</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.mansourappdevelopment.androidapp.kidsafe:dropdownListPreferredItemHeight}</code></td><td>The preferred item height for dropdown lists.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.mansourappdevelopment.androidapp.kidsafe:editTextBackground}</code></td><td>EditText background drawable.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.mansourappdevelopment.androidapp.kidsafe:editTextColor}</code></td><td>EditText text foreground color.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.mansourappdevelopment.androidapp.kidsafe:editTextStyle}</code></td><td>Default EditText style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.mansourappdevelopment.androidapp.kidsafe:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.mansourappdevelopment.androidapp.kidsafe:imageButtonStyle}</code></td><td>ImageButton background drawable.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.mansourappdevelopment.androidapp.kidsafe:listChoiceBackgroundIndicator}</code></td><td>Drawable used as a background for selected list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.mansourappdevelopment.androidapp.kidsafe:listDividerAlertDialog}</code></td><td>The list divider used in alert dialogs.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.mansourappdevelopment.androidapp.kidsafe:listMenuViewStyle}</code></td><td>Default menu-style ListView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.mansourappdevelopment.androidapp.kidsafe:listPopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.mansourappdevelopment.androidapp.kidsafe:listPreferredItemHeight}</code></td><td>The preferred list item height.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.mansourappdevelopment.androidapp.kidsafe:listPreferredItemHeightLarge}</code></td><td>A larger, more robust list item height.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.mansourappdevelopment.androidapp.kidsafe:listPreferredItemHeightSmall}</code></td><td>A smaller, sleeker list item height.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.mansourappdevelopment.androidapp.kidsafe:listPreferredItemPaddingLeft}</code></td><td>The preferred padding along the left edge of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.mansourappdevelopment.androidapp.kidsafe:listPreferredItemPaddingRight}</code></td><td>The preferred padding along the right edge of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.mansourappdevelopment.androidapp.kidsafe:panelBackground}</code></td><td>The background of a panel when it is inset from the left and right edges of the screen.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.mansourappdevelopment.androidapp.kidsafe:panelMenuListTheme}</code></td><td>Default Panel Menu style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.mansourappdevelopment.androidapp.kidsafe:panelMenuListWidth}</code></td><td>Default Panel Menu width.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.mansourappdevelopment.androidapp.kidsafe:popupMenuStyle}</code></td><td>Default PopupMenu style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.mansourappdevelopment.androidapp.kidsafe:popupWindowStyle}</code></td><td>Default PopupWindow style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.mansourappdevelopment.androidapp.kidsafe:radioButtonStyle}</code></td><td>Default RadioButton style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.mansourappdevelopment.androidapp.kidsafe:ratingBarStyle}</code></td><td>Default RatingBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.mansourappdevelopment.androidapp.kidsafe:ratingBarStyleIndicator}</code></td><td>Indicator RatingBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.mansourappdevelopment.androidapp.kidsafe:ratingBarStyleSmall}</code></td><td>Small indicator RatingBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.mansourappdevelopment.androidapp.kidsafe:searchViewStyle}</code></td><td>Style for the search query widget.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.mansourappdevelopment.androidapp.kidsafe:seekBarStyle}</code></td><td>Default SeekBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.mansourappdevelopment.androidapp.kidsafe:selectableItemBackground}</code></td><td>A style that may be applied to buttons or other selectable items
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.parentctrl.androidapp.childtrack:colorPrimary}</code></td><td>The primary branding color for the app.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.parentctrl.androidapp.childtrack:colorPrimaryDark}</code></td><td>Dark variant of the primary branding color.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.parentctrl.androidapp.childtrack:colorSwitchThumbNormal}</code></td><td>The color applied to framework switch thumbs in their normal state.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.parentctrl.androidapp.childtrack:controlBackground}</code></td><td>The background used by framework controls.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogCornerRadius com.parentctrl.androidapp.childtrack:dialogCornerRadius}</code></td><td>Preferred corner radius of dialogs.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.parentctrl.androidapp.childtrack:dialogPreferredPadding}</code></td><td>Preferred padding for dialog content.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.parentctrl.androidapp.childtrack:dialogTheme}</code></td><td>Theme to use for dialogs spawned from this theme.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.parentctrl.androidapp.childtrack:dividerHorizontal}</code></td><td>A drawable that may be used as a horizontal divider between visual elements.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.parentctrl.androidapp.childtrack:dividerVertical}</code></td><td>A drawable that may be used as a vertical divider between visual elements.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.parentctrl.androidapp.childtrack:dropDownListViewStyle}</code></td><td>ListPopupWindow compatibility</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.parentctrl.androidapp.childtrack:dropdownListPreferredItemHeight}</code></td><td>The preferred item height for dropdown lists.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.parentctrl.androidapp.childtrack:editTextBackground}</code></td><td>EditText background drawable.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.parentctrl.androidapp.childtrack:editTextColor}</code></td><td>EditText text foreground color.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.parentctrl.androidapp.childtrack:editTextStyle}</code></td><td>Default EditText style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.parentctrl.androidapp.childtrack:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.parentctrl.androidapp.childtrack:imageButtonStyle}</code></td><td>ImageButton background drawable.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.parentctrl.androidapp.childtrack:listChoiceBackgroundIndicator}</code></td><td>Drawable used as a background for selected list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.parentctrl.androidapp.childtrack:listDividerAlertDialog}</code></td><td>The list divider used in alert dialogs.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.parentctrl.androidapp.childtrack:listMenuViewStyle}</code></td><td>Default menu-style ListView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.parentctrl.androidapp.childtrack:listPopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.parentctrl.androidapp.childtrack:listPreferredItemHeight}</code></td><td>The preferred list item height.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.parentctrl.androidapp.childtrack:listPreferredItemHeightLarge}</code></td><td>A larger, more robust list item height.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.parentctrl.androidapp.childtrack:listPreferredItemHeightSmall}</code></td><td>A smaller, sleeker list item height.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.parentctrl.androidapp.childtrack:listPreferredItemPaddingLeft}</code></td><td>The preferred padding along the left edge of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.parentctrl.androidapp.childtrack:listPreferredItemPaddingRight}</code></td><td>The preferred padding along the right edge of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.parentctrl.androidapp.childtrack:panelBackground}</code></td><td>The background of a panel when it is inset from the left and right edges of the screen.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.parentctrl.androidapp.childtrack:panelMenuListTheme}</code></td><td>Default Panel Menu style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.parentctrl.androidapp.childtrack:panelMenuListWidth}</code></td><td>Default Panel Menu width.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.parentctrl.androidapp.childtrack:popupMenuStyle}</code></td><td>Default PopupMenu style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.parentctrl.androidapp.childtrack:popupWindowStyle}</code></td><td>Default PopupWindow style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.parentctrl.androidapp.childtrack:radioButtonStyle}</code></td><td>Default RadioButton style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.parentctrl.androidapp.childtrack:ratingBarStyle}</code></td><td>Default RatingBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.parentctrl.androidapp.childtrack:ratingBarStyleIndicator}</code></td><td>Indicator RatingBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.parentctrl.androidapp.childtrack:ratingBarStyleSmall}</code></td><td>Small indicator RatingBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.parentctrl.androidapp.childtrack:searchViewStyle}</code></td><td>Style for the search query widget.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.parentctrl.androidapp.childtrack:seekBarStyle}</code></td><td>Default SeekBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.parentctrl.androidapp.childtrack:selectableItemBackground}</code></td><td>A style that may be applied to buttons or other selectable items
      * that should react to pressed and focus states, but that do not
      * have a clear visual border along the edges.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.mansourappdevelopment.androidapp.kidsafe:selectableItemBackgroundBorderless}</code></td><td>Background drawable for borderless standalone items that need focus/pressed states.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.mansourappdevelopment.androidapp.kidsafe:spinnerDropDownItemStyle}</code></td><td>Default Spinner style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.mansourappdevelopment.androidapp.kidsafe:spinnerStyle}</code></td><td>Default Spinner style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.mansourappdevelopment.androidapp.kidsafe:switchStyle}</code></td><td>Default style for the Switch widget.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.mansourappdevelopment.androidapp.kidsafe:textAppearanceLargePopupMenu}</code></td><td>Text color, typeface, size, and style for the text inside of a popup menu.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.mansourappdevelopment.androidapp.kidsafe:textAppearanceListItem}</code></td><td>The preferred TextAppearance for the primary text of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.mansourappdevelopment.androidapp.kidsafe:textAppearanceListItemSecondary}</code></td><td>The preferred TextAppearance for the secondary text of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.mansourappdevelopment.androidapp.kidsafe:textAppearanceListItemSmall}</code></td><td>The preferred TextAppearance for the primary text of small list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.mansourappdevelopment.androidapp.kidsafe:textAppearancePopupMenuHeader}</code></td><td>Text color, typeface, size, and style for header text inside of a popup menu.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.mansourappdevelopment.androidapp.kidsafe:textAppearanceSearchResultSubtitle}</code></td><td>Text color, typeface, size, and style for system search result subtitle.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.mansourappdevelopment.androidapp.kidsafe:textAppearanceSearchResultTitle}</code></td><td>Text color, typeface, size, and style for system search result title.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.mansourappdevelopment.androidapp.kidsafe:textAppearanceSmallPopupMenu}</code></td><td>Text color, typeface, size, and style for small text inside of a popup menu.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.mansourappdevelopment.androidapp.kidsafe:textColorAlertDialogListItem}</code></td><td>Color of list item text in alert dialogs.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.mansourappdevelopment.androidapp.kidsafe:textColorSearchUrl}</code></td><td>Text color for urls in search suggestions, used by things like global search</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.mansourappdevelopment.androidapp.kidsafe:toolbarNavigationButtonStyle}</code></td><td>Default Toolar NavigationButtonStyle</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.mansourappdevelopment.androidapp.kidsafe:toolbarStyle}</code></td><td>Default Toolbar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.mansourappdevelopment.androidapp.kidsafe:tooltipForegroundColor}</code></td><td>Foreground color to use for tooltips</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.mansourappdevelopment.androidapp.kidsafe:tooltipFrameBackground}</code></td><td>Background to use for tooltips</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.mansourappdevelopment.androidapp.kidsafe:viewInflaterClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.mansourappdevelopment.androidapp.kidsafe:windowActionBar}</code></td><td>Flag indicating whether this window should have an Action Bar
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.parentctrl.androidapp.childtrack:selectableItemBackgroundBorderless}</code></td><td>Background drawable for borderless standalone items that need focus/pressed states.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.parentctrl.androidapp.childtrack:spinnerDropDownItemStyle}</code></td><td>Default Spinner style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.parentctrl.androidapp.childtrack:spinnerStyle}</code></td><td>Default Spinner style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.parentctrl.androidapp.childtrack:switchStyle}</code></td><td>Default style for the Switch widget.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.parentctrl.androidapp.childtrack:textAppearanceLargePopupMenu}</code></td><td>Text color, typeface, size, and style for the text inside of a popup menu.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.parentctrl.androidapp.childtrack:textAppearanceListItem}</code></td><td>The preferred TextAppearance for the primary text of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.parentctrl.androidapp.childtrack:textAppearanceListItemSecondary}</code></td><td>The preferred TextAppearance for the secondary text of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.parentctrl.androidapp.childtrack:textAppearanceListItemSmall}</code></td><td>The preferred TextAppearance for the primary text of small list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.parentctrl.androidapp.childtrack:textAppearancePopupMenuHeader}</code></td><td>Text color, typeface, size, and style for header text inside of a popup menu.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.parentctrl.androidapp.childtrack:textAppearanceSearchResultSubtitle}</code></td><td>Text color, typeface, size, and style for system search result subtitle.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.parentctrl.androidapp.childtrack:textAppearanceSearchResultTitle}</code></td><td>Text color, typeface, size, and style for system search result title.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.parentctrl.androidapp.childtrack:textAppearanceSmallPopupMenu}</code></td><td>Text color, typeface, size, and style for small text inside of a popup menu.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.parentctrl.androidapp.childtrack:textColorAlertDialogListItem}</code></td><td>Color of list item text in alert dialogs.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.parentctrl.androidapp.childtrack:textColorSearchUrl}</code></td><td>Text color for urls in search suggestions, used by things like global search</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.parentctrl.androidapp.childtrack:toolbarNavigationButtonStyle}</code></td><td>Default Toolar NavigationButtonStyle</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.parentctrl.androidapp.childtrack:toolbarStyle}</code></td><td>Default Toolbar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.parentctrl.androidapp.childtrack:tooltipForegroundColor}</code></td><td>Foreground color to use for tooltips</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.parentctrl.androidapp.childtrack:tooltipFrameBackground}</code></td><td>Background to use for tooltips</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.parentctrl.androidapp.childtrack:viewInflaterClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.parentctrl.androidapp.childtrack:windowActionBar}</code></td><td>Flag indicating whether this window should have an Action Bar
      * in place of the usual title bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.mansourappdevelopment.androidapp.kidsafe:windowActionBarOverlay}</code></td><td>Flag indicating whether this window's Action Bar should overlay
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.parentctrl.androidapp.childtrack:windowActionBarOverlay}</code></td><td>Flag indicating whether this window's Action Bar should overlay
      * application content.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.mansourappdevelopment.androidapp.kidsafe:windowActionModeOverlay}</code></td><td>Flag indicating whether action modes should overlay window content
+     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.parentctrl.androidapp.childtrack:windowActionModeOverlay}</code></td><td>Flag indicating whether action modes should overlay window content
      * when there is not reserved space for their UI (such as an Action Bar).</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.mansourappdevelopment.androidapp.kidsafe:windowFixedHeightMajor}</code></td><td>A fixed height for the window along the major axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.parentctrl.androidapp.childtrack:windowFixedHeightMajor}</code></td><td>A fixed height for the window along the major axis of the screen,
      * that is, when in portrait.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.mansourappdevelopment.androidapp.kidsafe:windowFixedHeightMinor}</code></td><td>A fixed height for the window along the minor axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.parentctrl.androidapp.childtrack:windowFixedHeightMinor}</code></td><td>A fixed height for the window along the minor axis of the screen,
      * that is, when in landscape.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.mansourappdevelopment.androidapp.kidsafe:windowFixedWidthMajor}</code></td><td>A fixed width for the window along the major axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.parentctrl.androidapp.childtrack:windowFixedWidthMajor}</code></td><td>A fixed width for the window along the major axis of the screen,
      * that is, when in landscape.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.mansourappdevelopment.androidapp.kidsafe:windowFixedWidthMinor}</code></td><td>A fixed width for the window along the minor axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.parentctrl.androidapp.childtrack:windowFixedWidthMinor}</code></td><td>A fixed width for the window along the minor axis of the screen,
      * that is, when in portrait.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.mansourappdevelopment.androidapp.kidsafe:windowMinWidthMajor}</code></td><td>The minimum width the window is allowed to be, along the major
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.parentctrl.androidapp.childtrack:windowMinWidthMajor}</code></td><td>The minimum width the window is allowed to be, along the major
      * axis of the screen.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.mansourappdevelopment.androidapp.kidsafe:windowMinWidthMinor}</code></td><td>The minimum width the window is allowed to be, along the minor
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.parentctrl.androidapp.childtrack:windowMinWidthMinor}</code></td><td>The minimum width the window is allowed to be, along the minor
      * axis of the screen.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.mansourappdevelopment.androidapp.kidsafe:windowNoTitle}</code></td><td>Flag indicating whether there should be no title on this window.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.parentctrl.androidapp.childtrack:windowNoTitle}</code></td><td>Flag indicating whether there should be no title on this window.</td></tr>
      * </table>
      * @see #AppCompatTheme_android_windowIsFloating
      * @see #AppCompatTheme_android_windowAnimationStyle
@@ -8178,7 +8178,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:actionBarDivider
+     * @attr name com.parentctrl.androidapp.childtrack:actionBarDivider
      */
     public static final int AppCompatTheme_actionBarDivider=2;
     /**
@@ -8191,7 +8191,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:actionBarItemBackground
+     * @attr name com.parentctrl.androidapp.childtrack:actionBarItemBackground
      */
     public static final int AppCompatTheme_actionBarItemBackground=3;
     /**
@@ -8205,7 +8205,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:actionBarPopupTheme
+     * @attr name com.parentctrl.androidapp.childtrack:actionBarPopupTheme
      */
     public static final int AppCompatTheme_actionBarPopupTheme=4;
     /**
@@ -8228,7 +8228,7 @@ public final class R {
      * <tr><td>wrap_content</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:actionBarSize
+     * @attr name com.parentctrl.androidapp.childtrack:actionBarSize
      */
     public static final int AppCompatTheme_actionBarSize=5;
     /**
@@ -8244,7 +8244,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:actionBarSplitStyle
+     * @attr name com.parentctrl.androidapp.childtrack:actionBarSplitStyle
      */
     public static final int AppCompatTheme_actionBarSplitStyle=6;
     /**
@@ -8257,11 +8257,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:actionBarStyle
+     * @attr name com.parentctrl.androidapp.childtrack:actionBarStyle
      */
     public static final int AppCompatTheme_actionBarStyle=7;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#actionBarTabBarStyle}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#actionBarTabBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8269,7 +8269,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:actionBarTabBarStyle
+     * @attr name com.parentctrl.androidapp.childtrack:actionBarTabBarStyle
      */
     public static final int AppCompatTheme_actionBarTabBarStyle=8;
     /**
@@ -8282,11 +8282,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:actionBarTabStyle
+     * @attr name com.parentctrl.androidapp.childtrack:actionBarTabStyle
      */
     public static final int AppCompatTheme_actionBarTabStyle=9;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#actionBarTabTextStyle}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#actionBarTabTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8294,7 +8294,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:actionBarTabTextStyle
+     * @attr name com.parentctrl.androidapp.childtrack:actionBarTabTextStyle
      */
     public static final int AppCompatTheme_actionBarTabTextStyle=10;
     /**
@@ -8309,7 +8309,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:actionBarTheme
+     * @attr name com.parentctrl.androidapp.childtrack:actionBarTheme
      */
     public static final int AppCompatTheme_actionBarTheme=11;
     /**
@@ -8328,7 +8328,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:actionBarWidgetTheme
+     * @attr name com.parentctrl.androidapp.childtrack:actionBarWidgetTheme
      */
     public static final int AppCompatTheme_actionBarWidgetTheme=12;
     /**
@@ -8341,7 +8341,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:actionButtonStyle
+     * @attr name com.parentctrl.androidapp.childtrack:actionButtonStyle
      */
     public static final int AppCompatTheme_actionButtonStyle=13;
     /**
@@ -8354,7 +8354,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:actionDropDownStyle
+     * @attr name com.parentctrl.androidapp.childtrack:actionDropDownStyle
      */
     public static final int AppCompatTheme_actionDropDownStyle=14;
     /**
@@ -8368,7 +8368,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:actionMenuTextAppearance
+     * @attr name com.parentctrl.androidapp.childtrack:actionMenuTextAppearance
      */
     public static final int AppCompatTheme_actionMenuTextAppearance=15;
     /**
@@ -8384,7 +8384,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:actionMenuTextColor
+     * @attr name com.parentctrl.androidapp.childtrack:actionMenuTextColor
      */
     public static final int AppCompatTheme_actionMenuTextColor=16;
     /**
@@ -8397,11 +8397,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:actionModeBackground
+     * @attr name com.parentctrl.androidapp.childtrack:actionModeBackground
      */
     public static final int AppCompatTheme_actionModeBackground=17;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#actionModeCloseButtonStyle}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#actionModeCloseButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8409,7 +8409,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:actionModeCloseButtonStyle
+     * @attr name com.parentctrl.androidapp.childtrack:actionModeCloseButtonStyle
      */
     public static final int AppCompatTheme_actionModeCloseButtonStyle=18;
     /**
@@ -8422,7 +8422,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:actionModeCloseDrawable
+     * @attr name com.parentctrl.androidapp.childtrack:actionModeCloseDrawable
      */
     public static final int AppCompatTheme_actionModeCloseDrawable=19;
     /**
@@ -8435,7 +8435,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:actionModeCopyDrawable
+     * @attr name com.parentctrl.androidapp.childtrack:actionModeCopyDrawable
      */
     public static final int AppCompatTheme_actionModeCopyDrawable=20;
     /**
@@ -8448,7 +8448,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:actionModeCutDrawable
+     * @attr name com.parentctrl.androidapp.childtrack:actionModeCutDrawable
      */
     public static final int AppCompatTheme_actionModeCutDrawable=21;
     /**
@@ -8461,7 +8461,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:actionModeFindDrawable
+     * @attr name com.parentctrl.androidapp.childtrack:actionModeFindDrawable
      */
     public static final int AppCompatTheme_actionModeFindDrawable=22;
     /**
@@ -8474,7 +8474,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:actionModePasteDrawable
+     * @attr name com.parentctrl.androidapp.childtrack:actionModePasteDrawable
      */
     public static final int AppCompatTheme_actionModePasteDrawable=23;
     /**
@@ -8487,7 +8487,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:actionModePopupWindowStyle
+     * @attr name com.parentctrl.androidapp.childtrack:actionModePopupWindowStyle
      */
     public static final int AppCompatTheme_actionModePopupWindowStyle=24;
     /**
@@ -8500,7 +8500,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:actionModeSelectAllDrawable
+     * @attr name com.parentctrl.androidapp.childtrack:actionModeSelectAllDrawable
      */
     public static final int AppCompatTheme_actionModeSelectAllDrawable=25;
     /**
@@ -8513,7 +8513,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:actionModeShareDrawable
+     * @attr name com.parentctrl.androidapp.childtrack:actionModeShareDrawable
      */
     public static final int AppCompatTheme_actionModeShareDrawable=26;
     /**
@@ -8526,11 +8526,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:actionModeSplitBackground
+     * @attr name com.parentctrl.androidapp.childtrack:actionModeSplitBackground
      */
     public static final int AppCompatTheme_actionModeSplitBackground=27;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#actionModeStyle}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#actionModeStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8538,7 +8538,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:actionModeStyle
+     * @attr name com.parentctrl.androidapp.childtrack:actionModeStyle
      */
     public static final int AppCompatTheme_actionModeStyle=28;
     /**
@@ -8551,11 +8551,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:actionModeWebSearchDrawable
+     * @attr name com.parentctrl.androidapp.childtrack:actionModeWebSearchDrawable
      */
     public static final int AppCompatTheme_actionModeWebSearchDrawable=29;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#actionOverflowButtonStyle}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#actionOverflowButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8563,11 +8563,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:actionOverflowButtonStyle
+     * @attr name com.parentctrl.androidapp.childtrack:actionOverflowButtonStyle
      */
     public static final int AppCompatTheme_actionOverflowButtonStyle=30;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#actionOverflowMenuStyle}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#actionOverflowMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8575,7 +8575,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:actionOverflowMenuStyle
+     * @attr name com.parentctrl.androidapp.childtrack:actionOverflowMenuStyle
      */
     public static final int AppCompatTheme_actionOverflowMenuStyle=31;
     /**
@@ -8588,11 +8588,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:activityChooserViewStyle
+     * @attr name com.parentctrl.androidapp.childtrack:activityChooserViewStyle
      */
     public static final int AppCompatTheme_activityChooserViewStyle=32;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#alertDialogButtonGroupStyle}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#alertDialogButtonGroupStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8600,21 +8600,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:alertDialogButtonGroupStyle
+     * @attr name com.parentctrl.androidapp.childtrack:alertDialogButtonGroupStyle
      */
     public static final int AppCompatTheme_alertDialogButtonGroupStyle=33;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#alertDialogCenterButtons}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#alertDialogCenterButtons}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:alertDialogCenterButtons
+     * @attr name com.parentctrl.androidapp.childtrack:alertDialogCenterButtons
      */
     public static final int AppCompatTheme_alertDialogCenterButtons=34;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#alertDialogStyle}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#alertDialogStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8622,7 +8622,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:alertDialogStyle
+     * @attr name com.parentctrl.androidapp.childtrack:alertDialogStyle
      */
     public static final int AppCompatTheme_alertDialogStyle=35;
     /**
@@ -8635,7 +8635,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:alertDialogTheme
+     * @attr name com.parentctrl.androidapp.childtrack:alertDialogTheme
      */
     public static final int AppCompatTheme_alertDialogTheme=36;
     /**
@@ -8648,7 +8648,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:autoCompleteTextViewStyle
+     * @attr name com.parentctrl.androidapp.childtrack:autoCompleteTextViewStyle
      */
     public static final int AppCompatTheme_autoCompleteTextViewStyle=37;
     /**
@@ -8661,7 +8661,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:borderlessButtonStyle
+     * @attr name com.parentctrl.androidapp.childtrack:borderlessButtonStyle
      */
     public static final int AppCompatTheme_borderlessButtonStyle=38;
     /**
@@ -8674,7 +8674,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:buttonBarButtonStyle
+     * @attr name com.parentctrl.androidapp.childtrack:buttonBarButtonStyle
      */
     public static final int AppCompatTheme_buttonBarButtonStyle=39;
     /**
@@ -8687,7 +8687,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:buttonBarNegativeButtonStyle
+     * @attr name com.parentctrl.androidapp.childtrack:buttonBarNegativeButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNegativeButtonStyle=40;
     /**
@@ -8700,7 +8700,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:buttonBarNeutralButtonStyle
+     * @attr name com.parentctrl.androidapp.childtrack:buttonBarNeutralButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNeutralButtonStyle=41;
     /**
@@ -8713,7 +8713,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:buttonBarPositiveButtonStyle
+     * @attr name com.parentctrl.androidapp.childtrack:buttonBarPositiveButtonStyle
      */
     public static final int AppCompatTheme_buttonBarPositiveButtonStyle=42;
     /**
@@ -8726,7 +8726,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:buttonBarStyle
+     * @attr name com.parentctrl.androidapp.childtrack:buttonBarStyle
      */
     public static final int AppCompatTheme_buttonBarStyle=43;
     /**
@@ -8739,7 +8739,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:buttonStyle
+     * @attr name com.parentctrl.androidapp.childtrack:buttonStyle
      */
     public static final int AppCompatTheme_buttonStyle=44;
     /**
@@ -8752,7 +8752,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:buttonStyleSmall
+     * @attr name com.parentctrl.androidapp.childtrack:buttonStyleSmall
      */
     public static final int AppCompatTheme_buttonStyleSmall=45;
     /**
@@ -8765,7 +8765,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:checkboxStyle
+     * @attr name com.parentctrl.androidapp.childtrack:checkboxStyle
      */
     public static final int AppCompatTheme_checkboxStyle=46;
     /**
@@ -8778,7 +8778,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:checkedTextViewStyle
+     * @attr name com.parentctrl.androidapp.childtrack:checkedTextViewStyle
      */
     public static final int AppCompatTheme_checkedTextViewStyle=47;
     /**
@@ -8791,7 +8791,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:colorAccent
+     * @attr name com.parentctrl.androidapp.childtrack:colorAccent
      */
     public static final int AppCompatTheme_colorAccent=48;
     /**
@@ -8803,7 +8803,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:colorBackgroundFloating
+     * @attr name com.parentctrl.androidapp.childtrack:colorBackgroundFloating
      */
     public static final int AppCompatTheme_colorBackgroundFloating=49;
     /**
@@ -8815,7 +8815,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:colorButtonNormal
+     * @attr name com.parentctrl.androidapp.childtrack:colorButtonNormal
      */
     public static final int AppCompatTheme_colorButtonNormal=50;
     /**
@@ -8827,7 +8827,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:colorControlActivated
+     * @attr name com.parentctrl.androidapp.childtrack:colorControlActivated
      */
     public static final int AppCompatTheme_colorControlActivated=51;
     /**
@@ -8839,7 +8839,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:colorControlHighlight
+     * @attr name com.parentctrl.androidapp.childtrack:colorControlHighlight
      */
     public static final int AppCompatTheme_colorControlHighlight=52;
     /**
@@ -8851,7 +8851,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:colorControlNormal
+     * @attr name com.parentctrl.androidapp.childtrack:colorControlNormal
      */
     public static final int AppCompatTheme_colorControlNormal=53;
     /**
@@ -8868,7 +8868,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:colorError
+     * @attr name com.parentctrl.androidapp.childtrack:colorError
      */
     public static final int AppCompatTheme_colorError=54;
     /**
@@ -8881,7 +8881,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:colorPrimary
+     * @attr name com.parentctrl.androidapp.childtrack:colorPrimary
      */
     public static final int AppCompatTheme_colorPrimary=55;
     /**
@@ -8894,7 +8894,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:colorPrimaryDark
+     * @attr name com.parentctrl.androidapp.childtrack:colorPrimaryDark
      */
     public static final int AppCompatTheme_colorPrimaryDark=56;
     /**
@@ -8906,7 +8906,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:colorSwitchThumbNormal
+     * @attr name com.parentctrl.androidapp.childtrack:colorSwitchThumbNormal
      */
     public static final int AppCompatTheme_colorSwitchThumbNormal=57;
     /**
@@ -8919,7 +8919,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:controlBackground
+     * @attr name com.parentctrl.androidapp.childtrack:controlBackground
      */
     public static final int AppCompatTheme_controlBackground=58;
     /**
@@ -8933,7 +8933,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:dialogCornerRadius
+     * @attr name com.parentctrl.androidapp.childtrack:dialogCornerRadius
      */
     public static final int AppCompatTheme_dialogCornerRadius=59;
     /**
@@ -8947,7 +8947,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:dialogPreferredPadding
+     * @attr name com.parentctrl.androidapp.childtrack:dialogPreferredPadding
      */
     public static final int AppCompatTheme_dialogPreferredPadding=60;
     /**
@@ -8960,7 +8960,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:dialogTheme
+     * @attr name com.parentctrl.androidapp.childtrack:dialogTheme
      */
     public static final int AppCompatTheme_dialogTheme=61;
     /**
@@ -8973,7 +8973,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:dividerHorizontal
+     * @attr name com.parentctrl.androidapp.childtrack:dividerHorizontal
      */
     public static final int AppCompatTheme_dividerHorizontal=62;
     /**
@@ -8986,7 +8986,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:dividerVertical
+     * @attr name com.parentctrl.androidapp.childtrack:dividerVertical
      */
     public static final int AppCompatTheme_dividerVertical=63;
     /**
@@ -8999,7 +8999,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:dropDownListViewStyle
+     * @attr name com.parentctrl.androidapp.childtrack:dropDownListViewStyle
      */
     public static final int AppCompatTheme_dropDownListViewStyle=64;
     /**
@@ -9013,7 +9013,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:dropdownListPreferredItemHeight
+     * @attr name com.parentctrl.androidapp.childtrack:dropdownListPreferredItemHeight
      */
     public static final int AppCompatTheme_dropdownListPreferredItemHeight=65;
     /**
@@ -9026,7 +9026,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:editTextBackground
+     * @attr name com.parentctrl.androidapp.childtrack:editTextBackground
      */
     public static final int AppCompatTheme_editTextBackground=66;
     /**
@@ -9042,7 +9042,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:editTextColor
+     * @attr name com.parentctrl.androidapp.childtrack:editTextColor
      */
     public static final int AppCompatTheme_editTextColor=67;
     /**
@@ -9055,7 +9055,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:editTextStyle
+     * @attr name com.parentctrl.androidapp.childtrack:editTextStyle
      */
     public static final int AppCompatTheme_editTextStyle=68;
     /**
@@ -9068,7 +9068,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:homeAsUpIndicator
+     * @attr name com.parentctrl.androidapp.childtrack:homeAsUpIndicator
      */
     public static final int AppCompatTheme_homeAsUpIndicator=69;
     /**
@@ -9081,7 +9081,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:imageButtonStyle
+     * @attr name com.parentctrl.androidapp.childtrack:imageButtonStyle
      */
     public static final int AppCompatTheme_imageButtonStyle=70;
     /**
@@ -9094,7 +9094,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:listChoiceBackgroundIndicator
+     * @attr name com.parentctrl.androidapp.childtrack:listChoiceBackgroundIndicator
      */
     public static final int AppCompatTheme_listChoiceBackgroundIndicator=71;
     /**
@@ -9107,7 +9107,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:listDividerAlertDialog
+     * @attr name com.parentctrl.androidapp.childtrack:listDividerAlertDialog
      */
     public static final int AppCompatTheme_listDividerAlertDialog=72;
     /**
@@ -9120,11 +9120,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:listMenuViewStyle
+     * @attr name com.parentctrl.androidapp.childtrack:listMenuViewStyle
      */
     public static final int AppCompatTheme_listMenuViewStyle=73;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#listPopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#listPopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9132,7 +9132,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:listPopupWindowStyle
+     * @attr name com.parentctrl.androidapp.childtrack:listPopupWindowStyle
      */
     public static final int AppCompatTheme_listPopupWindowStyle=74;
     /**
@@ -9146,7 +9146,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:listPreferredItemHeight
+     * @attr name com.parentctrl.androidapp.childtrack:listPreferredItemHeight
      */
     public static final int AppCompatTheme_listPreferredItemHeight=75;
     /**
@@ -9160,7 +9160,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:listPreferredItemHeightLarge
+     * @attr name com.parentctrl.androidapp.childtrack:listPreferredItemHeightLarge
      */
     public static final int AppCompatTheme_listPreferredItemHeightLarge=76;
     /**
@@ -9174,7 +9174,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:listPreferredItemHeightSmall
+     * @attr name com.parentctrl.androidapp.childtrack:listPreferredItemHeightSmall
      */
     public static final int AppCompatTheme_listPreferredItemHeightSmall=77;
     /**
@@ -9188,7 +9188,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:listPreferredItemPaddingLeft
+     * @attr name com.parentctrl.androidapp.childtrack:listPreferredItemPaddingLeft
      */
     public static final int AppCompatTheme_listPreferredItemPaddingLeft=78;
     /**
@@ -9202,7 +9202,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:listPreferredItemPaddingRight
+     * @attr name com.parentctrl.androidapp.childtrack:listPreferredItemPaddingRight
      */
     public static final int AppCompatTheme_listPreferredItemPaddingRight=79;
     /**
@@ -9215,7 +9215,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:panelBackground
+     * @attr name com.parentctrl.androidapp.childtrack:panelBackground
      */
     public static final int AppCompatTheme_panelBackground=80;
     /**
@@ -9228,7 +9228,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:panelMenuListTheme
+     * @attr name com.parentctrl.androidapp.childtrack:panelMenuListTheme
      */
     public static final int AppCompatTheme_panelMenuListTheme=81;
     /**
@@ -9242,7 +9242,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:panelMenuListWidth
+     * @attr name com.parentctrl.androidapp.childtrack:panelMenuListWidth
      */
     public static final int AppCompatTheme_panelMenuListWidth=82;
     /**
@@ -9255,7 +9255,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:popupMenuStyle
+     * @attr name com.parentctrl.androidapp.childtrack:popupMenuStyle
      */
     public static final int AppCompatTheme_popupMenuStyle=83;
     /**
@@ -9268,7 +9268,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:popupWindowStyle
+     * @attr name com.parentctrl.androidapp.childtrack:popupWindowStyle
      */
     public static final int AppCompatTheme_popupWindowStyle=84;
     /**
@@ -9281,7 +9281,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:radioButtonStyle
+     * @attr name com.parentctrl.androidapp.childtrack:radioButtonStyle
      */
     public static final int AppCompatTheme_radioButtonStyle=85;
     /**
@@ -9294,7 +9294,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:ratingBarStyle
+     * @attr name com.parentctrl.androidapp.childtrack:ratingBarStyle
      */
     public static final int AppCompatTheme_ratingBarStyle=86;
     /**
@@ -9307,7 +9307,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:ratingBarStyleIndicator
+     * @attr name com.parentctrl.androidapp.childtrack:ratingBarStyleIndicator
      */
     public static final int AppCompatTheme_ratingBarStyleIndicator=87;
     /**
@@ -9320,7 +9320,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:ratingBarStyleSmall
+     * @attr name com.parentctrl.androidapp.childtrack:ratingBarStyleSmall
      */
     public static final int AppCompatTheme_ratingBarStyleSmall=88;
     /**
@@ -9333,7 +9333,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:searchViewStyle
+     * @attr name com.parentctrl.androidapp.childtrack:searchViewStyle
      */
     public static final int AppCompatTheme_searchViewStyle=89;
     /**
@@ -9346,7 +9346,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:seekBarStyle
+     * @attr name com.parentctrl.androidapp.childtrack:seekBarStyle
      */
     public static final int AppCompatTheme_seekBarStyle=90;
     /**
@@ -9361,7 +9361,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:selectableItemBackground
+     * @attr name com.parentctrl.androidapp.childtrack:selectableItemBackground
      */
     public static final int AppCompatTheme_selectableItemBackground=91;
     /**
@@ -9374,7 +9374,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:selectableItemBackgroundBorderless
+     * @attr name com.parentctrl.androidapp.childtrack:selectableItemBackgroundBorderless
      */
     public static final int AppCompatTheme_selectableItemBackgroundBorderless=92;
     /**
@@ -9387,7 +9387,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:spinnerDropDownItemStyle
+     * @attr name com.parentctrl.androidapp.childtrack:spinnerDropDownItemStyle
      */
     public static final int AppCompatTheme_spinnerDropDownItemStyle=93;
     /**
@@ -9400,7 +9400,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:spinnerStyle
+     * @attr name com.parentctrl.androidapp.childtrack:spinnerStyle
      */
     public static final int AppCompatTheme_spinnerStyle=94;
     /**
@@ -9413,7 +9413,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:switchStyle
+     * @attr name com.parentctrl.androidapp.childtrack:switchStyle
      */
     public static final int AppCompatTheme_switchStyle=95;
     /**
@@ -9426,7 +9426,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:textAppearanceLargePopupMenu
+     * @attr name com.parentctrl.androidapp.childtrack:textAppearanceLargePopupMenu
      */
     public static final int AppCompatTheme_textAppearanceLargePopupMenu=96;
     /**
@@ -9439,7 +9439,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:textAppearanceListItem
+     * @attr name com.parentctrl.androidapp.childtrack:textAppearanceListItem
      */
     public static final int AppCompatTheme_textAppearanceListItem=97;
     /**
@@ -9452,7 +9452,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:textAppearanceListItemSecondary
+     * @attr name com.parentctrl.androidapp.childtrack:textAppearanceListItemSecondary
      */
     public static final int AppCompatTheme_textAppearanceListItemSecondary=98;
     /**
@@ -9465,7 +9465,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:textAppearanceListItemSmall
+     * @attr name com.parentctrl.androidapp.childtrack:textAppearanceListItemSmall
      */
     public static final int AppCompatTheme_textAppearanceListItemSmall=99;
     /**
@@ -9478,7 +9478,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:textAppearancePopupMenuHeader
+     * @attr name com.parentctrl.androidapp.childtrack:textAppearancePopupMenuHeader
      */
     public static final int AppCompatTheme_textAppearancePopupMenuHeader=100;
     /**
@@ -9491,7 +9491,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:textAppearanceSearchResultSubtitle
+     * @attr name com.parentctrl.androidapp.childtrack:textAppearanceSearchResultSubtitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultSubtitle=101;
     /**
@@ -9504,7 +9504,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:textAppearanceSearchResultTitle
+     * @attr name com.parentctrl.androidapp.childtrack:textAppearanceSearchResultTitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultTitle=102;
     /**
@@ -9517,7 +9517,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:textAppearanceSmallPopupMenu
+     * @attr name com.parentctrl.androidapp.childtrack:textAppearanceSmallPopupMenu
      */
     public static final int AppCompatTheme_textAppearanceSmallPopupMenu=103;
     /**
@@ -9533,7 +9533,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:textColorAlertDialogListItem
+     * @attr name com.parentctrl.androidapp.childtrack:textColorAlertDialogListItem
      */
     public static final int AppCompatTheme_textColorAlertDialogListItem=104;
     /**
@@ -9549,7 +9549,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:textColorSearchUrl
+     * @attr name com.parentctrl.androidapp.childtrack:textColorSearchUrl
      */
     public static final int AppCompatTheme_textColorSearchUrl=105;
     /**
@@ -9562,7 +9562,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:toolbarNavigationButtonStyle
+     * @attr name com.parentctrl.androidapp.childtrack:toolbarNavigationButtonStyle
      */
     public static final int AppCompatTheme_toolbarNavigationButtonStyle=106;
     /**
@@ -9575,7 +9575,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:toolbarStyle
+     * @attr name com.parentctrl.androidapp.childtrack:toolbarStyle
      */
     public static final int AppCompatTheme_toolbarStyle=107;
     /**
@@ -9591,7 +9591,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:tooltipForegroundColor
+     * @attr name com.parentctrl.androidapp.childtrack:tooltipForegroundColor
      */
     public static final int AppCompatTheme_tooltipForegroundColor=108;
     /**
@@ -9604,17 +9604,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:tooltipFrameBackground
+     * @attr name com.parentctrl.androidapp.childtrack:tooltipFrameBackground
      */
     public static final int AppCompatTheme_tooltipFrameBackground=109;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#viewInflaterClass}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#viewInflaterClass}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:viewInflaterClass
+     * @attr name com.parentctrl.androidapp.childtrack:viewInflaterClass
      */
     public static final int AppCompatTheme_viewInflaterClass=110;
     /**
@@ -9626,7 +9626,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:windowActionBar
+     * @attr name com.parentctrl.androidapp.childtrack:windowActionBar
      */
     public static final int AppCompatTheme_windowActionBar=111;
     /**
@@ -9639,7 +9639,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:windowActionBarOverlay
+     * @attr name com.parentctrl.androidapp.childtrack:windowActionBarOverlay
      */
     public static final int AppCompatTheme_windowActionBarOverlay=112;
     /**
@@ -9651,7 +9651,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:windowActionModeOverlay
+     * @attr name com.parentctrl.androidapp.childtrack:windowActionModeOverlay
      */
     public static final int AppCompatTheme_windowActionModeOverlay=113;
     /**
@@ -9671,7 +9671,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:windowFixedHeightMajor
+     * @attr name com.parentctrl.androidapp.childtrack:windowFixedHeightMajor
      */
     public static final int AppCompatTheme_windowFixedHeightMajor=114;
     /**
@@ -9691,7 +9691,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:windowFixedHeightMinor
+     * @attr name com.parentctrl.androidapp.childtrack:windowFixedHeightMinor
      */
     public static final int AppCompatTheme_windowFixedHeightMinor=115;
     /**
@@ -9711,7 +9711,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:windowFixedWidthMajor
+     * @attr name com.parentctrl.androidapp.childtrack:windowFixedWidthMajor
      */
     public static final int AppCompatTheme_windowFixedWidthMajor=116;
     /**
@@ -9731,7 +9731,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:windowFixedWidthMinor
+     * @attr name com.parentctrl.androidapp.childtrack:windowFixedWidthMinor
      */
     public static final int AppCompatTheme_windowFixedWidthMinor=117;
     /**
@@ -9752,7 +9752,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:windowMinWidthMajor
+     * @attr name com.parentctrl.androidapp.childtrack:windowMinWidthMajor
      */
     public static final int AppCompatTheme_windowMinWidthMajor=118;
     /**
@@ -9773,7 +9773,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:windowMinWidthMinor
+     * @attr name com.parentctrl.androidapp.childtrack:windowMinWidthMinor
      */
     public static final int AppCompatTheme_windowMinWidthMinor=119;
     /**
@@ -9784,7 +9784,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:windowNoTitle
+     * @attr name com.parentctrl.androidapp.childtrack:windowNoTitle
      */
     public static final int AppCompatTheme_windowNoTitle=120;
     /**
@@ -9794,12 +9794,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomAppBar_backgroundTint com.mansourappdevelopment.androidapp.kidsafe:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabAlignmentMode com.mansourappdevelopment.androidapp.kidsafe:fabAlignmentMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabCradleMargin com.mansourappdevelopment.androidapp.kidsafe:fabCradleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabCradleRoundedCornerRadius com.mansourappdevelopment.androidapp.kidsafe:fabCradleRoundedCornerRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabCradleVerticalOffset com.mansourappdevelopment.androidapp.kidsafe:fabCradleVerticalOffset}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomAppBar_hideOnScroll com.mansourappdevelopment.androidapp.kidsafe:hideOnScroll}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_backgroundTint com.parentctrl.androidapp.childtrack:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabAlignmentMode com.parentctrl.androidapp.childtrack:fabAlignmentMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabCradleMargin com.parentctrl.androidapp.childtrack:fabCradleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabCradleRoundedCornerRadius com.parentctrl.androidapp.childtrack:fabCradleRoundedCornerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabCradleVerticalOffset com.parentctrl.androidapp.childtrack:fabCradleVerticalOffset}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_hideOnScroll com.parentctrl.androidapp.childtrack:hideOnScroll}</code></td><td></td></tr>
      * </table>
      * @see #BottomAppBar_backgroundTint
      * @see #BottomAppBar_fabAlignmentMode
@@ -9821,11 +9821,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:backgroundTint
+     * @attr name com.parentctrl.androidapp.childtrack:backgroundTint
      */
     public static final int BottomAppBar_backgroundTint=0;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#fabAlignmentMode}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#fabAlignmentMode}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9838,11 +9838,11 @@ public final class R {
      * <tr><td>end</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:fabAlignmentMode
+     * @attr name com.parentctrl.androidapp.childtrack:fabAlignmentMode
      */
     public static final int BottomAppBar_fabAlignmentMode=1;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#fabCradleMargin}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#fabCradleMargin}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9851,11 +9851,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:fabCradleMargin
+     * @attr name com.parentctrl.androidapp.childtrack:fabCradleMargin
      */
     public static final int BottomAppBar_fabCradleMargin=2;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#fabCradleRoundedCornerRadius}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#fabCradleRoundedCornerRadius}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9864,11 +9864,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:fabCradleRoundedCornerRadius
+     * @attr name com.parentctrl.androidapp.childtrack:fabCradleRoundedCornerRadius
      */
     public static final int BottomAppBar_fabCradleRoundedCornerRadius=3;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#fabCradleVerticalOffset}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#fabCradleVerticalOffset}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9877,17 +9877,17 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:fabCradleVerticalOffset
+     * @attr name com.parentctrl.androidapp.childtrack:fabCradleVerticalOffset
      */
     public static final int BottomAppBar_fabCradleVerticalOffset=4;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#hideOnScroll}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#hideOnScroll}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:hideOnScroll
+     * @attr name com.parentctrl.androidapp.childtrack:hideOnScroll
      */
     public static final int BottomAppBar_hideOnScroll=5;
     /**
@@ -9897,16 +9897,16 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomNavigationView_elevation com.mansourappdevelopment.androidapp.kidsafe:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemBackground com.mansourappdevelopment.androidapp.kidsafe:itemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemHorizontalTranslationEnabled com.mansourappdevelopment.androidapp.kidsafe:itemHorizontalTranslationEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemIconSize com.mansourappdevelopment.androidapp.kidsafe:itemIconSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemIconTint com.mansourappdevelopment.androidapp.kidsafe:itemIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceActive com.mansourappdevelopment.androidapp.kidsafe:itemTextAppearanceActive}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceInactive com.mansourappdevelopment.androidapp.kidsafe:itemTextAppearanceInactive}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemTextColor com.mansourappdevelopment.androidapp.kidsafe:itemTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_labelVisibilityMode com.mansourappdevelopment.androidapp.kidsafe:labelVisibilityMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_menu com.mansourappdevelopment.androidapp.kidsafe:menu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_elevation com.parentctrl.androidapp.childtrack:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemBackground com.parentctrl.androidapp.childtrack:itemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemHorizontalTranslationEnabled com.parentctrl.androidapp.childtrack:itemHorizontalTranslationEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemIconSize com.parentctrl.androidapp.childtrack:itemIconSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemIconTint com.parentctrl.androidapp.childtrack:itemIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceActive com.parentctrl.androidapp.childtrack:itemTextAppearanceActive}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceInactive com.parentctrl.androidapp.childtrack:itemTextAppearanceInactive}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemTextColor com.parentctrl.androidapp.childtrack:itemTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_labelVisibilityMode com.parentctrl.androidapp.childtrack:labelVisibilityMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_menu com.parentctrl.androidapp.childtrack:menu}</code></td><td></td></tr>
      * </table>
      * @see #BottomNavigationView_elevation
      * @see #BottomNavigationView_itemBackground
@@ -9935,11 +9935,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:elevation
+     * @attr name com.parentctrl.androidapp.childtrack:elevation
      */
     public static final int BottomNavigationView_elevation=0;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#itemBackground}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#itemBackground}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9947,21 +9947,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:itemBackground
+     * @attr name com.parentctrl.androidapp.childtrack:itemBackground
      */
     public static final int BottomNavigationView_itemBackground=1;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#itemHorizontalTranslationEnabled}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#itemHorizontalTranslationEnabled}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:itemHorizontalTranslationEnabled
+     * @attr name com.parentctrl.androidapp.childtrack:itemHorizontalTranslationEnabled
      */
     public static final int BottomNavigationView_itemHorizontalTranslationEnabled=2;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#itemIconSize}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#itemIconSize}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9970,22 +9970,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:itemIconSize
+     * @attr name com.parentctrl.androidapp.childtrack:itemIconSize
      */
     public static final int BottomNavigationView_itemIconSize=3;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#itemIconTint}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#itemIconTint}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:itemIconTint
+     * @attr name com.parentctrl.androidapp.childtrack:itemIconTint
      */
     public static final int BottomNavigationView_itemIconTint=4;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#itemTextAppearanceActive}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#itemTextAppearanceActive}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9993,11 +9993,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:itemTextAppearanceActive
+     * @attr name com.parentctrl.androidapp.childtrack:itemTextAppearanceActive
      */
     public static final int BottomNavigationView_itemTextAppearanceActive=5;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#itemTextAppearanceInactive}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#itemTextAppearanceInactive}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10005,22 +10005,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:itemTextAppearanceInactive
+     * @attr name com.parentctrl.androidapp.childtrack:itemTextAppearanceInactive
      */
     public static final int BottomNavigationView_itemTextAppearanceInactive=6;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#itemTextColor}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#itemTextColor}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:itemTextColor
+     * @attr name com.parentctrl.androidapp.childtrack:itemTextColor
      */
     public static final int BottomNavigationView_itemTextColor=7;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#labelVisibilityMode}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#labelVisibilityMode}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10035,11 +10035,11 @@ public final class R {
      * <tr><td>unlabeled</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:labelVisibilityMode
+     * @attr name com.parentctrl.androidapp.childtrack:labelVisibilityMode
      */
     public static final int BottomNavigationView_labelVisibilityMode=8;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#menu}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#menu}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10047,7 +10047,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:menu
+     * @attr name com.parentctrl.androidapp.childtrack:menu
      */
     public static final int BottomNavigationView_menu=9;
     /**
@@ -10057,10 +10057,10 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_fitToContents com.mansourappdevelopment.androidapp.kidsafe:behavior_fitToContents}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.mansourappdevelopment.androidapp.kidsafe:behavior_hideable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.mansourappdevelopment.androidapp.kidsafe:behavior_peekHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.mansourappdevelopment.androidapp.kidsafe:behavior_skipCollapsed}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_fitToContents com.parentctrl.androidapp.childtrack:behavior_fitToContents}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.parentctrl.androidapp.childtrack:behavior_hideable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.parentctrl.androidapp.childtrack:behavior_peekHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.parentctrl.androidapp.childtrack:behavior_skipCollapsed}</code></td><td></td></tr>
      * </table>
      * @see #BottomSheetBehavior_Layout_behavior_fitToContents
      * @see #BottomSheetBehavior_Layout_behavior_hideable
@@ -10071,27 +10071,27 @@ public final class R {
       0x7f040038, 0x7f040039, 0x7f04003b, 0x7f04003c
     };
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#behavior_fitToContents}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#behavior_fitToContents}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:behavior_fitToContents
+     * @attr name com.parentctrl.androidapp.childtrack:behavior_fitToContents
      */
     public static final int BottomSheetBehavior_Layout_behavior_fitToContents=0;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#behavior_hideable}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#behavior_hideable}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:behavior_hideable
+     * @attr name com.parentctrl.androidapp.childtrack:behavior_hideable
      */
     public static final int BottomSheetBehavior_Layout_behavior_hideable=1;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#behavior_peekHeight}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#behavior_peekHeight}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10108,17 +10108,17 @@ public final class R {
      * <tr><td>auto</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:behavior_peekHeight
+     * @attr name com.parentctrl.androidapp.childtrack:behavior_peekHeight
      */
     public static final int BottomSheetBehavior_Layout_behavior_peekHeight=2;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#behavior_skipCollapsed}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#behavior_skipCollapsed}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:behavior_skipCollapsed
+     * @attr name com.parentctrl.androidapp.childtrack:behavior_skipCollapsed
      */
     public static final int BottomSheetBehavior_Layout_behavior_skipCollapsed=3;
     /**
@@ -10128,7 +10128,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.mansourappdevelopment.androidapp.kidsafe:allowStacking}</code></td><td>Whether to automatically stack the buttons when there is not
+     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.parentctrl.androidapp.childtrack:allowStacking}</code></td><td>Whether to automatically stack the buttons when there is not
      * enough space to lay them out side-by-side.</td></tr>
      * </table>
      * @see #ButtonBarLayout_allowStacking
@@ -10145,7 +10145,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:allowStacking
+     * @attr name com.parentctrl.androidapp.childtrack:allowStacking
      */
     public static final int ButtonBarLayout_allowStacking=0;
     /**
@@ -10157,17 +10157,17 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CardView_android_minWidth android:minWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #CardView_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardBackgroundColor com.mansourappdevelopment.androidapp.kidsafe:cardBackgroundColor}</code></td><td>Background color for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardCornerRadius com.mansourappdevelopment.androidapp.kidsafe:cardCornerRadius}</code></td><td>Corner radius for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardElevation com.mansourappdevelopment.androidapp.kidsafe:cardElevation}</code></td><td>Elevation for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardMaxElevation com.mansourappdevelopment.androidapp.kidsafe:cardMaxElevation}</code></td><td>Maximum Elevation for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.mansourappdevelopment.androidapp.kidsafe:cardPreventCornerOverlap}</code></td><td>Add padding to CardView on v20 and before to prevent intersections between the Card content and rounded corners.</td></tr>
-     * <tr><td><code>{@link #CardView_cardUseCompatPadding com.mansourappdevelopment.androidapp.kidsafe:cardUseCompatPadding}</code></td><td>Add padding in API v21+ as well to have the same measurements with previous versions.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPadding com.mansourappdevelopment.androidapp.kidsafe:contentPadding}</code></td><td>Inner padding between the edges of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingBottom com.mansourappdevelopment.androidapp.kidsafe:contentPaddingBottom}</code></td><td>Inner padding between the bottom edge of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingLeft com.mansourappdevelopment.androidapp.kidsafe:contentPaddingLeft}</code></td><td>Inner padding between the left edge of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingRight com.mansourappdevelopment.androidapp.kidsafe:contentPaddingRight}</code></td><td>Inner padding between the right edge of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingTop com.mansourappdevelopment.androidapp.kidsafe:contentPaddingTop}</code></td><td>Inner padding between the top edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardBackgroundColor com.parentctrl.androidapp.childtrack:cardBackgroundColor}</code></td><td>Background color for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardCornerRadius com.parentctrl.androidapp.childtrack:cardCornerRadius}</code></td><td>Corner radius for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardElevation com.parentctrl.androidapp.childtrack:cardElevation}</code></td><td>Elevation for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardMaxElevation com.parentctrl.androidapp.childtrack:cardMaxElevation}</code></td><td>Maximum Elevation for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.parentctrl.androidapp.childtrack:cardPreventCornerOverlap}</code></td><td>Add padding to CardView on v20 and before to prevent intersections between the Card content and rounded corners.</td></tr>
+     * <tr><td><code>{@link #CardView_cardUseCompatPadding com.parentctrl.androidapp.childtrack:cardUseCompatPadding}</code></td><td>Add padding in API v21+ as well to have the same measurements with previous versions.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPadding com.parentctrl.androidapp.childtrack:contentPadding}</code></td><td>Inner padding between the edges of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingBottom com.parentctrl.androidapp.childtrack:contentPaddingBottom}</code></td><td>Inner padding between the bottom edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingLeft com.parentctrl.androidapp.childtrack:contentPaddingLeft}</code></td><td>Inner padding between the left edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingRight com.parentctrl.androidapp.childtrack:contentPaddingRight}</code></td><td>Inner padding between the right edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingTop com.parentctrl.androidapp.childtrack:contentPaddingTop}</code></td><td>Inner padding between the top edge of the Card and children of the CardView.</td></tr>
      * </table>
      * @see #CardView_android_minWidth
      * @see #CardView_android_minHeight
@@ -10226,7 +10226,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:cardBackgroundColor
+     * @attr name com.parentctrl.androidapp.childtrack:cardBackgroundColor
      */
     public static final int CardView_cardBackgroundColor=2;
     /**
@@ -10240,7 +10240,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:cardCornerRadius
+     * @attr name com.parentctrl.androidapp.childtrack:cardCornerRadius
      */
     public static final int CardView_cardCornerRadius=3;
     /**
@@ -10254,7 +10254,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:cardElevation
+     * @attr name com.parentctrl.androidapp.childtrack:cardElevation
      */
     public static final int CardView_cardElevation=4;
     /**
@@ -10268,7 +10268,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:cardMaxElevation
+     * @attr name com.parentctrl.androidapp.childtrack:cardMaxElevation
      */
     public static final int CardView_cardMaxElevation=5;
     /**
@@ -10279,7 +10279,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:cardPreventCornerOverlap
+     * @attr name com.parentctrl.androidapp.childtrack:cardPreventCornerOverlap
      */
     public static final int CardView_cardPreventCornerOverlap=6;
     /**
@@ -10290,7 +10290,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:cardUseCompatPadding
+     * @attr name com.parentctrl.androidapp.childtrack:cardUseCompatPadding
      */
     public static final int CardView_cardUseCompatPadding=7;
     /**
@@ -10304,7 +10304,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:contentPadding
+     * @attr name com.parentctrl.androidapp.childtrack:contentPadding
      */
     public static final int CardView_contentPadding=8;
     /**
@@ -10318,7 +10318,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:contentPaddingBottom
+     * @attr name com.parentctrl.androidapp.childtrack:contentPaddingBottom
      */
     public static final int CardView_contentPaddingBottom=9;
     /**
@@ -10332,7 +10332,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:contentPaddingLeft
+     * @attr name com.parentctrl.androidapp.childtrack:contentPaddingLeft
      */
     public static final int CardView_contentPaddingLeft=10;
     /**
@@ -10346,7 +10346,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:contentPaddingRight
+     * @attr name com.parentctrl.androidapp.childtrack:contentPaddingRight
      */
     public static final int CardView_contentPaddingRight=11;
     /**
@@ -10360,7 +10360,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:contentPaddingTop
+     * @attr name com.parentctrl.androidapp.childtrack:contentPaddingTop
      */
     public static final int CardView_contentPaddingTop=12;
     /**
@@ -10375,35 +10375,35 @@ public final class R {
      * <tr><td><code>{@link #Chip_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #Chip_android_text android:text}</code></td><td></td></tr>
      * <tr><td><code>{@link #Chip_android_checkable android:checkable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_checkedIcon com.mansourappdevelopment.androidapp.kidsafe:checkedIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_checkedIconEnabled com.mansourappdevelopment.androidapp.kidsafe:checkedIconEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_checkedIconVisible com.mansourappdevelopment.androidapp.kidsafe:checkedIconVisible}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipBackgroundColor com.mansourappdevelopment.androidapp.kidsafe:chipBackgroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipCornerRadius com.mansourappdevelopment.androidapp.kidsafe:chipCornerRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipEndPadding com.mansourappdevelopment.androidapp.kidsafe:chipEndPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIcon com.mansourappdevelopment.androidapp.kidsafe:chipIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIconEnabled com.mansourappdevelopment.androidapp.kidsafe:chipIconEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIconSize com.mansourappdevelopment.androidapp.kidsafe:chipIconSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIconTint com.mansourappdevelopment.androidapp.kidsafe:chipIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIconVisible com.mansourappdevelopment.androidapp.kidsafe:chipIconVisible}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipMinHeight com.mansourappdevelopment.androidapp.kidsafe:chipMinHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipStartPadding com.mansourappdevelopment.androidapp.kidsafe:chipStartPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipStrokeColor com.mansourappdevelopment.androidapp.kidsafe:chipStrokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipStrokeWidth com.mansourappdevelopment.androidapp.kidsafe:chipStrokeWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIcon com.mansourappdevelopment.androidapp.kidsafe:closeIcon}</code></td><td>Close button icon</td></tr>
-     * <tr><td><code>{@link #Chip_closeIconEnabled com.mansourappdevelopment.androidapp.kidsafe:closeIconEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconEndPadding com.mansourappdevelopment.androidapp.kidsafe:closeIconEndPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconSize com.mansourappdevelopment.androidapp.kidsafe:closeIconSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconStartPadding com.mansourappdevelopment.androidapp.kidsafe:closeIconStartPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconTint com.mansourappdevelopment.androidapp.kidsafe:closeIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconVisible com.mansourappdevelopment.androidapp.kidsafe:closeIconVisible}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_hideMotionSpec com.mansourappdevelopment.androidapp.kidsafe:hideMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_iconEndPadding com.mansourappdevelopment.androidapp.kidsafe:iconEndPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_iconStartPadding com.mansourappdevelopment.androidapp.kidsafe:iconStartPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_rippleColor com.mansourappdevelopment.androidapp.kidsafe:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_showMotionSpec com.mansourappdevelopment.androidapp.kidsafe:showMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_textEndPadding com.mansourappdevelopment.androidapp.kidsafe:textEndPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_textStartPadding com.mansourappdevelopment.androidapp.kidsafe:textStartPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_checkedIcon com.parentctrl.androidapp.childtrack:checkedIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_checkedIconEnabled com.parentctrl.androidapp.childtrack:checkedIconEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_checkedIconVisible com.parentctrl.androidapp.childtrack:checkedIconVisible}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipBackgroundColor com.parentctrl.androidapp.childtrack:chipBackgroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipCornerRadius com.parentctrl.androidapp.childtrack:chipCornerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipEndPadding com.parentctrl.androidapp.childtrack:chipEndPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIcon com.parentctrl.androidapp.childtrack:chipIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIconEnabled com.parentctrl.androidapp.childtrack:chipIconEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIconSize com.parentctrl.androidapp.childtrack:chipIconSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIconTint com.parentctrl.androidapp.childtrack:chipIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIconVisible com.parentctrl.androidapp.childtrack:chipIconVisible}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipMinHeight com.parentctrl.androidapp.childtrack:chipMinHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipStartPadding com.parentctrl.androidapp.childtrack:chipStartPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipStrokeColor com.parentctrl.androidapp.childtrack:chipStrokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipStrokeWidth com.parentctrl.androidapp.childtrack:chipStrokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIcon com.parentctrl.androidapp.childtrack:closeIcon}</code></td><td>Close button icon</td></tr>
+     * <tr><td><code>{@link #Chip_closeIconEnabled com.parentctrl.androidapp.childtrack:closeIconEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconEndPadding com.parentctrl.androidapp.childtrack:closeIconEndPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconSize com.parentctrl.androidapp.childtrack:closeIconSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconStartPadding com.parentctrl.androidapp.childtrack:closeIconStartPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconTint com.parentctrl.androidapp.childtrack:closeIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconVisible com.parentctrl.androidapp.childtrack:closeIconVisible}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_hideMotionSpec com.parentctrl.androidapp.childtrack:hideMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_iconEndPadding com.parentctrl.androidapp.childtrack:iconEndPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_iconStartPadding com.parentctrl.androidapp.childtrack:iconStartPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_rippleColor com.parentctrl.androidapp.childtrack:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_showMotionSpec com.parentctrl.androidapp.childtrack:showMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_textEndPadding com.parentctrl.androidapp.childtrack:textEndPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_textStartPadding com.parentctrl.androidapp.childtrack:textStartPadding}</code></td><td></td></tr>
      * </table>
      * @see #Chip_android_textAppearance
      * @see #Chip_android_ellipsize
@@ -10517,7 +10517,7 @@ public final class R {
      */
     public static final int Chip_android_checkable=4;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#checkedIcon}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#checkedIcon}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10525,42 +10525,42 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:checkedIcon
+     * @attr name com.parentctrl.androidapp.childtrack:checkedIcon
      */
     public static final int Chip_checkedIcon=5;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#checkedIconEnabled}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#checkedIconEnabled}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:checkedIconEnabled
+     * @attr name com.parentctrl.androidapp.childtrack:checkedIconEnabled
      */
     public static final int Chip_checkedIconEnabled=6;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#checkedIconVisible}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#checkedIconVisible}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:checkedIconVisible
+     * @attr name com.parentctrl.androidapp.childtrack:checkedIconVisible
      */
     public static final int Chip_checkedIconVisible=7;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#chipBackgroundColor}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#chipBackgroundColor}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:chipBackgroundColor
+     * @attr name com.parentctrl.androidapp.childtrack:chipBackgroundColor
      */
     public static final int Chip_chipBackgroundColor=8;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#chipCornerRadius}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#chipCornerRadius}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10569,11 +10569,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:chipCornerRadius
+     * @attr name com.parentctrl.androidapp.childtrack:chipCornerRadius
      */
     public static final int Chip_chipCornerRadius=9;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#chipEndPadding}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#chipEndPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10582,11 +10582,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:chipEndPadding
+     * @attr name com.parentctrl.androidapp.childtrack:chipEndPadding
      */
     public static final int Chip_chipEndPadding=10;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#chipIcon}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#chipIcon}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10594,21 +10594,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:chipIcon
+     * @attr name com.parentctrl.androidapp.childtrack:chipIcon
      */
     public static final int Chip_chipIcon=11;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#chipIconEnabled}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#chipIconEnabled}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:chipIconEnabled
+     * @attr name com.parentctrl.androidapp.childtrack:chipIconEnabled
      */
     public static final int Chip_chipIconEnabled=12;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#chipIconSize}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#chipIconSize}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10617,32 +10617,32 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:chipIconSize
+     * @attr name com.parentctrl.androidapp.childtrack:chipIconSize
      */
     public static final int Chip_chipIconSize=13;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#chipIconTint}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#chipIconTint}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:chipIconTint
+     * @attr name com.parentctrl.androidapp.childtrack:chipIconTint
      */
     public static final int Chip_chipIconTint=14;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#chipIconVisible}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#chipIconVisible}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:chipIconVisible
+     * @attr name com.parentctrl.androidapp.childtrack:chipIconVisible
      */
     public static final int Chip_chipIconVisible=15;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#chipMinHeight}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#chipMinHeight}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10651,11 +10651,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:chipMinHeight
+     * @attr name com.parentctrl.androidapp.childtrack:chipMinHeight
      */
     public static final int Chip_chipMinHeight=16;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#chipStartPadding}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#chipStartPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10664,22 +10664,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:chipStartPadding
+     * @attr name com.parentctrl.androidapp.childtrack:chipStartPadding
      */
     public static final int Chip_chipStartPadding=17;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#chipStrokeColor}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#chipStrokeColor}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:chipStrokeColor
+     * @attr name com.parentctrl.androidapp.childtrack:chipStrokeColor
      */
     public static final int Chip_chipStrokeColor=18;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#chipStrokeWidth}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#chipStrokeWidth}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10688,7 +10688,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:chipStrokeWidth
+     * @attr name com.parentctrl.androidapp.childtrack:chipStrokeWidth
      */
     public static final int Chip_chipStrokeWidth=19;
     /**
@@ -10701,21 +10701,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:closeIcon
+     * @attr name com.parentctrl.androidapp.childtrack:closeIcon
      */
     public static final int Chip_closeIcon=20;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#closeIconEnabled}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#closeIconEnabled}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:closeIconEnabled
+     * @attr name com.parentctrl.androidapp.childtrack:closeIconEnabled
      */
     public static final int Chip_closeIconEnabled=21;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#closeIconEndPadding}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#closeIconEndPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10724,11 +10724,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:closeIconEndPadding
+     * @attr name com.parentctrl.androidapp.childtrack:closeIconEndPadding
      */
     public static final int Chip_closeIconEndPadding=22;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#closeIconSize}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#closeIconSize}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10737,11 +10737,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:closeIconSize
+     * @attr name com.parentctrl.androidapp.childtrack:closeIconSize
      */
     public static final int Chip_closeIconSize=23;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#closeIconStartPadding}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#closeIconStartPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10750,32 +10750,32 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:closeIconStartPadding
+     * @attr name com.parentctrl.androidapp.childtrack:closeIconStartPadding
      */
     public static final int Chip_closeIconStartPadding=24;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#closeIconTint}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#closeIconTint}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:closeIconTint
+     * @attr name com.parentctrl.androidapp.childtrack:closeIconTint
      */
     public static final int Chip_closeIconTint=25;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#closeIconVisible}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#closeIconVisible}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:closeIconVisible
+     * @attr name com.parentctrl.androidapp.childtrack:closeIconVisible
      */
     public static final int Chip_closeIconVisible=26;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#hideMotionSpec}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#hideMotionSpec}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10783,11 +10783,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:hideMotionSpec
+     * @attr name com.parentctrl.androidapp.childtrack:hideMotionSpec
      */
     public static final int Chip_hideMotionSpec=27;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#iconEndPadding}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#iconEndPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10796,11 +10796,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:iconEndPadding
+     * @attr name com.parentctrl.androidapp.childtrack:iconEndPadding
      */
     public static final int Chip_iconEndPadding=28;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#iconStartPadding}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#iconStartPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10809,22 +10809,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:iconStartPadding
+     * @attr name com.parentctrl.androidapp.childtrack:iconStartPadding
      */
     public static final int Chip_iconStartPadding=29;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#rippleColor}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#rippleColor}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:rippleColor
+     * @attr name com.parentctrl.androidapp.childtrack:rippleColor
      */
     public static final int Chip_rippleColor=30;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#showMotionSpec}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#showMotionSpec}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10832,11 +10832,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:showMotionSpec
+     * @attr name com.parentctrl.androidapp.childtrack:showMotionSpec
      */
     public static final int Chip_showMotionSpec=31;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#textEndPadding}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#textEndPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10845,11 +10845,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:textEndPadding
+     * @attr name com.parentctrl.androidapp.childtrack:textEndPadding
      */
     public static final int Chip_textEndPadding=32;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#textStartPadding}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#textStartPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10858,7 +10858,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:textStartPadding
+     * @attr name com.parentctrl.androidapp.childtrack:textStartPadding
      */
     public static final int Chip_textStartPadding=33;
     /**
@@ -10868,12 +10868,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ChipGroup_checkedChip com.mansourappdevelopment.androidapp.kidsafe:checkedChip}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_chipSpacing com.mansourappdevelopment.androidapp.kidsafe:chipSpacing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_chipSpacingHorizontal com.mansourappdevelopment.androidapp.kidsafe:chipSpacingHorizontal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_chipSpacingVertical com.mansourappdevelopment.androidapp.kidsafe:chipSpacingVertical}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_singleLine com.mansourappdevelopment.androidapp.kidsafe:singleLine}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_singleSelection com.mansourappdevelopment.androidapp.kidsafe:singleSelection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_checkedChip com.parentctrl.androidapp.childtrack:checkedChip}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_chipSpacing com.parentctrl.androidapp.childtrack:chipSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_chipSpacingHorizontal com.parentctrl.androidapp.childtrack:chipSpacingHorizontal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_chipSpacingVertical com.parentctrl.androidapp.childtrack:chipSpacingVertical}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_singleLine com.parentctrl.androidapp.childtrack:singleLine}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_singleSelection com.parentctrl.androidapp.childtrack:singleSelection}</code></td><td></td></tr>
      * </table>
      * @see #ChipGroup_checkedChip
      * @see #ChipGroup_chipSpacing
@@ -10887,7 +10887,7 @@ public final class R {
       0x7f040167, 0x7f040168
     };
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#checkedChip}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#checkedChip}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10895,11 +10895,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:checkedChip
+     * @attr name com.parentctrl.androidapp.childtrack:checkedChip
      */
     public static final int ChipGroup_checkedChip=0;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#chipSpacing}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#chipSpacing}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10908,11 +10908,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:chipSpacing
+     * @attr name com.parentctrl.androidapp.childtrack:chipSpacing
      */
     public static final int ChipGroup_chipSpacing=1;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#chipSpacingHorizontal}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#chipSpacingHorizontal}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10921,11 +10921,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:chipSpacingHorizontal
+     * @attr name com.parentctrl.androidapp.childtrack:chipSpacingHorizontal
      */
     public static final int ChipGroup_chipSpacingHorizontal=2;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#chipSpacingVertical}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#chipSpacingVertical}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10934,27 +10934,27 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:chipSpacingVertical
+     * @attr name com.parentctrl.androidapp.childtrack:chipSpacingVertical
      */
     public static final int ChipGroup_chipSpacingVertical=3;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#singleLine}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#singleLine}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:singleLine
+     * @attr name com.parentctrl.androidapp.childtrack:singleLine
      */
     public static final int ChipGroup_singleLine=4;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#singleSelection}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#singleSelection}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:singleSelection
+     * @attr name com.parentctrl.androidapp.childtrack:singleSelection
      */
     public static final int ChipGroup_singleSelection=5;
     /**
@@ -10964,10 +10964,10 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CircleImageView_civ_border_color com.mansourappdevelopment.androidapp.kidsafe:civ_border_color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CircleImageView_civ_border_overlay com.mansourappdevelopment.androidapp.kidsafe:civ_border_overlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CircleImageView_civ_border_width com.mansourappdevelopment.androidapp.kidsafe:civ_border_width}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CircleImageView_civ_circle_background_color com.mansourappdevelopment.androidapp.kidsafe:civ_circle_background_color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CircleImageView_civ_border_color com.parentctrl.androidapp.childtrack:civ_border_color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CircleImageView_civ_border_overlay com.parentctrl.androidapp.childtrack:civ_border_overlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CircleImageView_civ_border_width com.parentctrl.androidapp.childtrack:civ_border_width}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CircleImageView_civ_circle_background_color com.parentctrl.androidapp.childtrack:civ_circle_background_color}</code></td><td></td></tr>
      * </table>
      * @see #CircleImageView_civ_border_color
      * @see #CircleImageView_civ_border_overlay
@@ -10978,28 +10978,28 @@ public final class R {
       0x7f040079, 0x7f04007a, 0x7f04007b, 0x7f04007c
     };
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#civ_border_color}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#civ_border_color}
      * attribute's value can be found in the {@link #CircleImageView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:civ_border_color
+     * @attr name com.parentctrl.androidapp.childtrack:civ_border_color
      */
     public static final int CircleImageView_civ_border_color=0;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#civ_border_overlay}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#civ_border_overlay}
      * attribute's value can be found in the {@link #CircleImageView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:civ_border_overlay
+     * @attr name com.parentctrl.androidapp.childtrack:civ_border_overlay
      */
     public static final int CircleImageView_civ_border_overlay=1;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#civ_border_width}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#civ_border_width}
      * attribute's value can be found in the {@link #CircleImageView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11008,18 +11008,18 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:civ_border_width
+     * @attr name com.parentctrl.androidapp.childtrack:civ_border_width
      */
     public static final int CircleImageView_civ_border_width=2;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#civ_circle_background_color}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#civ_circle_background_color}
      * attribute's value can be found in the {@link #CircleImageView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:civ_circle_background_color
+     * @attr name com.parentctrl.androidapp.childtrack:civ_circle_background_color
      */
     public static final int CircleImageView_civ_circle_background_color=3;
     /**
@@ -11029,22 +11029,22 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.mansourappdevelopment.androidapp.kidsafe:collapsedTitleGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.mansourappdevelopment.androidapp.kidsafe:collapsedTitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.mansourappdevelopment.androidapp.kidsafe:contentScrim}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.mansourappdevelopment.androidapp.kidsafe:expandedTitleGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.mansourappdevelopment.androidapp.kidsafe:expandedTitleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.mansourappdevelopment.androidapp.kidsafe:expandedTitleMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.mansourappdevelopment.androidapp.kidsafe:expandedTitleMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.mansourappdevelopment.androidapp.kidsafe:expandedTitleMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.mansourappdevelopment.androidapp.kidsafe:expandedTitleMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.mansourappdevelopment.androidapp.kidsafe:expandedTitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.mansourappdevelopment.androidapp.kidsafe:scrimAnimationDuration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.mansourappdevelopment.androidapp.kidsafe:scrimVisibleHeightTrigger}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.mansourappdevelopment.androidapp.kidsafe:statusBarScrim}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_title com.mansourappdevelopment.androidapp.kidsafe:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.mansourappdevelopment.androidapp.kidsafe:titleEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.mansourappdevelopment.androidapp.kidsafe:toolbarId}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.parentctrl.androidapp.childtrack:collapsedTitleGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.parentctrl.androidapp.childtrack:collapsedTitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.parentctrl.androidapp.childtrack:contentScrim}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.parentctrl.androidapp.childtrack:expandedTitleGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.parentctrl.androidapp.childtrack:expandedTitleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.parentctrl.androidapp.childtrack:expandedTitleMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.parentctrl.androidapp.childtrack:expandedTitleMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.parentctrl.androidapp.childtrack:expandedTitleMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.parentctrl.androidapp.childtrack:expandedTitleMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.parentctrl.androidapp.childtrack:expandedTitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.parentctrl.androidapp.childtrack:scrimAnimationDuration}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.parentctrl.androidapp.childtrack:scrimVisibleHeightTrigger}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.parentctrl.androidapp.childtrack:statusBarScrim}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_title com.parentctrl.androidapp.childtrack:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.parentctrl.androidapp.childtrack:titleEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.parentctrl.androidapp.childtrack:toolbarId}</code></td><td></td></tr>
      * </table>
      * @see #CollapsingToolbarLayout_collapsedTitleGravity
      * @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -11070,7 +11070,7 @@ public final class R {
       0x7f040178, 0x7f0401c5, 0x7f0401c6, 0x7f0401d0
     };
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#collapsedTitleGravity}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#collapsedTitleGravity}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -11091,11 +11091,11 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:collapsedTitleGravity
+     * @attr name com.parentctrl.androidapp.childtrack:collapsedTitleGravity
      */
     public static final int CollapsingToolbarLayout_collapsedTitleGravity=0;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#collapsedTitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#collapsedTitleTextAppearance}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11103,22 +11103,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:collapsedTitleTextAppearance
+     * @attr name com.parentctrl.androidapp.childtrack:collapsedTitleTextAppearance
      */
     public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance=1;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#contentScrim}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#contentScrim}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:contentScrim
+     * @attr name com.parentctrl.androidapp.childtrack:contentScrim
      */
     public static final int CollapsingToolbarLayout_contentScrim=2;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#expandedTitleGravity}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#expandedTitleGravity}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -11139,11 +11139,11 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:expandedTitleGravity
+     * @attr name com.parentctrl.androidapp.childtrack:expandedTitleGravity
      */
     public static final int CollapsingToolbarLayout_expandedTitleGravity=3;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#expandedTitleMargin}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#expandedTitleMargin}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11152,11 +11152,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:expandedTitleMargin
+     * @attr name com.parentctrl.androidapp.childtrack:expandedTitleMargin
      */
     public static final int CollapsingToolbarLayout_expandedTitleMargin=4;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#expandedTitleMarginBottom}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#expandedTitleMarginBottom}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11165,11 +11165,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:expandedTitleMarginBottom
+     * @attr name com.parentctrl.androidapp.childtrack:expandedTitleMarginBottom
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginBottom=5;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#expandedTitleMarginEnd}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#expandedTitleMarginEnd}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11178,11 +11178,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:expandedTitleMarginEnd
+     * @attr name com.parentctrl.androidapp.childtrack:expandedTitleMarginEnd
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginEnd=6;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#expandedTitleMarginStart}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#expandedTitleMarginStart}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11191,11 +11191,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:expandedTitleMarginStart
+     * @attr name com.parentctrl.androidapp.childtrack:expandedTitleMarginStart
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginStart=7;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#expandedTitleMarginTop}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#expandedTitleMarginTop}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11204,11 +11204,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:expandedTitleMarginTop
+     * @attr name com.parentctrl.androidapp.childtrack:expandedTitleMarginTop
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginTop=8;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#expandedTitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#expandedTitleTextAppearance}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11216,20 +11216,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:expandedTitleTextAppearance
+     * @attr name com.parentctrl.androidapp.childtrack:expandedTitleTextAppearance
      */
     public static final int CollapsingToolbarLayout_expandedTitleTextAppearance=9;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#scrimAnimationDuration}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#scrimAnimationDuration}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:scrimAnimationDuration
+     * @attr name com.parentctrl.androidapp.childtrack:scrimAnimationDuration
      */
     public static final int CollapsingToolbarLayout_scrimAnimationDuration=10;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#scrimVisibleHeightTrigger}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#scrimVisibleHeightTrigger}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11238,42 +11238,42 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:scrimVisibleHeightTrigger
+     * @attr name com.parentctrl.androidapp.childtrack:scrimVisibleHeightTrigger
      */
     public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger=11;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#statusBarScrim}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#statusBarScrim}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:statusBarScrim
+     * @attr name com.parentctrl.androidapp.childtrack:statusBarScrim
      */
     public static final int CollapsingToolbarLayout_statusBarScrim=12;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#title}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:title
+     * @attr name com.parentctrl.androidapp.childtrack:title
      */
     public static final int CollapsingToolbarLayout_title=13;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#titleEnabled}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#titleEnabled}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:titleEnabled
+     * @attr name com.parentctrl.androidapp.childtrack:titleEnabled
      */
     public static final int CollapsingToolbarLayout_titleEnabled=14;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#toolbarId}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#toolbarId}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11281,7 +11281,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:toolbarId
+     * @attr name com.parentctrl.androidapp.childtrack:toolbarId
      */
     public static final int CollapsingToolbarLayout_toolbarId=15;
     /**
@@ -11291,8 +11291,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.mansourappdevelopment.androidapp.kidsafe:layout_collapseMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.mansourappdevelopment.androidapp.kidsafe:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.parentctrl.androidapp.childtrack:layout_collapseMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.parentctrl.androidapp.childtrack:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
      * </table>
      * @see #CollapsingToolbarLayout_Layout_layout_collapseMode
      * @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
@@ -11301,7 +11301,7 @@ public final class R {
       0x7f040117, 0x7f040118
     };
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#layout_collapseMode}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#layout_collapseMode}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11315,16 +11315,16 @@ public final class R {
      * <tr><td>pin</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:layout_collapseMode
+     * @attr name com.parentctrl.androidapp.childtrack:layout_collapseMode
      */
     public static final int CollapsingToolbarLayout_Layout_layout_collapseMode=0;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#layout_collapseParallaxMultiplier}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#layout_collapseParallaxMultiplier}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:layout_collapseParallaxMultiplier
+     * @attr name com.parentctrl.androidapp.childtrack:layout_collapseParallaxMultiplier
      */
     public static final int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier=1;
     /**
@@ -11336,7 +11336,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ColorStateListItem_alpha com.mansourappdevelopment.androidapp.kidsafe:alpha}</code></td><td>Alpha multiplier applied to the base color.</td></tr>
+     * <tr><td><code>{@link #ColorStateListItem_alpha com.parentctrl.androidapp.childtrack:alpha}</code></td><td>Alpha multiplier applied to the base color.</td></tr>
      * </table>
      * @see #ColorStateListItem_android_color
      * @see #ColorStateListItem_android_alpha
@@ -11373,7 +11373,7 @@ public final class R {
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:alpha
+     * @attr name com.parentctrl.androidapp.childtrack:alpha
      */
     public static final int ColorStateListItem_alpha=2;
     /**
@@ -11384,8 +11384,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTint com.mansourappdevelopment.androidapp.kidsafe:buttonTint}</code></td><td>Tint to apply to the button drawable.</td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.mansourappdevelopment.androidapp.kidsafe:buttonTintMode}</code></td><td>Blending mode used to apply the button tint.</td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTint com.parentctrl.androidapp.childtrack:buttonTint}</code></td><td>Tint to apply to the button drawable.</td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.parentctrl.androidapp.childtrack:buttonTintMode}</code></td><td>Blending mode used to apply the button tint.</td></tr>
      * </table>
      * @see #CompoundButton_android_button
      * @see #CompoundButton_buttonTint
@@ -11415,7 +11415,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:buttonTint
+     * @attr name com.parentctrl.androidapp.childtrack:buttonTint
      */
     public static final int CompoundButton_buttonTint=1;
     /**
@@ -11442,7 +11442,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:buttonTintMode
+     * @attr name com.parentctrl.androidapp.childtrack:buttonTintMode
      */
     public static final int CompoundButton_buttonTintMode=2;
     /**
@@ -11452,9 +11452,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_keylines com.mansourappdevelopment.androidapp.kidsafe:keylines}</code></td><td>A reference to an array of integers representing the
+     * <tr><td><code>{@link #CoordinatorLayout_keylines com.parentctrl.androidapp.childtrack:keylines}</code></td><td>A reference to an array of integers representing the
      * locations of horizontal keylines in dp from the starting edge.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.mansourappdevelopment.androidapp.kidsafe:statusBarBackground}</code></td><td>Drawable to display behind the status bar when the view is set to draw behind it.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.parentctrl.androidapp.childtrack:statusBarBackground}</code></td><td>Drawable to display behind the status bar when the view is set to draw behind it.</td></tr>
      * </table>
      * @see #CoordinatorLayout_keylines
      * @see #CoordinatorLayout_statusBarBackground
@@ -11476,7 +11476,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:keylines
+     * @attr name com.parentctrl.androidapp.childtrack:keylines
      */
     public static final int CoordinatorLayout_keylines=0;
     /**
@@ -11492,7 +11492,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:statusBarBackground
+     * @attr name com.parentctrl.androidapp.childtrack:statusBarBackground
      */
     public static final int CoordinatorLayout_statusBarBackground=1;
     /**
@@ -11503,15 +11503,15 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.mansourappdevelopment.androidapp.kidsafe:layout_anchor}</code></td><td>The id of an anchor view that this view should position relative to.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.mansourappdevelopment.androidapp.kidsafe:layout_anchorGravity}</code></td><td>Specifies how an object should position relative to an anchor, on both the X and Y axes,
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.parentctrl.androidapp.childtrack:layout_anchor}</code></td><td>The id of an anchor view that this view should position relative to.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.parentctrl.androidapp.childtrack:layout_anchorGravity}</code></td><td>Specifies how an object should position relative to an anchor, on both the X and Y axes,
      * within its parent's bounds.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.mansourappdevelopment.androidapp.kidsafe:layout_behavior}</code></td><td>The class name of a Behavior class defining special runtime behavior
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.parentctrl.androidapp.childtrack:layout_behavior}</code></td><td>The class name of a Behavior class defining special runtime behavior
      * for this child view.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.mansourappdevelopment.androidapp.kidsafe:layout_dodgeInsetEdges}</code></td><td>Specifies how this view dodges the inset edges of the CoordinatorLayout.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.mansourappdevelopment.androidapp.kidsafe:layout_insetEdge}</code></td><td>Specifies how this view insets the CoordinatorLayout and make some other views
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.parentctrl.androidapp.childtrack:layout_dodgeInsetEdges}</code></td><td>Specifies how this view dodges the inset edges of the CoordinatorLayout.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.parentctrl.androidapp.childtrack:layout_insetEdge}</code></td><td>Specifies how this view insets the CoordinatorLayout and make some other views
      * dodge it.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.mansourappdevelopment.androidapp.kidsafe:layout_keyline}</code></td><td>The index of a keyline this view should position relative to.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.parentctrl.androidapp.childtrack:layout_keyline}</code></td><td>The index of a keyline this view should position relative to.</td></tr>
      * </table>
      * @see #CoordinatorLayout_Layout_android_layout_gravity
      * @see #CoordinatorLayout_Layout_layout_anchor
@@ -11564,7 +11564,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:layout_anchor
+     * @attr name com.parentctrl.androidapp.childtrack:layout_anchor
      */
     public static final int CoordinatorLayout_Layout_layout_anchor=1;
     /**
@@ -11601,7 +11601,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Push object to the top of its container, not changing its size.</td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:layout_anchorGravity
+     * @attr name com.parentctrl.androidapp.childtrack:layout_anchorGravity
      */
     public static final int CoordinatorLayout_Layout_layout_anchorGravity=2;
     /**
@@ -11613,7 +11613,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:layout_behavior
+     * @attr name com.parentctrl.androidapp.childtrack:layout_behavior
      */
     public static final int CoordinatorLayout_Layout_layout_behavior=3;
     /**
@@ -11637,7 +11637,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Dodge the top inset edge.</td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:layout_dodgeInsetEdges
+     * @attr name com.parentctrl.androidapp.childtrack:layout_dodgeInsetEdges
      */
     public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges=4;
     /**
@@ -11661,7 +11661,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Inset the top edge.</td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:layout_insetEdge
+     * @attr name com.parentctrl.androidapp.childtrack:layout_insetEdge
      */
     public static final int CoordinatorLayout_Layout_layout_insetEdge=5;
     /**
@@ -11673,7 +11673,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:layout_keyline
+     * @attr name com.parentctrl.androidapp.childtrack:layout_keyline
      */
     public static final int CoordinatorLayout_Layout_layout_keyline=6;
     /**
@@ -11683,8 +11683,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.mansourappdevelopment.androidapp.kidsafe:bottomSheetDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.mansourappdevelopment.androidapp.kidsafe:bottomSheetStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.parentctrl.androidapp.childtrack:bottomSheetDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.parentctrl.androidapp.childtrack:bottomSheetStyle}</code></td><td></td></tr>
      * </table>
      * @see #DesignTheme_bottomSheetDialogTheme
      * @see #DesignTheme_bottomSheetStyle
@@ -11693,7 +11693,7 @@ public final class R {
       0x7f040041, 0x7f040042
     };
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#bottomSheetDialogTheme}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#bottomSheetDialogTheme}
      * attribute's value can be found in the {@link #DesignTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11701,11 +11701,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:bottomSheetDialogTheme
+     * @attr name com.parentctrl.androidapp.childtrack:bottomSheetDialogTheme
      */
     public static final int DesignTheme_bottomSheetDialogTheme=0;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#bottomSheetStyle}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#bottomSheetStyle}
      * attribute's value can be found in the {@link #DesignTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11713,7 +11713,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:bottomSheetStyle
+     * @attr name com.parentctrl.androidapp.childtrack:bottomSheetStyle
      */
     public static final int DesignTheme_bottomSheetStyle=1;
     /**
@@ -11723,14 +11723,14 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.mansourappdevelopment.androidapp.kidsafe:arrowHeadLength}</code></td><td>The length of the arrow head when formed to make an arrow</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.mansourappdevelopment.androidapp.kidsafe:arrowShaftLength}</code></td><td>The length of the shaft when formed to make an arrow</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.mansourappdevelopment.androidapp.kidsafe:barLength}</code></td><td>The length of the bars when they are parallel to each other</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_color com.mansourappdevelopment.androidapp.kidsafe:color}</code></td><td>The drawing color for the bars</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.mansourappdevelopment.androidapp.kidsafe:drawableSize}</code></td><td>The total size of the drawable</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.mansourappdevelopment.androidapp.kidsafe:gapBetweenBars}</code></td><td>The max gap between the bars when they are parallel to each other</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.mansourappdevelopment.androidapp.kidsafe:spinBars}</code></td><td>Whether bars should rotate or not during transition</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.mansourappdevelopment.androidapp.kidsafe:thickness}</code></td><td>The thickness (stroke size) for the bar paint</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.parentctrl.androidapp.childtrack:arrowHeadLength}</code></td><td>The length of the arrow head when formed to make an arrow</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.parentctrl.androidapp.childtrack:arrowShaftLength}</code></td><td>The length of the shaft when formed to make an arrow</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.parentctrl.androidapp.childtrack:barLength}</code></td><td>The length of the bars when they are parallel to each other</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_color com.parentctrl.androidapp.childtrack:color}</code></td><td>The drawing color for the bars</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.parentctrl.androidapp.childtrack:drawableSize}</code></td><td>The total size of the drawable</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.parentctrl.androidapp.childtrack:gapBetweenBars}</code></td><td>The max gap between the bars when they are parallel to each other</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.parentctrl.androidapp.childtrack:spinBars}</code></td><td>Whether bars should rotate or not during transition</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.parentctrl.androidapp.childtrack:thickness}</code></td><td>The thickness (stroke size) for the bar paint</td></tr>
      * </table>
      * @see #DrawerArrowToggle_arrowHeadLength
      * @see #DrawerArrowToggle_arrowShaftLength
@@ -11756,7 +11756,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:arrowHeadLength
+     * @attr name com.parentctrl.androidapp.childtrack:arrowHeadLength
      */
     public static final int DrawerArrowToggle_arrowHeadLength=0;
     /**
@@ -11770,7 +11770,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:arrowShaftLength
+     * @attr name com.parentctrl.androidapp.childtrack:arrowShaftLength
      */
     public static final int DrawerArrowToggle_arrowShaftLength=1;
     /**
@@ -11784,7 +11784,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:barLength
+     * @attr name com.parentctrl.androidapp.childtrack:barLength
      */
     public static final int DrawerArrowToggle_barLength=2;
     /**
@@ -11796,7 +11796,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:color
+     * @attr name com.parentctrl.androidapp.childtrack:color
      */
     public static final int DrawerArrowToggle_color=3;
     /**
@@ -11810,7 +11810,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:drawableSize
+     * @attr name com.parentctrl.androidapp.childtrack:drawableSize
      */
     public static final int DrawerArrowToggle_drawableSize=4;
     /**
@@ -11824,7 +11824,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:gapBetweenBars
+     * @attr name com.parentctrl.androidapp.childtrack:gapBetweenBars
      */
     public static final int DrawerArrowToggle_gapBetweenBars=5;
     /**
@@ -11835,7 +11835,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:spinBars
+     * @attr name com.parentctrl.androidapp.childtrack:spinBars
      */
     public static final int DrawerArrowToggle_spinBars=6;
     /**
@@ -11849,7 +11849,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:thickness
+     * @attr name com.parentctrl.androidapp.childtrack:thickness
      */
     public static final int DrawerArrowToggle_thickness=7;
     /**
@@ -11859,19 +11859,19 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FloatingActionButton_backgroundTint com.mansourappdevelopment.androidapp.kidsafe:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.mansourappdevelopment.androidapp.kidsafe:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_borderWidth com.mansourappdevelopment.androidapp.kidsafe:borderWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_elevation com.mansourappdevelopment.androidapp.kidsafe:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_fabCustomSize com.mansourappdevelopment.androidapp.kidsafe:fabCustomSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_fabSize com.mansourappdevelopment.androidapp.kidsafe:fabSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_hideMotionSpec com.mansourappdevelopment.androidapp.kidsafe:hideMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_hoveredFocusedTranslationZ com.mansourappdevelopment.androidapp.kidsafe:hoveredFocusedTranslationZ}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_maxImageSize com.mansourappdevelopment.androidapp.kidsafe:maxImageSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.mansourappdevelopment.androidapp.kidsafe:pressedTranslationZ}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_rippleColor com.mansourappdevelopment.androidapp.kidsafe:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_showMotionSpec com.mansourappdevelopment.androidapp.kidsafe:showMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.mansourappdevelopment.androidapp.kidsafe:useCompatPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_backgroundTint com.parentctrl.androidapp.childtrack:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.parentctrl.androidapp.childtrack:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_borderWidth com.parentctrl.androidapp.childtrack:borderWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_elevation com.parentctrl.androidapp.childtrack:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_fabCustomSize com.parentctrl.androidapp.childtrack:fabCustomSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_fabSize com.parentctrl.androidapp.childtrack:fabSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_hideMotionSpec com.parentctrl.androidapp.childtrack:hideMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_hoveredFocusedTranslationZ com.parentctrl.androidapp.childtrack:hoveredFocusedTranslationZ}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_maxImageSize com.parentctrl.androidapp.childtrack:maxImageSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.parentctrl.androidapp.childtrack:pressedTranslationZ}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_rippleColor com.parentctrl.androidapp.childtrack:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_showMotionSpec com.parentctrl.androidapp.childtrack:showMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.parentctrl.androidapp.childtrack:useCompatPadding}</code></td><td></td></tr>
      * </table>
      * @see #FloatingActionButton_backgroundTint
      * @see #FloatingActionButton_backgroundTintMode
@@ -11902,7 +11902,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:backgroundTint
+     * @attr name com.parentctrl.androidapp.childtrack:backgroundTint
      */
     public static final int FloatingActionButton_backgroundTint=0;
     /**
@@ -11929,11 +11929,11 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:backgroundTintMode
+     * @attr name com.parentctrl.androidapp.childtrack:backgroundTintMode
      */
     public static final int FloatingActionButton_backgroundTintMode=1;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#borderWidth}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#borderWidth}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11942,7 +11942,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:borderWidth
+     * @attr name com.parentctrl.androidapp.childtrack:borderWidth
      */
     public static final int FloatingActionButton_borderWidth=2;
     /**
@@ -11956,11 +11956,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:elevation
+     * @attr name com.parentctrl.androidapp.childtrack:elevation
      */
     public static final int FloatingActionButton_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#fabCustomSize}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#fabCustomSize}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11969,11 +11969,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:fabCustomSize
+     * @attr name com.parentctrl.androidapp.childtrack:fabCustomSize
      */
     public static final int FloatingActionButton_fabCustomSize=4;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#fabSize}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#fabSize}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11987,11 +11987,11 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:fabSize
+     * @attr name com.parentctrl.androidapp.childtrack:fabSize
      */
     public static final int FloatingActionButton_fabSize=5;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#hideMotionSpec}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#hideMotionSpec}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11999,11 +11999,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:hideMotionSpec
+     * @attr name com.parentctrl.androidapp.childtrack:hideMotionSpec
      */
     public static final int FloatingActionButton_hideMotionSpec=6;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#hoveredFocusedTranslationZ}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#hoveredFocusedTranslationZ}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12012,11 +12012,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:hoveredFocusedTranslationZ
+     * @attr name com.parentctrl.androidapp.childtrack:hoveredFocusedTranslationZ
      */
     public static final int FloatingActionButton_hoveredFocusedTranslationZ=7;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#maxImageSize}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#maxImageSize}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12025,11 +12025,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:maxImageSize
+     * @attr name com.parentctrl.androidapp.childtrack:maxImageSize
      */
     public static final int FloatingActionButton_maxImageSize=8;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#pressedTranslationZ}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#pressedTranslationZ}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12038,22 +12038,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:pressedTranslationZ
+     * @attr name com.parentctrl.androidapp.childtrack:pressedTranslationZ
      */
     public static final int FloatingActionButton_pressedTranslationZ=9;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#rippleColor}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#rippleColor}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:rippleColor
+     * @attr name com.parentctrl.androidapp.childtrack:rippleColor
      */
     public static final int FloatingActionButton_rippleColor=10;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#showMotionSpec}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#showMotionSpec}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12061,17 +12061,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:showMotionSpec
+     * @attr name com.parentctrl.androidapp.childtrack:showMotionSpec
      */
     public static final int FloatingActionButton_showMotionSpec=11;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#useCompatPadding}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#useCompatPadding}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:useCompatPadding
+     * @attr name com.parentctrl.androidapp.childtrack:useCompatPadding
      */
     public static final int FloatingActionButton_useCompatPadding=12;
     /**
@@ -12081,7 +12081,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.mansourappdevelopment.androidapp.kidsafe:behavior_autoHide}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.parentctrl.androidapp.childtrack:behavior_autoHide}</code></td><td></td></tr>
      * </table>
      * @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
      */
@@ -12089,13 +12089,13 @@ public final class R {
       0x7f040037
     };
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#behavior_autoHide}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#behavior_autoHide}
      * attribute's value can be found in the {@link #FloatingActionButton_Behavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:behavior_autoHide
+     * @attr name com.parentctrl.androidapp.childtrack:behavior_autoHide
      */
     public static final int FloatingActionButton_Behavior_Layout_behavior_autoHide=0;
     /**
@@ -12105,8 +12105,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FlowLayout_itemSpacing com.mansourappdevelopment.androidapp.kidsafe:itemSpacing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FlowLayout_lineSpacing com.mansourappdevelopment.androidapp.kidsafe:lineSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FlowLayout_itemSpacing com.parentctrl.androidapp.childtrack:itemSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FlowLayout_lineSpacing com.parentctrl.androidapp.childtrack:lineSpacing}</code></td><td></td></tr>
      * </table>
      * @see #FlowLayout_itemSpacing
      * @see #FlowLayout_lineSpacing
@@ -12115,7 +12115,7 @@ public final class R {
       0x7f04010a, 0x7f040120
     };
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#itemSpacing}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#itemSpacing}
      * attribute's value can be found in the {@link #FlowLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12124,11 +12124,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:itemSpacing
+     * @attr name com.parentctrl.androidapp.childtrack:itemSpacing
      */
     public static final int FlowLayout_itemSpacing=0;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#lineSpacing}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#lineSpacing}
      * attribute's value can be found in the {@link #FlowLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12137,7 +12137,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:lineSpacing
+     * @attr name com.parentctrl.androidapp.childtrack:lineSpacing
      */
     public static final int FlowLayout_lineSpacing=1;
     /**
@@ -12147,12 +12147,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.mansourappdevelopment.androidapp.kidsafe:fontProviderAuthority}</code></td><td>The authority of the Font Provider to be used for the request.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.mansourappdevelopment.androidapp.kidsafe:fontProviderCerts}</code></td><td>The sets of hashes for the certificates the provider should be signed with.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.mansourappdevelopment.androidapp.kidsafe:fontProviderFetchStrategy}</code></td><td>The strategy to be used when fetching font data from a font provider in XML layouts.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.mansourappdevelopment.androidapp.kidsafe:fontProviderFetchTimeout}</code></td><td>The length of the timeout during fetching.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.mansourappdevelopment.androidapp.kidsafe:fontProviderPackage}</code></td><td>The package for the Font Provider to be used for the request.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.mansourappdevelopment.androidapp.kidsafe:fontProviderQuery}</code></td><td>The query to be sent over to the provider.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.parentctrl.androidapp.childtrack:fontProviderAuthority}</code></td><td>The authority of the Font Provider to be used for the request.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.parentctrl.androidapp.childtrack:fontProviderCerts}</code></td><td>The sets of hashes for the certificates the provider should be signed with.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.parentctrl.androidapp.childtrack:fontProviderFetchStrategy}</code></td><td>The strategy to be used when fetching font data from a font provider in XML layouts.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.parentctrl.androidapp.childtrack:fontProviderFetchTimeout}</code></td><td>The length of the timeout during fetching.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.parentctrl.androidapp.childtrack:fontProviderPackage}</code></td><td>The package for the Font Provider to be used for the request.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.parentctrl.androidapp.childtrack:fontProviderQuery}</code></td><td>The query to be sent over to the provider.</td></tr>
      * </table>
      * @see #FontFamily_fontProviderAuthority
      * @see #FontFamily_fontProviderCerts
@@ -12173,7 +12173,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:fontProviderAuthority
+     * @attr name com.parentctrl.androidapp.childtrack:fontProviderAuthority
      */
     public static final int FontFamily_fontProviderAuthority=0;
     /**
@@ -12190,7 +12190,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:fontProviderCerts
+     * @attr name com.parentctrl.androidapp.childtrack:fontProviderCerts
      */
     public static final int FontFamily_fontProviderCerts=1;
     /**
@@ -12222,7 +12222,7 @@ public final class R {
      * default typeface will be used instead.</td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:fontProviderFetchStrategy
+     * @attr name com.parentctrl.androidapp.childtrack:fontProviderFetchStrategy
      */
     public static final int FontFamily_fontProviderFetchStrategy=2;
     /**
@@ -12241,7 +12241,7 @@ public final class R {
      * timeout and wait until a reply is received from the font provider.</td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:fontProviderFetchTimeout
+     * @attr name com.parentctrl.androidapp.childtrack:fontProviderFetchTimeout
      */
     public static final int FontFamily_fontProviderFetchTimeout=3;
     /**
@@ -12253,7 +12253,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:fontProviderPackage
+     * @attr name com.parentctrl.androidapp.childtrack:fontProviderPackage
      */
     public static final int FontFamily_fontProviderPackage=4;
     /**
@@ -12265,7 +12265,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:fontProviderQuery
+     * @attr name com.parentctrl.androidapp.childtrack:fontProviderQuery
      */
     public static final int FontFamily_fontProviderQuery=5;
     /**
@@ -12280,11 +12280,11 @@ public final class R {
      * <tr><td><code>{@link #FontFamilyFont_android_fontStyle android:fontStyle}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_ttcIndex android:ttcIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_fontVariationSettings android:fontVariationSettings}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_font com.mansourappdevelopment.androidapp.kidsafe:font}</code></td><td>The reference to the font file to be used.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.mansourappdevelopment.androidapp.kidsafe:fontStyle}</code></td><td>The style of the given font file.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontVariationSettings com.mansourappdevelopment.androidapp.kidsafe:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.mansourappdevelopment.androidapp.kidsafe:fontWeight}</code></td><td>The weight of the given font file.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_ttcIndex com.mansourappdevelopment.androidapp.kidsafe:ttcIndex}</code></td><td>The index of the font in the tcc font file.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_font com.parentctrl.androidapp.childtrack:font}</code></td><td>The reference to the font file to be used.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.parentctrl.androidapp.childtrack:fontStyle}</code></td><td>The style of the given font file.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontVariationSettings com.parentctrl.androidapp.childtrack:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.parentctrl.androidapp.childtrack:fontWeight}</code></td><td>The weight of the given font file.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_ttcIndex com.parentctrl.androidapp.childtrack:ttcIndex}</code></td><td>The index of the font in the tcc font file.</td></tr>
      * </table>
      * @see #FontFamilyFont_android_font
      * @see #FontFamilyFont_android_fontWeight
@@ -12371,7 +12371,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:font
+     * @attr name com.parentctrl.androidapp.childtrack:font
      */
     public static final int FontFamilyFont_font=5;
     /**
@@ -12391,7 +12391,7 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:fontStyle
+     * @attr name com.parentctrl.androidapp.childtrack:fontStyle
      */
     public static final int FontFamilyFont_fontStyle=6;
     /**
@@ -12405,7 +12405,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:fontVariationSettings
+     * @attr name com.parentctrl.androidapp.childtrack:fontVariationSettings
      */
     public static final int FontFamilyFont_fontVariationSettings=7;
     /**
@@ -12419,7 +12419,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:fontWeight
+     * @attr name com.parentctrl.androidapp.childtrack:fontWeight
      */
     public static final int FontFamilyFont_fontWeight=8;
     /**
@@ -12430,7 +12430,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:ttcIndex
+     * @attr name com.parentctrl.androidapp.childtrack:ttcIndex
      */
     public static final int FontFamilyFont_ttcIndex=9;
     /**
@@ -12442,7 +12442,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
      * <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.mansourappdevelopment.androidapp.kidsafe:foregroundInsidePadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.parentctrl.androidapp.childtrack:foregroundInsidePadding}</code></td><td></td></tr>
      * </table>
      * @see #ForegroundLinearLayout_android_foreground
      * @see #ForegroundLinearLayout_android_foregroundGravity
@@ -12494,13 +12494,13 @@ public final class R {
      */
     public static final int ForegroundLinearLayout_android_foregroundGravity=1;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#foregroundInsidePadding}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#foregroundInsidePadding}
      * attribute's value can be found in the {@link #ForegroundLinearLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:foregroundInsidePadding
+     * @attr name com.parentctrl.androidapp.childtrack:foregroundInsidePadding
      */
     public static final int ForegroundLinearLayout_foregroundInsidePadding=2;
     /**
@@ -12758,11 +12758,11 @@ public final class R {
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAligned android:baselineAligned}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAlignedChildIndex android:baselineAlignedChildIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_divider com.mansourappdevelopment.androidapp.kidsafe:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.mansourappdevelopment.androidapp.kidsafe:dividerPadding}</code></td><td>Size of padding on either end of a divider.</td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.mansourappdevelopment.androidapp.kidsafe:measureWithLargestChild}</code></td><td>When set to true, all children with a weight will be considered having
+     * <tr><td><code>{@link #LinearLayoutCompat_divider com.parentctrl.androidapp.childtrack:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.parentctrl.androidapp.childtrack:dividerPadding}</code></td><td>Size of padding on either end of a divider.</td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.parentctrl.androidapp.childtrack:measureWithLargestChild}</code></td><td>When set to true, all children with a weight will be considered having
      * the minimum size of the largest child.</td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.mansourappdevelopment.androidapp.kidsafe:showDividers}</code></td><td>Setting for which dividers to show.</td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.parentctrl.androidapp.childtrack:showDividers}</code></td><td>Setting for which dividers to show.</td></tr>
      * </table>
      * @see #LinearLayoutCompat_android_gravity
      * @see #LinearLayoutCompat_android_orientation
@@ -12877,7 +12877,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:divider
+     * @attr name com.parentctrl.androidapp.childtrack:divider
      */
     public static final int LinearLayoutCompat_divider=5;
     /**
@@ -12891,7 +12891,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:dividerPadding
+     * @attr name com.parentctrl.androidapp.childtrack:dividerPadding
      */
     public static final int LinearLayoutCompat_dividerPadding=6;
     /**
@@ -12904,7 +12904,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:measureWithLargestChild
+     * @attr name com.parentctrl.androidapp.childtrack:measureWithLargestChild
      */
     public static final int LinearLayoutCompat_measureWithLargestChild=7;
     /**
@@ -12924,7 +12924,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:showDividers
+     * @attr name com.parentctrl.androidapp.childtrack:showDividers
      */
     public static final int LinearLayoutCompat_showDividers=8;
     /**
@@ -13082,9 +13082,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #LoadingImageView_circleCrop com.mansourappdevelopment.androidapp.kidsafe:circleCrop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LoadingImageView_imageAspectRatio com.mansourappdevelopment.androidapp.kidsafe:imageAspectRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust com.mansourappdevelopment.androidapp.kidsafe:imageAspectRatioAdjust}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LoadingImageView_circleCrop com.parentctrl.androidapp.childtrack:circleCrop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LoadingImageView_imageAspectRatio com.parentctrl.androidapp.childtrack:imageAspectRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust com.parentctrl.androidapp.childtrack:imageAspectRatioAdjust}</code></td><td></td></tr>
      * </table>
      * @see #LoadingImageView_circleCrop
      * @see #LoadingImageView_imageAspectRatio
@@ -13094,26 +13094,26 @@ public final class R {
       0x7f040078, 0x7f0400fc, 0x7f0400fd
     };
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#circleCrop}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#circleCrop}
      * attribute's value can be found in the {@link #LoadingImageView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:circleCrop
+     * @attr name com.parentctrl.androidapp.childtrack:circleCrop
      */
     public static final int LoadingImageView_circleCrop=0;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#imageAspectRatio}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#imageAspectRatio}
      * attribute's value can be found in the {@link #LoadingImageView} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:imageAspectRatio
+     * @attr name com.parentctrl.androidapp.childtrack:imageAspectRatio
      */
     public static final int LoadingImageView_imageAspectRatio=1;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#imageAspectRatioAdjust}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#imageAspectRatioAdjust}
      * attribute's value can be found in the {@link #LoadingImageView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13127,7 +13127,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:imageAspectRatioAdjust
+     * @attr name com.parentctrl.androidapp.childtrack:imageAspectRatioAdjust
      */
     public static final int LoadingImageView_imageAspectRatioAdjust=2;
     /**
@@ -13141,18 +13141,18 @@ public final class R {
      * <tr><td><code>{@link #MaterialButton_android_insetRight android:insetRight}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialButton_android_insetTop android:insetTop}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialButton_android_insetBottom android:insetBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_backgroundTint com.mansourappdevelopment.androidapp.kidsafe:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_backgroundTintMode com.mansourappdevelopment.androidapp.kidsafe:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_cornerRadius com.mansourappdevelopment.androidapp.kidsafe:cornerRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_icon com.mansourappdevelopment.androidapp.kidsafe:icon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconGravity com.mansourappdevelopment.androidapp.kidsafe:iconGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconPadding com.mansourappdevelopment.androidapp.kidsafe:iconPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconSize com.mansourappdevelopment.androidapp.kidsafe:iconSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconTint com.mansourappdevelopment.androidapp.kidsafe:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconTintMode com.mansourappdevelopment.androidapp.kidsafe:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_rippleColor com.mansourappdevelopment.androidapp.kidsafe:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_strokeColor com.mansourappdevelopment.androidapp.kidsafe:strokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_strokeWidth com.mansourappdevelopment.androidapp.kidsafe:strokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_backgroundTint com.parentctrl.androidapp.childtrack:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_backgroundTintMode com.parentctrl.androidapp.childtrack:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_cornerRadius com.parentctrl.androidapp.childtrack:cornerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_icon com.parentctrl.androidapp.childtrack:icon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconGravity com.parentctrl.androidapp.childtrack:iconGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconPadding com.parentctrl.androidapp.childtrack:iconPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconSize com.parentctrl.androidapp.childtrack:iconSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconTint com.parentctrl.androidapp.childtrack:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconTintMode com.parentctrl.androidapp.childtrack:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_rippleColor com.parentctrl.androidapp.childtrack:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_strokeColor com.parentctrl.androidapp.childtrack:strokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_strokeWidth com.parentctrl.androidapp.childtrack:strokeWidth}</code></td><td></td></tr>
      * </table>
      * @see #MaterialButton_android_insetLeft
      * @see #MaterialButton_android_insetRight
@@ -13254,7 +13254,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:backgroundTint
+     * @attr name com.parentctrl.androidapp.childtrack:backgroundTint
      */
     public static final int MaterialButton_backgroundTint=4;
     /**
@@ -13281,11 +13281,11 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:backgroundTintMode
+     * @attr name com.parentctrl.androidapp.childtrack:backgroundTintMode
      */
     public static final int MaterialButton_backgroundTintMode=5;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#cornerRadius}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#cornerRadius}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13294,11 +13294,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:cornerRadius
+     * @attr name com.parentctrl.androidapp.childtrack:cornerRadius
      */
     public static final int MaterialButton_cornerRadius=6;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#icon}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#icon}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13306,11 +13306,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:icon
+     * @attr name com.parentctrl.androidapp.childtrack:icon
      */
     public static final int MaterialButton_icon=7;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#iconGravity}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#iconGravity}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -13323,11 +13323,11 @@ public final class R {
      * <tr><td>textStart</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:iconGravity
+     * @attr name com.parentctrl.androidapp.childtrack:iconGravity
      */
     public static final int MaterialButton_iconGravity=8;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#iconPadding}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#iconPadding}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13336,11 +13336,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:iconPadding
+     * @attr name com.parentctrl.androidapp.childtrack:iconPadding
      */
     public static final int MaterialButton_iconPadding=9;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#iconSize}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#iconSize}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13349,7 +13349,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:iconSize
+     * @attr name com.parentctrl.androidapp.childtrack:iconSize
      */
     public static final int MaterialButton_iconSize=10;
     /**
@@ -13361,7 +13361,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:iconTint
+     * @attr name com.parentctrl.androidapp.childtrack:iconTint
      */
     public static final int MaterialButton_iconTint=11;
     /**
@@ -13388,33 +13388,33 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:iconTintMode
+     * @attr name com.parentctrl.androidapp.childtrack:iconTintMode
      */
     public static final int MaterialButton_iconTintMode=12;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#rippleColor}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#rippleColor}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:rippleColor
+     * @attr name com.parentctrl.androidapp.childtrack:rippleColor
      */
     public static final int MaterialButton_rippleColor=13;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#strokeColor}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#strokeColor}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:strokeColor
+     * @attr name com.parentctrl.androidapp.childtrack:strokeColor
      */
     public static final int MaterialButton_strokeColor=14;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#strokeWidth}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#strokeWidth}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13423,7 +13423,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:strokeWidth
+     * @attr name com.parentctrl.androidapp.childtrack:strokeWidth
      */
     public static final int MaterialButton_strokeWidth=15;
     /**
@@ -13433,8 +13433,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MaterialCardView_strokeColor com.mansourappdevelopment.androidapp.kidsafe:strokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCardView_strokeWidth com.mansourappdevelopment.androidapp.kidsafe:strokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCardView_strokeColor com.parentctrl.androidapp.childtrack:strokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCardView_strokeWidth com.parentctrl.androidapp.childtrack:strokeWidth}</code></td><td></td></tr>
      * </table>
      * @see #MaterialCardView_strokeColor
      * @see #MaterialCardView_strokeWidth
@@ -13443,18 +13443,18 @@ public final class R {
       0x7f040179, 0x7f04017a
     };
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#strokeColor}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#strokeColor}
      * attribute's value can be found in the {@link #MaterialCardView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:strokeColor
+     * @attr name com.parentctrl.androidapp.childtrack:strokeColor
      */
     public static final int MaterialCardView_strokeColor=0;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#strokeWidth}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#strokeWidth}
      * attribute's value can be found in the {@link #MaterialCardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13463,7 +13463,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:strokeWidth
+     * @attr name com.parentctrl.androidapp.childtrack:strokeWidth
      */
     public static final int MaterialCardView_strokeWidth=1;
     /**
@@ -13473,38 +13473,38 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_bottomSheetDialogTheme com.mansourappdevelopment.androidapp.kidsafe:bottomSheetDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_bottomSheetStyle com.mansourappdevelopment.androidapp.kidsafe:bottomSheetStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_chipGroupStyle com.mansourappdevelopment.androidapp.kidsafe:chipGroupStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_chipStandaloneStyle com.mansourappdevelopment.androidapp.kidsafe:chipStandaloneStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_chipStyle com.mansourappdevelopment.androidapp.kidsafe:chipStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorAccent com.mansourappdevelopment.androidapp.kidsafe:colorAccent}</code></td><td>Bright complement to the primary branding color.</td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorBackgroundFloating com.mansourappdevelopment.androidapp.kidsafe:colorBackgroundFloating}</code></td><td>Default color of background imagery for floating components, ex.</td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorPrimary com.mansourappdevelopment.androidapp.kidsafe:colorPrimary}</code></td><td>The primary branding color for the app.</td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorPrimaryDark com.mansourappdevelopment.androidapp.kidsafe:colorPrimaryDark}</code></td><td>Dark variant of the primary branding color.</td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorSecondary com.mansourappdevelopment.androidapp.kidsafe:colorSecondary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_editTextStyle com.mansourappdevelopment.androidapp.kidsafe:editTextStyle}</code></td><td>Default EditText style.</td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_floatingActionButtonStyle com.mansourappdevelopment.androidapp.kidsafe:floatingActionButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_materialButtonStyle com.mansourappdevelopment.androidapp.kidsafe:materialButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_materialCardViewStyle com.mansourappdevelopment.androidapp.kidsafe:materialCardViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_navigationViewStyle com.mansourappdevelopment.androidapp.kidsafe:navigationViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_scrimBackground com.mansourappdevelopment.androidapp.kidsafe:scrimBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_snackbarButtonStyle com.mansourappdevelopment.androidapp.kidsafe:snackbarButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_tabStyle com.mansourappdevelopment.androidapp.kidsafe:tabStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceBody1 com.mansourappdevelopment.androidapp.kidsafe:textAppearanceBody1}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceBody2 com.mansourappdevelopment.androidapp.kidsafe:textAppearanceBody2}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceButton com.mansourappdevelopment.androidapp.kidsafe:textAppearanceButton}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceCaption com.mansourappdevelopment.androidapp.kidsafe:textAppearanceCaption}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline1 com.mansourappdevelopment.androidapp.kidsafe:textAppearanceHeadline1}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline2 com.mansourappdevelopment.androidapp.kidsafe:textAppearanceHeadline2}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline3 com.mansourappdevelopment.androidapp.kidsafe:textAppearanceHeadline3}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline4 com.mansourappdevelopment.androidapp.kidsafe:textAppearanceHeadline4}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline5 com.mansourappdevelopment.androidapp.kidsafe:textAppearanceHeadline5}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline6 com.mansourappdevelopment.androidapp.kidsafe:textAppearanceHeadline6}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceOverline com.mansourappdevelopment.androidapp.kidsafe:textAppearanceOverline}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceSubtitle1 com.mansourappdevelopment.androidapp.kidsafe:textAppearanceSubtitle1}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceSubtitle2 com.mansourappdevelopment.androidapp.kidsafe:textAppearanceSubtitle2}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textInputStyle com.mansourappdevelopment.androidapp.kidsafe:textInputStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_bottomSheetDialogTheme com.parentctrl.androidapp.childtrack:bottomSheetDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_bottomSheetStyle com.parentctrl.androidapp.childtrack:bottomSheetStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_chipGroupStyle com.parentctrl.androidapp.childtrack:chipGroupStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_chipStandaloneStyle com.parentctrl.androidapp.childtrack:chipStandaloneStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_chipStyle com.parentctrl.androidapp.childtrack:chipStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorAccent com.parentctrl.androidapp.childtrack:colorAccent}</code></td><td>Bright complement to the primary branding color.</td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorBackgroundFloating com.parentctrl.androidapp.childtrack:colorBackgroundFloating}</code></td><td>Default color of background imagery for floating components, ex.</td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorPrimary com.parentctrl.androidapp.childtrack:colorPrimary}</code></td><td>The primary branding color for the app.</td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorPrimaryDark com.parentctrl.androidapp.childtrack:colorPrimaryDark}</code></td><td>Dark variant of the primary branding color.</td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorSecondary com.parentctrl.androidapp.childtrack:colorSecondary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_editTextStyle com.parentctrl.androidapp.childtrack:editTextStyle}</code></td><td>Default EditText style.</td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_floatingActionButtonStyle com.parentctrl.androidapp.childtrack:floatingActionButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_materialButtonStyle com.parentctrl.androidapp.childtrack:materialButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_materialCardViewStyle com.parentctrl.androidapp.childtrack:materialCardViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_navigationViewStyle com.parentctrl.androidapp.childtrack:navigationViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_scrimBackground com.parentctrl.androidapp.childtrack:scrimBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_snackbarButtonStyle com.parentctrl.androidapp.childtrack:snackbarButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_tabStyle com.parentctrl.androidapp.childtrack:tabStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceBody1 com.parentctrl.androidapp.childtrack:textAppearanceBody1}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceBody2 com.parentctrl.androidapp.childtrack:textAppearanceBody2}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceButton com.parentctrl.androidapp.childtrack:textAppearanceButton}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceCaption com.parentctrl.androidapp.childtrack:textAppearanceCaption}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline1 com.parentctrl.androidapp.childtrack:textAppearanceHeadline1}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline2 com.parentctrl.androidapp.childtrack:textAppearanceHeadline2}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline3 com.parentctrl.androidapp.childtrack:textAppearanceHeadline3}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline4 com.parentctrl.androidapp.childtrack:textAppearanceHeadline4}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline5 com.parentctrl.androidapp.childtrack:textAppearanceHeadline5}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline6 com.parentctrl.androidapp.childtrack:textAppearanceHeadline6}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceOverline com.parentctrl.androidapp.childtrack:textAppearanceOverline}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceSubtitle1 com.parentctrl.androidapp.childtrack:textAppearanceSubtitle1}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceSubtitle2 com.parentctrl.androidapp.childtrack:textAppearanceSubtitle2}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textInputStyle com.parentctrl.androidapp.childtrack:textInputStyle}</code></td><td></td></tr>
      * </table>
      * @see #MaterialComponentsTheme_bottomSheetDialogTheme
      * @see #MaterialComponentsTheme_bottomSheetStyle
@@ -13550,7 +13550,7 @@ public final class R {
       0x7f0401af, 0x7f0401b4, 0x7f0401b5, 0x7f0401b9
     };
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#bottomSheetDialogTheme}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#bottomSheetDialogTheme}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13558,11 +13558,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:bottomSheetDialogTheme
+     * @attr name com.parentctrl.androidapp.childtrack:bottomSheetDialogTheme
      */
     public static final int MaterialComponentsTheme_bottomSheetDialogTheme=0;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#bottomSheetStyle}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#bottomSheetStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13570,11 +13570,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:bottomSheetStyle
+     * @attr name com.parentctrl.androidapp.childtrack:bottomSheetStyle
      */
     public static final int MaterialComponentsTheme_bottomSheetStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#chipGroupStyle}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#chipGroupStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13582,11 +13582,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:chipGroupStyle
+     * @attr name com.parentctrl.androidapp.childtrack:chipGroupStyle
      */
     public static final int MaterialComponentsTheme_chipGroupStyle=2;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#chipStandaloneStyle}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#chipStandaloneStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13594,11 +13594,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:chipStandaloneStyle
+     * @attr name com.parentctrl.androidapp.childtrack:chipStandaloneStyle
      */
     public static final int MaterialComponentsTheme_chipStandaloneStyle=3;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#chipStyle}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#chipStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13606,7 +13606,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:chipStyle
+     * @attr name com.parentctrl.androidapp.childtrack:chipStyle
      */
     public static final int MaterialComponentsTheme_chipStyle=4;
     /**
@@ -13619,7 +13619,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:colorAccent
+     * @attr name com.parentctrl.androidapp.childtrack:colorAccent
      */
     public static final int MaterialComponentsTheme_colorAccent=5;
     /**
@@ -13631,7 +13631,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:colorBackgroundFloating
+     * @attr name com.parentctrl.androidapp.childtrack:colorBackgroundFloating
      */
     public static final int MaterialComponentsTheme_colorBackgroundFloating=6;
     /**
@@ -13644,7 +13644,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:colorPrimary
+     * @attr name com.parentctrl.androidapp.childtrack:colorPrimary
      */
     public static final int MaterialComponentsTheme_colorPrimary=7;
     /**
@@ -13657,18 +13657,18 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:colorPrimaryDark
+     * @attr name com.parentctrl.androidapp.childtrack:colorPrimaryDark
      */
     public static final int MaterialComponentsTheme_colorPrimaryDark=8;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#colorSecondary}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#colorSecondary}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:colorSecondary
+     * @attr name com.parentctrl.androidapp.childtrack:colorSecondary
      */
     public static final int MaterialComponentsTheme_colorSecondary=9;
     /**
@@ -13681,11 +13681,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:editTextStyle
+     * @attr name com.parentctrl.androidapp.childtrack:editTextStyle
      */
     public static final int MaterialComponentsTheme_editTextStyle=10;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#floatingActionButtonStyle}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#floatingActionButtonStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13711,11 +13711,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:floatingActionButtonStyle
+     * @attr name com.parentctrl.androidapp.childtrack:floatingActionButtonStyle
      */
     public static final int MaterialComponentsTheme_floatingActionButtonStyle=11;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#materialButtonStyle}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#materialButtonStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13723,11 +13723,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:materialButtonStyle
+     * @attr name com.parentctrl.androidapp.childtrack:materialButtonStyle
      */
     public static final int MaterialComponentsTheme_materialButtonStyle=12;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#materialCardViewStyle}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#materialCardViewStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13735,11 +13735,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:materialCardViewStyle
+     * @attr name com.parentctrl.androidapp.childtrack:materialCardViewStyle
      */
     public static final int MaterialComponentsTheme_materialCardViewStyle=13;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#navigationViewStyle}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#navigationViewStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13747,11 +13747,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:navigationViewStyle
+     * @attr name com.parentctrl.androidapp.childtrack:navigationViewStyle
      */
     public static final int MaterialComponentsTheme_navigationViewStyle=14;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#scrimBackground}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#scrimBackground}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13762,11 +13762,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:scrimBackground
+     * @attr name com.parentctrl.androidapp.childtrack:scrimBackground
      */
     public static final int MaterialComponentsTheme_scrimBackground=15;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#snackbarButtonStyle}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#snackbarButtonStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13774,11 +13774,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:snackbarButtonStyle
+     * @attr name com.parentctrl.androidapp.childtrack:snackbarButtonStyle
      */
     public static final int MaterialComponentsTheme_snackbarButtonStyle=16;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#tabStyle}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#tabStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13786,11 +13786,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:tabStyle
+     * @attr name com.parentctrl.androidapp.childtrack:tabStyle
      */
     public static final int MaterialComponentsTheme_tabStyle=17;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#textAppearanceBody1}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#textAppearanceBody1}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13798,11 +13798,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:textAppearanceBody1
+     * @attr name com.parentctrl.androidapp.childtrack:textAppearanceBody1
      */
     public static final int MaterialComponentsTheme_textAppearanceBody1=18;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#textAppearanceBody2}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#textAppearanceBody2}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13810,11 +13810,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:textAppearanceBody2
+     * @attr name com.parentctrl.androidapp.childtrack:textAppearanceBody2
      */
     public static final int MaterialComponentsTheme_textAppearanceBody2=19;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#textAppearanceButton}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#textAppearanceButton}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13822,11 +13822,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:textAppearanceButton
+     * @attr name com.parentctrl.androidapp.childtrack:textAppearanceButton
      */
     public static final int MaterialComponentsTheme_textAppearanceButton=20;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#textAppearanceCaption}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#textAppearanceCaption}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13834,11 +13834,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:textAppearanceCaption
+     * @attr name com.parentctrl.androidapp.childtrack:textAppearanceCaption
      */
     public static final int MaterialComponentsTheme_textAppearanceCaption=21;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#textAppearanceHeadline1}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#textAppearanceHeadline1}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13846,11 +13846,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:textAppearanceHeadline1
+     * @attr name com.parentctrl.androidapp.childtrack:textAppearanceHeadline1
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline1=22;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#textAppearanceHeadline2}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#textAppearanceHeadline2}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13858,11 +13858,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:textAppearanceHeadline2
+     * @attr name com.parentctrl.androidapp.childtrack:textAppearanceHeadline2
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline2=23;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#textAppearanceHeadline3}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#textAppearanceHeadline3}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13870,11 +13870,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:textAppearanceHeadline3
+     * @attr name com.parentctrl.androidapp.childtrack:textAppearanceHeadline3
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline3=24;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#textAppearanceHeadline4}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#textAppearanceHeadline4}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13882,11 +13882,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:textAppearanceHeadline4
+     * @attr name com.parentctrl.androidapp.childtrack:textAppearanceHeadline4
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline4=25;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#textAppearanceHeadline5}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#textAppearanceHeadline5}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13894,11 +13894,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:textAppearanceHeadline5
+     * @attr name com.parentctrl.androidapp.childtrack:textAppearanceHeadline5
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline5=26;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#textAppearanceHeadline6}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#textAppearanceHeadline6}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13906,11 +13906,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:textAppearanceHeadline6
+     * @attr name com.parentctrl.androidapp.childtrack:textAppearanceHeadline6
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline6=27;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#textAppearanceOverline}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#textAppearanceOverline}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13918,11 +13918,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:textAppearanceOverline
+     * @attr name com.parentctrl.androidapp.childtrack:textAppearanceOverline
      */
     public static final int MaterialComponentsTheme_textAppearanceOverline=28;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#textAppearanceSubtitle1}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#textAppearanceSubtitle1}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13930,11 +13930,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:textAppearanceSubtitle1
+     * @attr name com.parentctrl.androidapp.childtrack:textAppearanceSubtitle1
      */
     public static final int MaterialComponentsTheme_textAppearanceSubtitle1=29;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#textAppearanceSubtitle2}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#textAppearanceSubtitle2}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13942,11 +13942,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:textAppearanceSubtitle2
+     * @attr name com.parentctrl.androidapp.childtrack:textAppearanceSubtitle2
      */
     public static final int MaterialComponentsTheme_textAppearanceSubtitle2=30;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#textInputStyle}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#textInputStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13954,7 +13954,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:textInputStyle
+     * @attr name com.parentctrl.androidapp.childtrack:textInputStyle
      */
     public static final int MaterialComponentsTheme_textInputStyle=31;
     /**
@@ -14088,18 +14088,18 @@ public final class R {
      * <tr><td><code>{@link #MenuItem_android_numericShortcut android:numericShortcut}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_onClick android:onClick}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionLayout com.mansourappdevelopment.androidapp.kidsafe:actionLayout}</code></td><td>An optional layout to be used as an action view.</td></tr>
-     * <tr><td><code>{@link #MenuItem_actionProviderClass com.mansourappdevelopment.androidapp.kidsafe:actionProviderClass}</code></td><td>The name of an optional ActionProvider class to instantiate an action view
+     * <tr><td><code>{@link #MenuItem_actionLayout com.parentctrl.androidapp.childtrack:actionLayout}</code></td><td>An optional layout to be used as an action view.</td></tr>
+     * <tr><td><code>{@link #MenuItem_actionProviderClass com.parentctrl.androidapp.childtrack:actionProviderClass}</code></td><td>The name of an optional ActionProvider class to instantiate an action view
      * and perform operations such as default action for that menu item.</td></tr>
-     * <tr><td><code>{@link #MenuItem_actionViewClass com.mansourappdevelopment.androidapp.kidsafe:actionViewClass}</code></td><td>The name of an optional View class to instantiate and use as an
+     * <tr><td><code>{@link #MenuItem_actionViewClass com.parentctrl.androidapp.childtrack:actionViewClass}</code></td><td>The name of an optional View class to instantiate and use as an
      * action view.</td></tr>
-     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.mansourappdevelopment.androidapp.kidsafe:alphabeticModifiers}</code></td><td>The alphabetic modifier key.</td></tr>
-     * <tr><td><code>{@link #MenuItem_contentDescription com.mansourappdevelopment.androidapp.kidsafe:contentDescription}</code></td><td>The content description associated with the item.</td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTint com.mansourappdevelopment.androidapp.kidsafe:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTintMode com.mansourappdevelopment.androidapp.kidsafe:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
-     * <tr><td><code>{@link #MenuItem_numericModifiers com.mansourappdevelopment.androidapp.kidsafe:numericModifiers}</code></td><td>The numeric modifier key.</td></tr>
-     * <tr><td><code>{@link #MenuItem_showAsAction com.mansourappdevelopment.androidapp.kidsafe:showAsAction}</code></td><td>How this item should display in the Action Bar, if present.</td></tr>
-     * <tr><td><code>{@link #MenuItem_tooltipText com.mansourappdevelopment.androidapp.kidsafe:tooltipText}</code></td><td>The tooltip text associated with the item.</td></tr>
+     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.parentctrl.androidapp.childtrack:alphabeticModifiers}</code></td><td>The alphabetic modifier key.</td></tr>
+     * <tr><td><code>{@link #MenuItem_contentDescription com.parentctrl.androidapp.childtrack:contentDescription}</code></td><td>The content description associated with the item.</td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTint com.parentctrl.androidapp.childtrack:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTintMode com.parentctrl.androidapp.childtrack:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
+     * <tr><td><code>{@link #MenuItem_numericModifiers com.parentctrl.androidapp.childtrack:numericModifiers}</code></td><td>The numeric modifier key.</td></tr>
+     * <tr><td><code>{@link #MenuItem_showAsAction com.parentctrl.androidapp.childtrack:showAsAction}</code></td><td>How this item should display in the Action Bar, if present.</td></tr>
+     * <tr><td><code>{@link #MenuItem_tooltipText com.parentctrl.androidapp.childtrack:tooltipText}</code></td><td>The tooltip text associated with the item.</td></tr>
      * </table>
      * @see #MenuItem_android_icon
      * @see #MenuItem_android_enabled
@@ -14308,7 +14308,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:actionLayout
+     * @attr name com.parentctrl.androidapp.childtrack:actionLayout
      */
     public static final int MenuItem_actionLayout=13;
     /**
@@ -14322,7 +14322,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:actionProviderClass
+     * @attr name com.parentctrl.androidapp.childtrack:actionProviderClass
      */
     public static final int MenuItem_actionProviderClass=14;
     /**
@@ -14335,7 +14335,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:actionViewClass
+     * @attr name com.parentctrl.androidapp.childtrack:actionViewClass
      */
     public static final int MenuItem_actionViewClass=15;
     /**
@@ -14358,7 +14358,7 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:alphabeticModifiers
+     * @attr name com.parentctrl.androidapp.childtrack:alphabeticModifiers
      */
     public static final int MenuItem_alphabeticModifiers=16;
     /**
@@ -14369,7 +14369,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:contentDescription
+     * @attr name com.parentctrl.androidapp.childtrack:contentDescription
      */
     public static final int MenuItem_contentDescription=17;
     /**
@@ -14381,7 +14381,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:iconTint
+     * @attr name com.parentctrl.androidapp.childtrack:iconTint
      */
     public static final int MenuItem_iconTint=18;
     /**
@@ -14408,7 +14408,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:iconTintMode
+     * @attr name com.parentctrl.androidapp.childtrack:iconTintMode
      */
     public static final int MenuItem_iconTintMode=19;
     /**
@@ -14431,7 +14431,7 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:numericModifiers
+     * @attr name com.parentctrl.androidapp.childtrack:numericModifiers
      */
     public static final int MenuItem_numericModifiers=20;
     /**
@@ -14461,7 +14461,7 @@ public final class R {
      * label with it even if it has an icon representation.</td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:showAsAction
+     * @attr name com.parentctrl.androidapp.childtrack:showAsAction
      */
     public static final int MenuItem_showAsAction=21;
     /**
@@ -14472,7 +14472,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:tooltipText
+     * @attr name com.parentctrl.androidapp.childtrack:tooltipText
      */
     public static final int MenuItem_tooltipText=22;
     /**
@@ -14489,8 +14489,8 @@ public final class R {
      * <tr><td><code>{@link #MenuView_android_headerBackground android:headerBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemBackground android:itemBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemIconDisabledAlpha android:itemIconDisabledAlpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.mansourappdevelopment.androidapp.kidsafe:preserveIconSpacing}</code></td><td>Whether space should be reserved in layout when an icon is missing.</td></tr>
-     * <tr><td><code>{@link #MenuView_subMenuArrow com.mansourappdevelopment.androidapp.kidsafe:subMenuArrow}</code></td><td>Drawable for the arrow icon indicating a particular item is a submenu.</td></tr>
+     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.parentctrl.androidapp.childtrack:preserveIconSpacing}</code></td><td>Whether space should be reserved in layout when an icon is missing.</td></tr>
+     * <tr><td><code>{@link #MenuView_subMenuArrow com.parentctrl.androidapp.childtrack:subMenuArrow}</code></td><td>Drawable for the arrow icon indicating a particular item is a submenu.</td></tr>
      * </table>
      * @see #MenuView_android_windowAnimationStyle
      * @see #MenuView_android_itemTextAppearance
@@ -14609,7 +14609,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:preserveIconSpacing
+     * @attr name com.parentctrl.androidapp.childtrack:preserveIconSpacing
      */
     public static final int MenuView_preserveIconSpacing=7;
     /**
@@ -14622,7 +14622,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:subMenuArrow
+     * @attr name com.parentctrl.androidapp.childtrack:subMenuArrow
      */
     public static final int MenuView_subMenuArrow=8;
     /**
@@ -14635,15 +14635,15 @@ public final class R {
      * <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
      * <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
      * <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_elevation com.mansourappdevelopment.androidapp.kidsafe:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #NavigationView_headerLayout com.mansourappdevelopment.androidapp.kidsafe:headerLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemBackground com.mansourappdevelopment.androidapp.kidsafe:itemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemHorizontalPadding com.mansourappdevelopment.androidapp.kidsafe:itemHorizontalPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemIconPadding com.mansourappdevelopment.androidapp.kidsafe:itemIconPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemIconTint com.mansourappdevelopment.androidapp.kidsafe:itemIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemTextAppearance com.mansourappdevelopment.androidapp.kidsafe:itemTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemTextColor com.mansourappdevelopment.androidapp.kidsafe:itemTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_menu com.mansourappdevelopment.androidapp.kidsafe:menu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_elevation com.parentctrl.androidapp.childtrack:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #NavigationView_headerLayout com.parentctrl.androidapp.childtrack:headerLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemBackground com.parentctrl.androidapp.childtrack:itemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemHorizontalPadding com.parentctrl.androidapp.childtrack:itemHorizontalPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemIconPadding com.parentctrl.androidapp.childtrack:itemIconPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemIconTint com.parentctrl.androidapp.childtrack:itemIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemTextAppearance com.parentctrl.androidapp.childtrack:itemTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemTextColor com.parentctrl.androidapp.childtrack:itemTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_menu com.parentctrl.androidapp.childtrack:menu}</code></td><td></td></tr>
      * </table>
      * @see #NavigationView_android_background
      * @see #NavigationView_android_fitsSystemWindows
@@ -14712,11 +14712,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:elevation
+     * @attr name com.parentctrl.androidapp.childtrack:elevation
      */
     public static final int NavigationView_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#headerLayout}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#headerLayout}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14724,11 +14724,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:headerLayout
+     * @attr name com.parentctrl.androidapp.childtrack:headerLayout
      */
     public static final int NavigationView_headerLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#itemBackground}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#itemBackground}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14736,11 +14736,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:itemBackground
+     * @attr name com.parentctrl.androidapp.childtrack:itemBackground
      */
     public static final int NavigationView_itemBackground=5;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#itemHorizontalPadding}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#itemHorizontalPadding}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14749,11 +14749,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:itemHorizontalPadding
+     * @attr name com.parentctrl.androidapp.childtrack:itemHorizontalPadding
      */
     public static final int NavigationView_itemHorizontalPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#itemIconPadding}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#itemIconPadding}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14762,22 +14762,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:itemIconPadding
+     * @attr name com.parentctrl.androidapp.childtrack:itemIconPadding
      */
     public static final int NavigationView_itemIconPadding=7;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#itemIconTint}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#itemIconTint}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:itemIconTint
+     * @attr name com.parentctrl.androidapp.childtrack:itemIconTint
      */
     public static final int NavigationView_itemIconTint=8;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#itemTextAppearance}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#itemTextAppearance}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14785,22 +14785,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:itemTextAppearance
+     * @attr name com.parentctrl.androidapp.childtrack:itemTextAppearance
      */
     public static final int NavigationView_itemTextAppearance=9;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#itemTextColor}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#itemTextColor}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:itemTextColor
+     * @attr name com.parentctrl.androidapp.childtrack:itemTextColor
      */
     public static final int NavigationView_itemTextColor=10;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#menu}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#menu}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14808,7 +14808,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:menu
+     * @attr name com.parentctrl.androidapp.childtrack:menu
      */
     public static final int NavigationView_menu=11;
     /**
@@ -14820,7 +14820,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.mansourappdevelopment.androidapp.kidsafe:overlapAnchor}</code></td><td>Whether the popup window should overlap its anchor view.</td></tr>
+     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.parentctrl.androidapp.childtrack:overlapAnchor}</code></td><td>Whether the popup window should overlap its anchor view.</td></tr>
      * </table>
      * @see #PopupWindow_android_popupBackground
      * @see #PopupWindow_android_popupAnimationStyle
@@ -14864,7 +14864,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:overlapAnchor
+     * @attr name com.parentctrl.androidapp.childtrack:overlapAnchor
      */
     public static final int PopupWindow_overlapAnchor=2;
     /**
@@ -14874,7 +14874,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.mansourappdevelopment.androidapp.kidsafe:state_above_anchor}</code></td><td>State identifier indicating the popup will be above the anchor.</td></tr>
+     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.parentctrl.androidapp.childtrack:state_above_anchor}</code></td><td>State identifier indicating the popup will be above the anchor.</td></tr>
      * </table>
      * @see #PopupWindowBackgroundState_state_above_anchor
      */
@@ -14889,7 +14889,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:state_above_anchor
+     * @attr name com.parentctrl.androidapp.childtrack:state_above_anchor
      */
     public static final int PopupWindowBackgroundState_state_above_anchor=0;
     /**
@@ -14899,8 +14899,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.mansourappdevelopment.androidapp.kidsafe:paddingBottomNoButtons}</code></td><td>Bottom padding to use when no buttons are present.</td></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.mansourappdevelopment.androidapp.kidsafe:paddingTopNoTitle}</code></td><td>Top padding to use when no title is present.</td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.parentctrl.androidapp.childtrack:paddingBottomNoButtons}</code></td><td>Bottom padding to use when no buttons are present.</td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.parentctrl.androidapp.childtrack:paddingTopNoTitle}</code></td><td>Top padding to use when no title is present.</td></tr>
      * </table>
      * @see #RecycleListView_paddingBottomNoButtons
      * @see #RecycleListView_paddingTopNoTitle
@@ -14919,7 +14919,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:paddingBottomNoButtons
+     * @attr name com.parentctrl.androidapp.childtrack:paddingBottomNoButtons
      */
     public static final int RecycleListView_paddingBottomNoButtons=0;
     /**
@@ -14933,7 +14933,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:paddingTopNoTitle
+     * @attr name com.parentctrl.androidapp.childtrack:paddingTopNoTitle
      */
     public static final int RecycleListView_paddingTopNoTitle=1;
     /**
@@ -14945,15 +14945,15 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
      * <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollEnabled com.mansourappdevelopment.androidapp.kidsafe:fastScrollEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable com.mansourappdevelopment.androidapp.kidsafe:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable com.mansourappdevelopment.androidapp.kidsafe:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable com.mansourappdevelopment.androidapp.kidsafe:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable com.mansourappdevelopment.androidapp.kidsafe:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_layoutManager com.mansourappdevelopment.androidapp.kidsafe:layoutManager}</code></td><td>Class name of the Layout Manager to be used.</td></tr>
-     * <tr><td><code>{@link #RecyclerView_reverseLayout com.mansourappdevelopment.androidapp.kidsafe:reverseLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_spanCount com.mansourappdevelopment.androidapp.kidsafe:spanCount}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_stackFromEnd com.mansourappdevelopment.androidapp.kidsafe:stackFromEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollEnabled com.parentctrl.androidapp.childtrack:fastScrollEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable com.parentctrl.androidapp.childtrack:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable com.parentctrl.androidapp.childtrack:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable com.parentctrl.androidapp.childtrack:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable com.parentctrl.androidapp.childtrack:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_layoutManager com.parentctrl.androidapp.childtrack:layoutManager}</code></td><td>Class name of the Layout Manager to be used.</td></tr>
+     * <tr><td><code>{@link #RecyclerView_reverseLayout com.parentctrl.androidapp.childtrack:reverseLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_spanCount com.parentctrl.androidapp.childtrack:spanCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_stackFromEnd com.parentctrl.androidapp.childtrack:stackFromEnd}</code></td><td></td></tr>
      * </table>
      * @see #RecyclerView_android_orientation
      * @see #RecyclerView_android_descendantFocusability
@@ -15008,17 +15008,17 @@ public final class R {
      */
     public static final int RecyclerView_android_descendantFocusability=1;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#fastScrollEnabled}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#fastScrollEnabled}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:fastScrollEnabled
+     * @attr name com.parentctrl.androidapp.childtrack:fastScrollEnabled
      */
     public static final int RecyclerView_fastScrollEnabled=2;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#fastScrollHorizontalThumbDrawable}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#fastScrollHorizontalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15026,11 +15026,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:fastScrollHorizontalThumbDrawable
+     * @attr name com.parentctrl.androidapp.childtrack:fastScrollHorizontalThumbDrawable
      */
     public static final int RecyclerView_fastScrollHorizontalThumbDrawable=3;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#fastScrollHorizontalTrackDrawable}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#fastScrollHorizontalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15038,11 +15038,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:fastScrollHorizontalTrackDrawable
+     * @attr name com.parentctrl.androidapp.childtrack:fastScrollHorizontalTrackDrawable
      */
     public static final int RecyclerView_fastScrollHorizontalTrackDrawable=4;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#fastScrollVerticalThumbDrawable}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#fastScrollVerticalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15050,11 +15050,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:fastScrollVerticalThumbDrawable
+     * @attr name com.parentctrl.androidapp.childtrack:fastScrollVerticalThumbDrawable
      */
     public static final int RecyclerView_fastScrollVerticalThumbDrawable=5;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#fastScrollVerticalTrackDrawable}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#fastScrollVerticalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15062,7 +15062,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:fastScrollVerticalTrackDrawable
+     * @attr name com.parentctrl.androidapp.childtrack:fastScrollVerticalTrackDrawable
      */
     public static final int RecyclerView_fastScrollVerticalTrackDrawable=6;
     /**
@@ -15081,36 +15081,36 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:layoutManager
+     * @attr name com.parentctrl.androidapp.childtrack:layoutManager
      */
     public static final int RecyclerView_layoutManager=7;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#reverseLayout}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#reverseLayout}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:reverseLayout
+     * @attr name com.parentctrl.androidapp.childtrack:reverseLayout
      */
     public static final int RecyclerView_reverseLayout=8;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#spanCount}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#spanCount}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:spanCount
+     * @attr name com.parentctrl.androidapp.childtrack:spanCount
      */
     public static final int RecyclerView_spanCount=9;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#stackFromEnd}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#stackFromEnd}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:stackFromEnd
+     * @attr name com.parentctrl.androidapp.childtrack:stackFromEnd
      */
     public static final int RecyclerView_stackFromEnd=10;
     /**
@@ -15120,7 +15120,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.mansourappdevelopment.androidapp.kidsafe:insetForeground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.parentctrl.androidapp.childtrack:insetForeground}</code></td><td></td></tr>
      * </table>
      * @see #ScrimInsetsFrameLayout_insetForeground
      */
@@ -15128,7 +15128,7 @@ public final class R {
       0x7f040101
     };
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#insetForeground}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#insetForeground}
      * attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15139,7 +15139,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:insetForeground
+     * @attr name com.parentctrl.androidapp.childtrack:insetForeground
      */
     public static final int ScrimInsetsFrameLayout_insetForeground=0;
     /**
@@ -15149,7 +15149,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.mansourappdevelopment.androidapp.kidsafe:behavior_overlapTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.parentctrl.androidapp.childtrack:behavior_overlapTop}</code></td><td></td></tr>
      * </table>
      * @see #ScrollingViewBehavior_Layout_behavior_overlapTop
      */
@@ -15157,7 +15157,7 @@ public final class R {
       0x7f04003a
     };
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#behavior_overlapTop}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#behavior_overlapTop}
      * attribute's value can be found in the {@link #ScrollingViewBehavior_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15166,7 +15166,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:behavior_overlapTop
+     * @attr name com.parentctrl.androidapp.childtrack:behavior_overlapTop
      */
     public static final int ScrollingViewBehavior_Layout_behavior_overlapTop=0;
     /**
@@ -15180,20 +15180,20 @@ public final class R {
      * <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_closeIcon com.mansourappdevelopment.androidapp.kidsafe:closeIcon}</code></td><td>Close button icon</td></tr>
-     * <tr><td><code>{@link #SearchView_commitIcon com.mansourappdevelopment.androidapp.kidsafe:commitIcon}</code></td><td>Commit icon shown in the query suggestion row</td></tr>
-     * <tr><td><code>{@link #SearchView_defaultQueryHint com.mansourappdevelopment.androidapp.kidsafe:defaultQueryHint}</code></td><td>Default query hint used when {@code queryHint} is undefined and
+     * <tr><td><code>{@link #SearchView_closeIcon com.parentctrl.androidapp.childtrack:closeIcon}</code></td><td>Close button icon</td></tr>
+     * <tr><td><code>{@link #SearchView_commitIcon com.parentctrl.androidapp.childtrack:commitIcon}</code></td><td>Commit icon shown in the query suggestion row</td></tr>
+     * <tr><td><code>{@link #SearchView_defaultQueryHint com.parentctrl.androidapp.childtrack:defaultQueryHint}</code></td><td>Default query hint used when {@code queryHint} is undefined and
      * the search view's {@code SearchableInfo} does not provide a hint.</td></tr>
-     * <tr><td><code>{@link #SearchView_goIcon com.mansourappdevelopment.androidapp.kidsafe:goIcon}</code></td><td>Go button icon</td></tr>
-     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.mansourappdevelopment.androidapp.kidsafe:iconifiedByDefault}</code></td><td>The default state of the SearchView.</td></tr>
-     * <tr><td><code>{@link #SearchView_layout com.mansourappdevelopment.androidapp.kidsafe:layout}</code></td><td>The layout to use for the search view.</td></tr>
-     * <tr><td><code>{@link #SearchView_queryBackground com.mansourappdevelopment.androidapp.kidsafe:queryBackground}</code></td><td>Background for the section containing the search query</td></tr>
-     * <tr><td><code>{@link #SearchView_queryHint com.mansourappdevelopment.androidapp.kidsafe:queryHint}</code></td><td>An optional user-defined query hint string to be displayed in the empty query field.</td></tr>
-     * <tr><td><code>{@link #SearchView_searchHintIcon com.mansourappdevelopment.androidapp.kidsafe:searchHintIcon}</code></td><td>Search icon displayed as a text field hint</td></tr>
-     * <tr><td><code>{@link #SearchView_searchIcon com.mansourappdevelopment.androidapp.kidsafe:searchIcon}</code></td><td>Search icon</td></tr>
-     * <tr><td><code>{@link #SearchView_submitBackground com.mansourappdevelopment.androidapp.kidsafe:submitBackground}</code></td><td>Background for the section containing the action (e.g.</td></tr>
-     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.mansourappdevelopment.androidapp.kidsafe:suggestionRowLayout}</code></td><td>Layout for query suggestion rows</td></tr>
-     * <tr><td><code>{@link #SearchView_voiceIcon com.mansourappdevelopment.androidapp.kidsafe:voiceIcon}</code></td><td>Voice button icon</td></tr>
+     * <tr><td><code>{@link #SearchView_goIcon com.parentctrl.androidapp.childtrack:goIcon}</code></td><td>Go button icon</td></tr>
+     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.parentctrl.androidapp.childtrack:iconifiedByDefault}</code></td><td>The default state of the SearchView.</td></tr>
+     * <tr><td><code>{@link #SearchView_layout com.parentctrl.androidapp.childtrack:layout}</code></td><td>The layout to use for the search view.</td></tr>
+     * <tr><td><code>{@link #SearchView_queryBackground com.parentctrl.androidapp.childtrack:queryBackground}</code></td><td>Background for the section containing the search query</td></tr>
+     * <tr><td><code>{@link #SearchView_queryHint com.parentctrl.androidapp.childtrack:queryHint}</code></td><td>An optional user-defined query hint string to be displayed in the empty query field.</td></tr>
+     * <tr><td><code>{@link #SearchView_searchHintIcon com.parentctrl.androidapp.childtrack:searchHintIcon}</code></td><td>Search icon displayed as a text field hint</td></tr>
+     * <tr><td><code>{@link #SearchView_searchIcon com.parentctrl.androidapp.childtrack:searchIcon}</code></td><td>Search icon</td></tr>
+     * <tr><td><code>{@link #SearchView_submitBackground com.parentctrl.androidapp.childtrack:submitBackground}</code></td><td>Background for the section containing the action (e.g.</td></tr>
+     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.parentctrl.androidapp.childtrack:suggestionRowLayout}</code></td><td>Layout for query suggestion rows</td></tr>
+     * <tr><td><code>{@link #SearchView_voiceIcon com.parentctrl.androidapp.childtrack:voiceIcon}</code></td><td>Voice button icon</td></tr>
      * </table>
      * @see #SearchView_android_focusable
      * @see #SearchView_android_maxWidth
@@ -15343,7 +15343,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:closeIcon
+     * @attr name com.parentctrl.androidapp.childtrack:closeIcon
      */
     public static final int SearchView_closeIcon=4;
     /**
@@ -15356,7 +15356,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:commitIcon
+     * @attr name com.parentctrl.androidapp.childtrack:commitIcon
      */
     public static final int SearchView_commitIcon=5;
     /**
@@ -15368,7 +15368,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:defaultQueryHint
+     * @attr name com.parentctrl.androidapp.childtrack:defaultQueryHint
      */
     public static final int SearchView_defaultQueryHint=6;
     /**
@@ -15381,7 +15381,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:goIcon
+     * @attr name com.parentctrl.androidapp.childtrack:goIcon
      */
     public static final int SearchView_goIcon=7;
     /**
@@ -15393,7 +15393,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:iconifiedByDefault
+     * @attr name com.parentctrl.androidapp.childtrack:iconifiedByDefault
      */
     public static final int SearchView_iconifiedByDefault=8;
     /**
@@ -15406,7 +15406,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:layout
+     * @attr name com.parentctrl.androidapp.childtrack:layout
      */
     public static final int SearchView_layout=9;
     /**
@@ -15419,7 +15419,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:queryBackground
+     * @attr name com.parentctrl.androidapp.childtrack:queryBackground
      */
     public static final int SearchView_queryBackground=10;
     /**
@@ -15430,7 +15430,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:queryHint
+     * @attr name com.parentctrl.androidapp.childtrack:queryHint
      */
     public static final int SearchView_queryHint=11;
     /**
@@ -15443,7 +15443,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:searchHintIcon
+     * @attr name com.parentctrl.androidapp.childtrack:searchHintIcon
      */
     public static final int SearchView_searchHintIcon=12;
     /**
@@ -15456,7 +15456,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:searchIcon
+     * @attr name com.parentctrl.androidapp.childtrack:searchIcon
      */
     public static final int SearchView_searchIcon=13;
     /**
@@ -15469,7 +15469,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:submitBackground
+     * @attr name com.parentctrl.androidapp.childtrack:submitBackground
      */
     public static final int SearchView_submitBackground=14;
     /**
@@ -15482,7 +15482,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:suggestionRowLayout
+     * @attr name com.parentctrl.androidapp.childtrack:suggestionRowLayout
      */
     public static final int SearchView_suggestionRowLayout=15;
     /**
@@ -15495,7 +15495,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:voiceIcon
+     * @attr name com.parentctrl.androidapp.childtrack:voiceIcon
      */
     public static final int SearchView_voiceIcon=16;
     /**
@@ -15505,9 +15505,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #SignInButton_buttonSize com.mansourappdevelopment.androidapp.kidsafe:buttonSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SignInButton_colorScheme com.mansourappdevelopment.androidapp.kidsafe:colorScheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SignInButton_scopeUris com.mansourappdevelopment.androidapp.kidsafe:scopeUris}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SignInButton_buttonSize com.parentctrl.androidapp.childtrack:buttonSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SignInButton_colorScheme com.parentctrl.androidapp.childtrack:colorScheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SignInButton_scopeUris com.parentctrl.androidapp.childtrack:scopeUris}</code></td><td></td></tr>
      * </table>
      * @see #SignInButton_buttonSize
      * @see #SignInButton_colorScheme
@@ -15517,7 +15517,7 @@ public final class R {
       0x7f040054, 0x7f040093, 0x7f040157
     };
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#buttonSize}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#buttonSize}
      * attribute's value can be found in the {@link #SignInButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15535,11 +15535,11 @@ public final class R {
      * <tr><td>wide</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:buttonSize
+     * @attr name com.parentctrl.androidapp.childtrack:buttonSize
      */
     public static final int SignInButton_buttonSize=0;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#colorScheme}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#colorScheme}
      * attribute's value can be found in the {@link #SignInButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15557,11 +15557,11 @@ public final class R {
      * <tr><td>light</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:colorScheme
+     * @attr name com.parentctrl.androidapp.childtrack:colorScheme
      */
     public static final int SignInButton_colorScheme=1;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#scopeUris}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#scopeUris}
      * attribute's value can be found in the {@link #SignInButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15571,7 +15571,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:scopeUris
+     * @attr name com.parentctrl.androidapp.childtrack:scopeUris
      */
     public static final int SignInButton_scopeUris=2;
     /**
@@ -15581,8 +15581,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #Snackbar_snackbarButtonStyle com.mansourappdevelopment.androidapp.kidsafe:snackbarButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Snackbar_snackbarStyle com.mansourappdevelopment.androidapp.kidsafe:snackbarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Snackbar_snackbarButtonStyle com.parentctrl.androidapp.childtrack:snackbarButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Snackbar_snackbarStyle com.parentctrl.androidapp.childtrack:snackbarStyle}</code></td><td></td></tr>
      * </table>
      * @see #Snackbar_snackbarButtonStyle
      * @see #Snackbar_snackbarStyle
@@ -15591,7 +15591,7 @@ public final class R {
       0x7f040169, 0x7f04016a
     };
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#snackbarButtonStyle}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#snackbarButtonStyle}
      * attribute's value can be found in the {@link #Snackbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15599,11 +15599,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:snackbarButtonStyle
+     * @attr name com.parentctrl.androidapp.childtrack:snackbarButtonStyle
      */
     public static final int Snackbar_snackbarButtonStyle=0;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#snackbarStyle}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#snackbarStyle}
      * attribute's value can be found in the {@link #Snackbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15611,7 +15611,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:snackbarStyle
+     * @attr name com.parentctrl.androidapp.childtrack:snackbarStyle
      */
     public static final int Snackbar_snackbarStyle=1;
     /**
@@ -15622,8 +15622,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_elevation com.mansourappdevelopment.androidapp.kidsafe:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.mansourappdevelopment.androidapp.kidsafe:maxActionInlineWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_elevation com.parentctrl.androidapp.childtrack:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.parentctrl.androidapp.childtrack:maxActionInlineWidth}</code></td><td></td></tr>
      * </table>
      * @see #SnackbarLayout_android_maxWidth
      * @see #SnackbarLayout_elevation
@@ -15656,11 +15656,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:elevation
+     * @attr name com.parentctrl.androidapp.childtrack:elevation
      */
     public static final int SnackbarLayout_elevation=1;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#maxActionInlineWidth}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#maxActionInlineWidth}
      * attribute's value can be found in the {@link #SnackbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15669,7 +15669,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:maxActionInlineWidth
+     * @attr name com.parentctrl.androidapp.childtrack:maxActionInlineWidth
      */
     public static final int SnackbarLayout_maxActionInlineWidth=2;
     /**
@@ -15683,7 +15683,7 @@ public final class R {
      * <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Spinner_popupTheme com.mansourappdevelopment.androidapp.kidsafe:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #Spinner_popupTheme com.parentctrl.androidapp.childtrack:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
      * </table>
      * @see #Spinner_android_entries
@@ -15772,7 +15772,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:popupTheme
+     * @attr name com.parentctrl.androidapp.childtrack:popupTheme
      */
     public static final int Spinner_popupTheme=4;
     /**
@@ -15912,17 +15912,17 @@ public final class R {
      * <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_showText com.mansourappdevelopment.androidapp.kidsafe:showText}</code></td><td>Whether to draw on/off text.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_splitTrack com.mansourappdevelopment.androidapp.kidsafe:splitTrack}</code></td><td>Whether to split the track and leave a gap for the thumb drawable.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.mansourappdevelopment.androidapp.kidsafe:switchMinWidth}</code></td><td>Minimum width for the switch component</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchPadding com.mansourappdevelopment.androidapp.kidsafe:switchPadding}</code></td><td>Minimum space between the switch and caption text</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.mansourappdevelopment.androidapp.kidsafe:switchTextAppearance}</code></td><td>TextAppearance style for text displayed on the switch thumb.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.mansourappdevelopment.androidapp.kidsafe:thumbTextPadding}</code></td><td>Amount of padding on either side of text within the switch thumb.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTint com.mansourappdevelopment.androidapp.kidsafe:thumbTint}</code></td><td>Tint to apply to the thumb drawable.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.mansourappdevelopment.androidapp.kidsafe:thumbTintMode}</code></td><td>Blending mode used to apply the thumb tint.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_track com.mansourappdevelopment.androidapp.kidsafe:track}</code></td><td>Drawable to use as the "track" that the switch thumb slides within.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTint com.mansourappdevelopment.androidapp.kidsafe:trackTint}</code></td><td>Tint to apply to the track.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.mansourappdevelopment.androidapp.kidsafe:trackTintMode}</code></td><td>Blending mode used to apply the track tint.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_showText com.parentctrl.androidapp.childtrack:showText}</code></td><td>Whether to draw on/off text.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_splitTrack com.parentctrl.androidapp.childtrack:splitTrack}</code></td><td>Whether to split the track and leave a gap for the thumb drawable.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.parentctrl.androidapp.childtrack:switchMinWidth}</code></td><td>Minimum width for the switch component</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchPadding com.parentctrl.androidapp.childtrack:switchPadding}</code></td><td>Minimum space between the switch and caption text</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.parentctrl.androidapp.childtrack:switchTextAppearance}</code></td><td>TextAppearance style for text displayed on the switch thumb.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.parentctrl.androidapp.childtrack:thumbTextPadding}</code></td><td>Amount of padding on either side of text within the switch thumb.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTint com.parentctrl.androidapp.childtrack:thumbTint}</code></td><td>Tint to apply to the thumb drawable.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.parentctrl.androidapp.childtrack:thumbTintMode}</code></td><td>Blending mode used to apply the thumb tint.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_track com.parentctrl.androidapp.childtrack:track}</code></td><td>Drawable to use as the "track" that the switch thumb slides within.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTint com.parentctrl.androidapp.childtrack:trackTint}</code></td><td>Tint to apply to the track.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.parentctrl.androidapp.childtrack:trackTintMode}</code></td><td>Blending mode used to apply the track tint.</td></tr>
      * </table>
      * @see #SwitchCompat_android_textOn
      * @see #SwitchCompat_android_textOff
@@ -15988,7 +15988,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:showText
+     * @attr name com.parentctrl.androidapp.childtrack:showText
      */
     public static final int SwitchCompat_showText=3;
     /**
@@ -15999,7 +15999,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:splitTrack
+     * @attr name com.parentctrl.androidapp.childtrack:splitTrack
      */
     public static final int SwitchCompat_splitTrack=4;
     /**
@@ -16013,7 +16013,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:switchMinWidth
+     * @attr name com.parentctrl.androidapp.childtrack:switchMinWidth
      */
     public static final int SwitchCompat_switchMinWidth=5;
     /**
@@ -16027,7 +16027,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:switchPadding
+     * @attr name com.parentctrl.androidapp.childtrack:switchPadding
      */
     public static final int SwitchCompat_switchPadding=6;
     /**
@@ -16040,7 +16040,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:switchTextAppearance
+     * @attr name com.parentctrl.androidapp.childtrack:switchTextAppearance
      */
     public static final int SwitchCompat_switchTextAppearance=7;
     /**
@@ -16054,7 +16054,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:thumbTextPadding
+     * @attr name com.parentctrl.androidapp.childtrack:thumbTextPadding
      */
     public static final int SwitchCompat_thumbTextPadding=8;
     /**
@@ -16066,7 +16066,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:thumbTint
+     * @attr name com.parentctrl.androidapp.childtrack:thumbTint
      */
     public static final int SwitchCompat_thumbTint=9;
     /**
@@ -16093,7 +16093,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:thumbTintMode
+     * @attr name com.parentctrl.androidapp.childtrack:thumbTintMode
      */
     public static final int SwitchCompat_thumbTintMode=10;
     /**
@@ -16106,7 +16106,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:track
+     * @attr name com.parentctrl.androidapp.childtrack:track
      */
     public static final int SwitchCompat_track=11;
     /**
@@ -16118,7 +16118,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:trackTint
+     * @attr name com.parentctrl.androidapp.childtrack:trackTint
      */
     public static final int SwitchCompat_trackTint=12;
     /**
@@ -16145,7 +16145,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:trackTintMode
+     * @attr name com.parentctrl.androidapp.childtrack:trackTintMode
      */
     public static final int SwitchCompat_trackTintMode=13;
     /**
@@ -16207,31 +16207,31 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #TabLayout_tabBackground com.mansourappdevelopment.androidapp.kidsafe:tabBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabContentStart com.mansourappdevelopment.androidapp.kidsafe:tabContentStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabGravity com.mansourappdevelopment.androidapp.kidsafe:tabGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIconTint com.mansourappdevelopment.androidapp.kidsafe:tabIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIconTintMode com.mansourappdevelopment.androidapp.kidsafe:tabIconTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicator com.mansourappdevelopment.androidapp.kidsafe:tabIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorAnimationDuration com.mansourappdevelopment.androidapp.kidsafe:tabIndicatorAnimationDuration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorColor com.mansourappdevelopment.androidapp.kidsafe:tabIndicatorColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorFullWidth com.mansourappdevelopment.androidapp.kidsafe:tabIndicatorFullWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorGravity com.mansourappdevelopment.androidapp.kidsafe:tabIndicatorGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.mansourappdevelopment.androidapp.kidsafe:tabIndicatorHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabInlineLabel com.mansourappdevelopment.androidapp.kidsafe:tabInlineLabel}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMaxWidth com.mansourappdevelopment.androidapp.kidsafe:tabMaxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMinWidth com.mansourappdevelopment.androidapp.kidsafe:tabMinWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMode com.mansourappdevelopment.androidapp.kidsafe:tabMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPadding com.mansourappdevelopment.androidapp.kidsafe:tabPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingBottom com.mansourappdevelopment.androidapp.kidsafe:tabPaddingBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingEnd com.mansourappdevelopment.androidapp.kidsafe:tabPaddingEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingStart com.mansourappdevelopment.androidapp.kidsafe:tabPaddingStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingTop com.mansourappdevelopment.androidapp.kidsafe:tabPaddingTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabRippleColor com.mansourappdevelopment.androidapp.kidsafe:tabRippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.mansourappdevelopment.androidapp.kidsafe:tabSelectedTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabTextAppearance com.mansourappdevelopment.androidapp.kidsafe:tabTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabTextColor com.mansourappdevelopment.androidapp.kidsafe:tabTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabUnboundedRipple com.mansourappdevelopment.androidapp.kidsafe:tabUnboundedRipple}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabBackground com.parentctrl.androidapp.childtrack:tabBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabContentStart com.parentctrl.androidapp.childtrack:tabContentStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabGravity com.parentctrl.androidapp.childtrack:tabGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIconTint com.parentctrl.androidapp.childtrack:tabIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIconTintMode com.parentctrl.androidapp.childtrack:tabIconTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicator com.parentctrl.androidapp.childtrack:tabIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorAnimationDuration com.parentctrl.androidapp.childtrack:tabIndicatorAnimationDuration}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorColor com.parentctrl.androidapp.childtrack:tabIndicatorColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorFullWidth com.parentctrl.androidapp.childtrack:tabIndicatorFullWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorGravity com.parentctrl.androidapp.childtrack:tabIndicatorGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.parentctrl.androidapp.childtrack:tabIndicatorHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabInlineLabel com.parentctrl.androidapp.childtrack:tabInlineLabel}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMaxWidth com.parentctrl.androidapp.childtrack:tabMaxWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMinWidth com.parentctrl.androidapp.childtrack:tabMinWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMode com.parentctrl.androidapp.childtrack:tabMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPadding com.parentctrl.androidapp.childtrack:tabPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingBottom com.parentctrl.androidapp.childtrack:tabPaddingBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingEnd com.parentctrl.androidapp.childtrack:tabPaddingEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingStart com.parentctrl.androidapp.childtrack:tabPaddingStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingTop com.parentctrl.androidapp.childtrack:tabPaddingTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabRippleColor com.parentctrl.androidapp.childtrack:tabRippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.parentctrl.androidapp.childtrack:tabSelectedTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabTextAppearance com.parentctrl.androidapp.childtrack:tabTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabTextColor com.parentctrl.androidapp.childtrack:tabTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabUnboundedRipple com.parentctrl.androidapp.childtrack:tabUnboundedRipple}</code></td><td></td></tr>
      * </table>
      * @see #TabLayout_tabBackground
      * @see #TabLayout_tabContentStart
@@ -16269,7 +16269,7 @@ public final class R {
       0x7f04019f
     };
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#tabBackground}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#tabBackground}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16277,11 +16277,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:tabBackground
+     * @attr name com.parentctrl.androidapp.childtrack:tabBackground
      */
     public static final int TabLayout_tabBackground=0;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#tabContentStart}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#tabContentStart}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16290,11 +16290,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:tabContentStart
+     * @attr name com.parentctrl.androidapp.childtrack:tabContentStart
      */
     public static final int TabLayout_tabContentStart=1;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#tabGravity}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#tabGravity}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16307,22 +16307,22 @@ public final class R {
      * <tr><td>fill</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:tabGravity
+     * @attr name com.parentctrl.androidapp.childtrack:tabGravity
      */
     public static final int TabLayout_tabGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#tabIconTint}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#tabIconTint}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:tabIconTint
+     * @attr name com.parentctrl.androidapp.childtrack:tabIconTint
      */
     public static final int TabLayout_tabIconTint=3;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#tabIconTintMode}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#tabIconTintMode}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16339,11 +16339,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:tabIconTintMode
+     * @attr name com.parentctrl.androidapp.childtrack:tabIconTintMode
      */
     public static final int TabLayout_tabIconTintMode=4;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#tabIndicator}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#tabIndicator}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16351,41 +16351,41 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:tabIndicator
+     * @attr name com.parentctrl.androidapp.childtrack:tabIndicator
      */
     public static final int TabLayout_tabIndicator=5;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#tabIndicatorAnimationDuration}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#tabIndicatorAnimationDuration}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:tabIndicatorAnimationDuration
+     * @attr name com.parentctrl.androidapp.childtrack:tabIndicatorAnimationDuration
      */
     public static final int TabLayout_tabIndicatorAnimationDuration=6;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#tabIndicatorColor}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#tabIndicatorColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:tabIndicatorColor
+     * @attr name com.parentctrl.androidapp.childtrack:tabIndicatorColor
      */
     public static final int TabLayout_tabIndicatorColor=7;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#tabIndicatorFullWidth}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#tabIndicatorFullWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:tabIndicatorFullWidth
+     * @attr name com.parentctrl.androidapp.childtrack:tabIndicatorFullWidth
      */
     public static final int TabLayout_tabIndicatorFullWidth=8;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#tabIndicatorGravity}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#tabIndicatorGravity}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16400,11 +16400,11 @@ public final class R {
      * <tr><td>top</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:tabIndicatorGravity
+     * @attr name com.parentctrl.androidapp.childtrack:tabIndicatorGravity
      */
     public static final int TabLayout_tabIndicatorGravity=9;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#tabIndicatorHeight}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#tabIndicatorHeight}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16413,21 +16413,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:tabIndicatorHeight
+     * @attr name com.parentctrl.androidapp.childtrack:tabIndicatorHeight
      */
     public static final int TabLayout_tabIndicatorHeight=10;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#tabInlineLabel}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#tabInlineLabel}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:tabInlineLabel
+     * @attr name com.parentctrl.androidapp.childtrack:tabInlineLabel
      */
     public static final int TabLayout_tabInlineLabel=11;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#tabMaxWidth}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#tabMaxWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16436,11 +16436,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:tabMaxWidth
+     * @attr name com.parentctrl.androidapp.childtrack:tabMaxWidth
      */
     public static final int TabLayout_tabMaxWidth=12;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#tabMinWidth}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#tabMinWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16449,11 +16449,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:tabMinWidth
+     * @attr name com.parentctrl.androidapp.childtrack:tabMinWidth
      */
     public static final int TabLayout_tabMinWidth=13;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#tabMode}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#tabMode}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16466,11 +16466,11 @@ public final class R {
      * <tr><td>scrollable</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:tabMode
+     * @attr name com.parentctrl.androidapp.childtrack:tabMode
      */
     public static final int TabLayout_tabMode=14;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#tabPadding}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#tabPadding}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16479,11 +16479,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:tabPadding
+     * @attr name com.parentctrl.androidapp.childtrack:tabPadding
      */
     public static final int TabLayout_tabPadding=15;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#tabPaddingBottom}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#tabPaddingBottom}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16492,11 +16492,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:tabPaddingBottom
+     * @attr name com.parentctrl.androidapp.childtrack:tabPaddingBottom
      */
     public static final int TabLayout_tabPaddingBottom=16;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#tabPaddingEnd}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#tabPaddingEnd}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16505,11 +16505,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:tabPaddingEnd
+     * @attr name com.parentctrl.androidapp.childtrack:tabPaddingEnd
      */
     public static final int TabLayout_tabPaddingEnd=17;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#tabPaddingStart}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#tabPaddingStart}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16518,11 +16518,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:tabPaddingStart
+     * @attr name com.parentctrl.androidapp.childtrack:tabPaddingStart
      */
     public static final int TabLayout_tabPaddingStart=18;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#tabPaddingTop}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#tabPaddingTop}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16531,33 +16531,33 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:tabPaddingTop
+     * @attr name com.parentctrl.androidapp.childtrack:tabPaddingTop
      */
     public static final int TabLayout_tabPaddingTop=19;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#tabRippleColor}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#tabRippleColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:tabRippleColor
+     * @attr name com.parentctrl.androidapp.childtrack:tabRippleColor
      */
     public static final int TabLayout_tabRippleColor=20;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#tabSelectedTextColor}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#tabSelectedTextColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:tabSelectedTextColor
+     * @attr name com.parentctrl.androidapp.childtrack:tabSelectedTextColor
      */
     public static final int TabLayout_tabSelectedTextColor=21;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#tabTextAppearance}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#tabTextAppearance}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16565,28 +16565,28 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:tabTextAppearance
+     * @attr name com.parentctrl.androidapp.childtrack:tabTextAppearance
      */
     public static final int TabLayout_tabTextAppearance=22;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#tabTextColor}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#tabTextColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:tabTextColor
+     * @attr name com.parentctrl.androidapp.childtrack:tabTextColor
      */
     public static final int TabLayout_tabTextColor=23;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#tabUnboundedRipple}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#tabUnboundedRipple}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:tabUnboundedRipple
+     * @attr name com.parentctrl.androidapp.childtrack:tabUnboundedRipple
      */
     public static final int TabLayout_tabUnboundedRipple=24;
     /**
@@ -16607,8 +16607,8 @@ public final class R {
      * <tr><td><code>{@link #TextAppearance_android_shadowDy android:shadowDy}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_shadowRadius android:shadowRadius}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_fontFamily android:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_fontFamily com.mansourappdevelopment.androidapp.kidsafe:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
-     * <tr><td><code>{@link #TextAppearance_textAllCaps com.mansourappdevelopment.androidapp.kidsafe:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
+     * <tr><td><code>{@link #TextAppearance_fontFamily com.parentctrl.androidapp.childtrack:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
+     * <tr><td><code>{@link #TextAppearance_textAllCaps com.parentctrl.androidapp.childtrack:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
      * </table>
      * @see #TextAppearance_android_textSize
      * @see #TextAppearance_android_typeface
@@ -16781,7 +16781,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:fontFamily
+     * @attr name com.parentctrl.androidapp.childtrack:fontFamily
      */
     public static final int TextAppearance_fontFamily=11;
     /**
@@ -16796,7 +16796,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:textAllCaps
+     * @attr name com.parentctrl.androidapp.childtrack:textAllCaps
      */
     public static final int TextAppearance_textAllCaps=12;
     /**
@@ -16808,32 +16808,32 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxBackgroundColor com.mansourappdevelopment.androidapp.kidsafe:boxBackgroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxBackgroundMode com.mansourappdevelopment.androidapp.kidsafe:boxBackgroundMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCollapsedPaddingTop com.mansourappdevelopment.androidapp.kidsafe:boxCollapsedPaddingTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomEnd com.mansourappdevelopment.androidapp.kidsafe:boxCornerRadiusBottomEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomStart com.mansourappdevelopment.androidapp.kidsafe:boxCornerRadiusBottomStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopEnd com.mansourappdevelopment.androidapp.kidsafe:boxCornerRadiusTopEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopStart com.mansourappdevelopment.androidapp.kidsafe:boxCornerRadiusTopStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxStrokeColor com.mansourappdevelopment.androidapp.kidsafe:boxStrokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxStrokeWidth com.mansourappdevelopment.androidapp.kidsafe:boxStrokeWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterEnabled com.mansourappdevelopment.androidapp.kidsafe:counterEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterMaxLength com.mansourappdevelopment.androidapp.kidsafe:counterMaxLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.mansourappdevelopment.androidapp.kidsafe:counterOverflowTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.mansourappdevelopment.androidapp.kidsafe:counterTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorEnabled com.mansourappdevelopment.androidapp.kidsafe:errorEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.mansourappdevelopment.androidapp.kidsafe:errorTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_helperText com.mansourappdevelopment.androidapp.kidsafe:helperText}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_helperTextEnabled com.mansourappdevelopment.androidapp.kidsafe:helperTextEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_helperTextTextAppearance com.mansourappdevelopment.androidapp.kidsafe:helperTextTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.mansourappdevelopment.androidapp.kidsafe:hintAnimationEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintEnabled com.mansourappdevelopment.androidapp.kidsafe:hintEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.mansourappdevelopment.androidapp.kidsafe:hintTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.mansourappdevelopment.androidapp.kidsafe:passwordToggleContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.mansourappdevelopment.androidapp.kidsafe:passwordToggleDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.mansourappdevelopment.androidapp.kidsafe:passwordToggleEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.mansourappdevelopment.androidapp.kidsafe:passwordToggleTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.mansourappdevelopment.androidapp.kidsafe:passwordToggleTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxBackgroundColor com.parentctrl.androidapp.childtrack:boxBackgroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxBackgroundMode com.parentctrl.androidapp.childtrack:boxBackgroundMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCollapsedPaddingTop com.parentctrl.androidapp.childtrack:boxCollapsedPaddingTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomEnd com.parentctrl.androidapp.childtrack:boxCornerRadiusBottomEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomStart com.parentctrl.androidapp.childtrack:boxCornerRadiusBottomStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopEnd com.parentctrl.androidapp.childtrack:boxCornerRadiusTopEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopStart com.parentctrl.androidapp.childtrack:boxCornerRadiusTopStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxStrokeColor com.parentctrl.androidapp.childtrack:boxStrokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxStrokeWidth com.parentctrl.androidapp.childtrack:boxStrokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterEnabled com.parentctrl.androidapp.childtrack:counterEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterMaxLength com.parentctrl.androidapp.childtrack:counterMaxLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.parentctrl.androidapp.childtrack:counterOverflowTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.parentctrl.androidapp.childtrack:counterTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorEnabled com.parentctrl.androidapp.childtrack:errorEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.parentctrl.androidapp.childtrack:errorTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_helperText com.parentctrl.androidapp.childtrack:helperText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_helperTextEnabled com.parentctrl.androidapp.childtrack:helperTextEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_helperTextTextAppearance com.parentctrl.androidapp.childtrack:helperTextTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.parentctrl.androidapp.childtrack:hintAnimationEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintEnabled com.parentctrl.androidapp.childtrack:hintEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.parentctrl.androidapp.childtrack:hintTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.parentctrl.androidapp.childtrack:passwordToggleContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.parentctrl.androidapp.childtrack:passwordToggleDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.parentctrl.androidapp.childtrack:passwordToggleEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.parentctrl.androidapp.childtrack:passwordToggleTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.parentctrl.androidapp.childtrack:passwordToggleTintMode}</code></td><td></td></tr>
      * </table>
      * @see #TextInputLayout_android_textColorHint
      * @see #TextInputLayout_android_hint
@@ -16899,18 +16899,18 @@ public final class R {
      */
     public static final int TextInputLayout_android_hint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#boxBackgroundColor}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#boxBackgroundColor}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:boxBackgroundColor
+     * @attr name com.parentctrl.androidapp.childtrack:boxBackgroundColor
      */
     public static final int TextInputLayout_boxBackgroundColor=2;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#boxBackgroundMode}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#boxBackgroundMode}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16924,11 +16924,11 @@ public final class R {
      * <tr><td>outline</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:boxBackgroundMode
+     * @attr name com.parentctrl.androidapp.childtrack:boxBackgroundMode
      */
     public static final int TextInputLayout_boxBackgroundMode=3;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#boxCollapsedPaddingTop}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#boxCollapsedPaddingTop}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16937,11 +16937,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:boxCollapsedPaddingTop
+     * @attr name com.parentctrl.androidapp.childtrack:boxCollapsedPaddingTop
      */
     public static final int TextInputLayout_boxCollapsedPaddingTop=4;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#boxCornerRadiusBottomEnd}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#boxCornerRadiusBottomEnd}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16950,11 +16950,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:boxCornerRadiusBottomEnd
+     * @attr name com.parentctrl.androidapp.childtrack:boxCornerRadiusBottomEnd
      */
     public static final int TextInputLayout_boxCornerRadiusBottomEnd=5;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#boxCornerRadiusBottomStart}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#boxCornerRadiusBottomStart}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16963,11 +16963,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:boxCornerRadiusBottomStart
+     * @attr name com.parentctrl.androidapp.childtrack:boxCornerRadiusBottomStart
      */
     public static final int TextInputLayout_boxCornerRadiusBottomStart=6;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#boxCornerRadiusTopEnd}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#boxCornerRadiusTopEnd}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16976,11 +16976,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:boxCornerRadiusTopEnd
+     * @attr name com.parentctrl.androidapp.childtrack:boxCornerRadiusTopEnd
      */
     public static final int TextInputLayout_boxCornerRadiusTopEnd=7;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#boxCornerRadiusTopStart}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#boxCornerRadiusTopStart}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16989,22 +16989,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:boxCornerRadiusTopStart
+     * @attr name com.parentctrl.androidapp.childtrack:boxCornerRadiusTopStart
      */
     public static final int TextInputLayout_boxCornerRadiusTopStart=8;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#boxStrokeColor}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#boxStrokeColor}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:boxStrokeColor
+     * @attr name com.parentctrl.androidapp.childtrack:boxStrokeColor
      */
     public static final int TextInputLayout_boxStrokeColor=9;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#boxStrokeWidth}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#boxStrokeWidth}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17013,30 +17013,30 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:boxStrokeWidth
+     * @attr name com.parentctrl.androidapp.childtrack:boxStrokeWidth
      */
     public static final int TextInputLayout_boxStrokeWidth=10;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#counterEnabled}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#counterEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:counterEnabled
+     * @attr name com.parentctrl.androidapp.childtrack:counterEnabled
      */
     public static final int TextInputLayout_counterEnabled=11;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#counterMaxLength}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#counterMaxLength}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:counterMaxLength
+     * @attr name com.parentctrl.androidapp.childtrack:counterMaxLength
      */
     public static final int TextInputLayout_counterMaxLength=12;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#counterOverflowTextAppearance}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#counterOverflowTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17044,11 +17044,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:counterOverflowTextAppearance
+     * @attr name com.parentctrl.androidapp.childtrack:counterOverflowTextAppearance
      */
     public static final int TextInputLayout_counterOverflowTextAppearance=13;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#counterTextAppearance}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#counterTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17056,21 +17056,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:counterTextAppearance
+     * @attr name com.parentctrl.androidapp.childtrack:counterTextAppearance
      */
     public static final int TextInputLayout_counterTextAppearance=14;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#errorEnabled}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#errorEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:errorEnabled
+     * @attr name com.parentctrl.androidapp.childtrack:errorEnabled
      */
     public static final int TextInputLayout_errorEnabled=15;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#errorTextAppearance}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#errorTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17078,31 +17078,31 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:errorTextAppearance
+     * @attr name com.parentctrl.androidapp.childtrack:errorTextAppearance
      */
     public static final int TextInputLayout_errorTextAppearance=16;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#helperText}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#helperText}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:helperText
+     * @attr name com.parentctrl.androidapp.childtrack:helperText
      */
     public static final int TextInputLayout_helperText=17;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#helperTextEnabled}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#helperTextEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:helperTextEnabled
+     * @attr name com.parentctrl.androidapp.childtrack:helperTextEnabled
      */
     public static final int TextInputLayout_helperTextEnabled=18;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#helperTextTextAppearance}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#helperTextTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17110,31 +17110,31 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:helperTextTextAppearance
+     * @attr name com.parentctrl.androidapp.childtrack:helperTextTextAppearance
      */
     public static final int TextInputLayout_helperTextTextAppearance=19;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#hintAnimationEnabled}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#hintAnimationEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:hintAnimationEnabled
+     * @attr name com.parentctrl.androidapp.childtrack:hintAnimationEnabled
      */
     public static final int TextInputLayout_hintAnimationEnabled=20;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#hintEnabled}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#hintEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:hintEnabled
+     * @attr name com.parentctrl.androidapp.childtrack:hintEnabled
      */
     public static final int TextInputLayout_hintEnabled=21;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#hintTextAppearance}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#hintTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17142,21 +17142,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:hintTextAppearance
+     * @attr name com.parentctrl.androidapp.childtrack:hintTextAppearance
      */
     public static final int TextInputLayout_hintTextAppearance=22;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#passwordToggleContentDescription}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#passwordToggleContentDescription}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:passwordToggleContentDescription
+     * @attr name com.parentctrl.androidapp.childtrack:passwordToggleContentDescription
      */
     public static final int TextInputLayout_passwordToggleContentDescription=23;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#passwordToggleDrawable}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#passwordToggleDrawable}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17164,32 +17164,32 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:passwordToggleDrawable
+     * @attr name com.parentctrl.androidapp.childtrack:passwordToggleDrawable
      */
     public static final int TextInputLayout_passwordToggleDrawable=24;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#passwordToggleEnabled}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#passwordToggleEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:passwordToggleEnabled
+     * @attr name com.parentctrl.androidapp.childtrack:passwordToggleEnabled
      */
     public static final int TextInputLayout_passwordToggleEnabled=25;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#passwordToggleTint}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#passwordToggleTint}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:passwordToggleTint
+     * @attr name com.parentctrl.androidapp.childtrack:passwordToggleTint
      */
     public static final int TextInputLayout_passwordToggleTint=26;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#passwordToggleTintMode}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#passwordToggleTintMode}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -17205,7 +17205,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:passwordToggleTintMode
+     * @attr name com.parentctrl.androidapp.childtrack:passwordToggleTintMode
      */
     public static final int TextInputLayout_passwordToggleTintMode=27;
     /**
@@ -17216,8 +17216,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ThemeEnforcement_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ThemeEnforcement_enforceMaterialTheme com.mansourappdevelopment.androidapp.kidsafe:enforceMaterialTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ThemeEnforcement_enforceTextAppearance com.mansourappdevelopment.androidapp.kidsafe:enforceTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ThemeEnforcement_enforceMaterialTheme com.parentctrl.androidapp.childtrack:enforceMaterialTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ThemeEnforcement_enforceTextAppearance com.parentctrl.androidapp.childtrack:enforceTextAppearance}</code></td><td></td></tr>
      * </table>
      * @see #ThemeEnforcement_android_textAppearance
      * @see #ThemeEnforcement_enforceMaterialTheme
@@ -17239,23 +17239,23 @@ public final class R {
      */
     public static final int ThemeEnforcement_android_textAppearance=0;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#enforceMaterialTheme}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#enforceMaterialTheme}
      * attribute's value can be found in the {@link #ThemeEnforcement} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:enforceMaterialTheme
+     * @attr name com.parentctrl.androidapp.childtrack:enforceMaterialTheme
      */
     public static final int ThemeEnforcement_enforceMaterialTheme=1;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#enforceTextAppearance}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#enforceTextAppearance}
      * attribute's value can be found in the {@link #ThemeEnforcement} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:enforceTextAppearance
+     * @attr name com.parentctrl.androidapp.childtrack:enforceTextAppearance
      */
     public static final int ThemeEnforcement_enforceTextAppearance=2;
     /**
@@ -17267,40 +17267,40 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_buttonGravity com.mansourappdevelopment.androidapp.kidsafe:buttonGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.mansourappdevelopment.androidapp.kidsafe:collapseContentDescription}</code></td><td>Text to set as the content description for the collapse button.</td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseIcon com.mansourappdevelopment.androidapp.kidsafe:collapseIcon}</code></td><td>Icon drawable to use for the collapse button.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.mansourappdevelopment.androidapp.kidsafe:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.mansourappdevelopment.androidapp.kidsafe:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
+     * <tr><td><code>{@link #Toolbar_buttonGravity com.parentctrl.androidapp.childtrack:buttonGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.parentctrl.androidapp.childtrack:collapseContentDescription}</code></td><td>Text to set as the content description for the collapse button.</td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseIcon com.parentctrl.androidapp.childtrack:collapseIcon}</code></td><td>Icon drawable to use for the collapse button.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.parentctrl.androidapp.childtrack:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.parentctrl.androidapp.childtrack:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
      * are present.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.mansourappdevelopment.androidapp.kidsafe:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetRight com.mansourappdevelopment.androidapp.kidsafe:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStart com.mansourappdevelopment.androidapp.kidsafe:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.mansourappdevelopment.androidapp.kidsafe:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
+     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.parentctrl.androidapp.childtrack:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetRight com.parentctrl.androidapp.childtrack:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStart com.parentctrl.androidapp.childtrack:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.parentctrl.androidapp.childtrack:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
      * is present, such as the Up button.</td></tr>
-     * <tr><td><code>{@link #Toolbar_logo com.mansourappdevelopment.androidapp.kidsafe:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
-     * <tr><td><code>{@link #Toolbar_logoDescription com.mansourappdevelopment.androidapp.kidsafe:logoDescription}</code></td><td>A content description string to describe the appearance of the
+     * <tr><td><code>{@link #Toolbar_logo com.parentctrl.androidapp.childtrack:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
+     * <tr><td><code>{@link #Toolbar_logoDescription com.parentctrl.androidapp.childtrack:logoDescription}</code></td><td>A content description string to describe the appearance of the
      * associated logo image.</td></tr>
-     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.mansourappdevelopment.androidapp.kidsafe:maxButtonHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.mansourappdevelopment.androidapp.kidsafe:navigationContentDescription}</code></td><td>Text to set as the content description for the navigation button
+     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.parentctrl.androidapp.childtrack:maxButtonHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.parentctrl.androidapp.childtrack:navigationContentDescription}</code></td><td>Text to set as the content description for the navigation button
      * located at the start of the toolbar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationIcon com.mansourappdevelopment.androidapp.kidsafe:navigationIcon}</code></td><td>Icon drawable to use for the navigation button located at
+     * <tr><td><code>{@link #Toolbar_navigationIcon com.parentctrl.androidapp.childtrack:navigationIcon}</code></td><td>Icon drawable to use for the navigation button located at
      * the start of the toolbar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_popupTheme com.mansourappdevelopment.androidapp.kidsafe:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #Toolbar_popupTheme com.parentctrl.androidapp.childtrack:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitle com.mansourappdevelopment.androidapp.kidsafe:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.mansourappdevelopment.androidapp.kidsafe:subtitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.mansourappdevelopment.androidapp.kidsafe:subtitleTextColor}</code></td><td>A color to apply to the subtitle string.</td></tr>
-     * <tr><td><code>{@link #Toolbar_title com.mansourappdevelopment.androidapp.kidsafe:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargin com.mansourappdevelopment.androidapp.kidsafe:titleMargin}</code></td><td>Specifies extra space on the left, start, right and end sides
+     * <tr><td><code>{@link #Toolbar_subtitle com.parentctrl.androidapp.childtrack:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.parentctrl.androidapp.childtrack:subtitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.parentctrl.androidapp.childtrack:subtitleTextColor}</code></td><td>A color to apply to the subtitle string.</td></tr>
+     * <tr><td><code>{@link #Toolbar_title com.parentctrl.androidapp.childtrack:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargin com.parentctrl.androidapp.childtrack:titleMargin}</code></td><td>Specifies extra space on the left, start, right and end sides
      * of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.mansourappdevelopment.androidapp.kidsafe:titleMarginBottom}</code></td><td>Specifies extra space on the bottom side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.mansourappdevelopment.androidapp.kidsafe:titleMarginEnd}</code></td><td>Specifies extra space on the end side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginStart com.mansourappdevelopment.androidapp.kidsafe:titleMarginStart}</code></td><td>Specifies extra space on the start side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginTop com.mansourappdevelopment.androidapp.kidsafe:titleMarginTop}</code></td><td>Specifies extra space on the top side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargins com.mansourappdevelopment.androidapp.kidsafe:titleMargins}</code></td><td>{@deprecated Use titleMargin}</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.mansourappdevelopment.androidapp.kidsafe:titleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextColor com.mansourappdevelopment.androidapp.kidsafe:titleTextColor}</code></td><td>A color to apply to the title string.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.parentctrl.androidapp.childtrack:titleMarginBottom}</code></td><td>Specifies extra space on the bottom side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.parentctrl.androidapp.childtrack:titleMarginEnd}</code></td><td>Specifies extra space on the end side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginStart com.parentctrl.androidapp.childtrack:titleMarginStart}</code></td><td>Specifies extra space on the start side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginTop com.parentctrl.androidapp.childtrack:titleMarginTop}</code></td><td>Specifies extra space on the top side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargins com.parentctrl.androidapp.childtrack:titleMargins}</code></td><td>{@deprecated Use titleMargin}</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.parentctrl.androidapp.childtrack:titleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextColor com.parentctrl.androidapp.childtrack:titleTextColor}</code></td><td>A color to apply to the title string.</td></tr>
      * </table>
      * @see #Toolbar_android_gravity
      * @see #Toolbar_android_minHeight
@@ -17386,7 +17386,7 @@ public final class R {
      */
     public static final int Toolbar_android_minHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#buttonGravity}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#buttonGravity}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -17399,7 +17399,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Push object to the top of its container, not changing its size.</td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:buttonGravity
+     * @attr name com.parentctrl.androidapp.childtrack:buttonGravity
      */
     public static final int Toolbar_buttonGravity=2;
     /**
@@ -17410,7 +17410,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:collapseContentDescription
+     * @attr name com.parentctrl.androidapp.childtrack:collapseContentDescription
      */
     public static final int Toolbar_collapseContentDescription=3;
     /**
@@ -17423,7 +17423,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:collapseIcon
+     * @attr name com.parentctrl.androidapp.childtrack:collapseIcon
      */
     public static final int Toolbar_collapseIcon=4;
     /**
@@ -17438,7 +17438,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:contentInsetEnd
+     * @attr name com.parentctrl.androidapp.childtrack:contentInsetEnd
      */
     public static final int Toolbar_contentInsetEnd=5;
     /**
@@ -17453,7 +17453,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:contentInsetEndWithActions
+     * @attr name com.parentctrl.androidapp.childtrack:contentInsetEndWithActions
      */
     public static final int Toolbar_contentInsetEndWithActions=6;
     /**
@@ -17468,7 +17468,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:contentInsetLeft
+     * @attr name com.parentctrl.androidapp.childtrack:contentInsetLeft
      */
     public static final int Toolbar_contentInsetLeft=7;
     /**
@@ -17483,7 +17483,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:contentInsetRight
+     * @attr name com.parentctrl.androidapp.childtrack:contentInsetRight
      */
     public static final int Toolbar_contentInsetRight=8;
     /**
@@ -17498,7 +17498,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:contentInsetStart
+     * @attr name com.parentctrl.androidapp.childtrack:contentInsetStart
      */
     public static final int Toolbar_contentInsetStart=9;
     /**
@@ -17513,7 +17513,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:contentInsetStartWithNavigation
+     * @attr name com.parentctrl.androidapp.childtrack:contentInsetStartWithNavigation
      */
     public static final int Toolbar_contentInsetStartWithNavigation=10;
     /**
@@ -17527,7 +17527,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:logo
+     * @attr name com.parentctrl.androidapp.childtrack:logo
      */
     public static final int Toolbar_logo=11;
     /**
@@ -17539,11 +17539,11 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:logoDescription
+     * @attr name com.parentctrl.androidapp.childtrack:logoDescription
      */
     public static final int Toolbar_logoDescription=12;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#maxButtonHeight}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#maxButtonHeight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17552,7 +17552,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:maxButtonHeight
+     * @attr name com.parentctrl.androidapp.childtrack:maxButtonHeight
      */
     public static final int Toolbar_maxButtonHeight=13;
     /**
@@ -17564,7 +17564,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:navigationContentDescription
+     * @attr name com.parentctrl.androidapp.childtrack:navigationContentDescription
      */
     public static final int Toolbar_navigationContentDescription=14;
     /**
@@ -17578,7 +17578,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:navigationIcon
+     * @attr name com.parentctrl.androidapp.childtrack:navigationIcon
      */
     public static final int Toolbar_navigationIcon=15;
     /**
@@ -17592,7 +17592,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:popupTheme
+     * @attr name com.parentctrl.androidapp.childtrack:popupTheme
      */
     public static final int Toolbar_popupTheme=16;
     /**
@@ -17603,11 +17603,11 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:subtitle
+     * @attr name com.parentctrl.androidapp.childtrack:subtitle
      */
     public static final int Toolbar_subtitle=17;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#subtitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#subtitleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17615,7 +17615,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:subtitleTextAppearance
+     * @attr name com.parentctrl.androidapp.childtrack:subtitleTextAppearance
      */
     public static final int Toolbar_subtitleTextAppearance=18;
     /**
@@ -17627,17 +17627,17 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:subtitleTextColor
+     * @attr name com.parentctrl.androidapp.childtrack:subtitleTextColor
      */
     public static final int Toolbar_subtitleTextColor=19;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#title}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:title
+     * @attr name com.parentctrl.androidapp.childtrack:title
      */
     public static final int Toolbar_title=20;
     /**
@@ -17652,7 +17652,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:titleMargin
+     * @attr name com.parentctrl.androidapp.childtrack:titleMargin
      */
     public static final int Toolbar_titleMargin=21;
     /**
@@ -17668,7 +17668,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:titleMarginBottom
+     * @attr name com.parentctrl.androidapp.childtrack:titleMarginBottom
      */
     public static final int Toolbar_titleMarginBottom=22;
     /**
@@ -17684,7 +17684,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:titleMarginEnd
+     * @attr name com.parentctrl.androidapp.childtrack:titleMarginEnd
      */
     public static final int Toolbar_titleMarginEnd=23;
     /**
@@ -17700,7 +17700,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:titleMarginStart
+     * @attr name com.parentctrl.androidapp.childtrack:titleMarginStart
      */
     public static final int Toolbar_titleMarginStart=24;
     /**
@@ -17716,7 +17716,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:titleMarginTop
+     * @attr name com.parentctrl.androidapp.childtrack:titleMarginTop
      */
     public static final int Toolbar_titleMarginTop=25;
     /**
@@ -17730,12 +17730,12 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:titleMargins
+     * @attr name com.parentctrl.androidapp.childtrack:titleMargins
      */
     @Deprecated
     public static final int Toolbar_titleMargins=26;
     /**
-     * <p>This symbol is the offset where the {@link com.mansourappdevelopment.androidapp.kidsafe.R.attr#titleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.parentctrl.androidapp.childtrack.R.attr#titleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17743,7 +17743,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:titleTextAppearance
+     * @attr name com.parentctrl.androidapp.childtrack:titleTextAppearance
      */
     public static final int Toolbar_titleTextAppearance=27;
     /**
@@ -17755,7 +17755,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:titleTextColor
+     * @attr name com.parentctrl.androidapp.childtrack:titleTextColor
      */
     public static final int Toolbar_titleTextColor=28;
     /**
@@ -17767,9 +17767,9 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
      * <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingEnd com.mansourappdevelopment.androidapp.kidsafe:paddingEnd}</code></td><td>Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}.</td></tr>
-     * <tr><td><code>{@link #View_paddingStart com.mansourappdevelopment.androidapp.kidsafe:paddingStart}</code></td><td>Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}.</td></tr>
-     * <tr><td><code>{@link #View_theme com.mansourappdevelopment.androidapp.kidsafe:theme}</code></td><td>Deprecated.</td></tr>
+     * <tr><td><code>{@link #View_paddingEnd com.parentctrl.androidapp.childtrack:paddingEnd}</code></td><td>Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}.</td></tr>
+     * <tr><td><code>{@link #View_paddingStart com.parentctrl.androidapp.childtrack:paddingStart}</code></td><td>Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}.</td></tr>
+     * <tr><td><code>{@link #View_theme com.parentctrl.androidapp.childtrack:theme}</code></td><td>Deprecated.</td></tr>
      * </table>
      * @see #View_android_theme
      * @see #View_android_focusable
@@ -17831,7 +17831,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:paddingEnd
+     * @attr name com.parentctrl.androidapp.childtrack:paddingEnd
      */
     public static final int View_paddingEnd=2;
     /**
@@ -17845,7 +17845,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:paddingStart
+     * @attr name com.parentctrl.androidapp.childtrack:paddingStart
      */
     public static final int View_paddingStart=3;
     /**
@@ -17858,7 +17858,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:theme
+     * @attr name com.parentctrl.androidapp.childtrack:theme
      */
     public static final int View_theme=4;
     /**
@@ -17869,8 +17869,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.mansourappdevelopment.androidapp.kidsafe:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.mansourappdevelopment.androidapp.kidsafe:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.parentctrl.androidapp.childtrack:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.parentctrl.androidapp.childtrack:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
      * </table>
      * @see #ViewBackgroundHelper_android_background
      * @see #ViewBackgroundHelper_backgroundTint
@@ -17903,7 +17903,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:backgroundTint
+     * @attr name com.parentctrl.androidapp.childtrack:backgroundTint
      */
     public static final int ViewBackgroundHelper_backgroundTint=1;
     /**
@@ -17930,7 +17930,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.mansourappdevelopment.androidapp.kidsafe:backgroundTintMode
+     * @attr name com.parentctrl.androidapp.childtrack:backgroundTintMode
      */
     public static final int ViewBackgroundHelper_backgroundTintMode=2;
     /**

@@ -1,1 +1,1 @@
-com.mansourappdevelopment.androidapp.kidsafe.test
+com.parentctrl.androidapp.childtrack.test
